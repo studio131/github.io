@@ -1,0 +1,583 @@
+@charset "UTF-8";
+/*----------------------------------------------------------------------------*/
+#t-spark_top {
+    background-color: black;
+}
+
+img {
+    width: 100%;
+}
+#t-spark_top p {
+    font-size: 18px;
+}
+#t-spark_top h3 {
+    font-size: 25px;
+    font-weight: bold;
+}
+/*TOP*/
+#t-spark_top #brand_detail #top {
+    margin-bottom: 7%;
+    background-color: #252020;
+}
+
+#t-spark_top #brand_detail #top .icon {
+    position: relative;
+    z-index: 1;
+}
+
+#t-spark_top #brand_detail #top .bg-illust {
+    width: 40%;
+    position: absolute;
+    z-index: 0;
+    left: 0;
+    right: -30%;
+    margin: -2% auto 0 auto;
+}
+
+#t-spark_top #brand_detail #top .lead {
+    position: absolute;
+    z-index: 1;
+}
+
+#t-spark_top #brand_detail #top .caption {
+    position: absolute;
+    z-index: 1;
+    margin-top: 8%;
+    width: 35%;
+}
+
+/*STORY*/
+#t-spark_top #brand_detail #story {
+    width: 100%;
+    height: auto;
+    position: relative;
+    background: url("../_image/metamor_BG01.png") center top no-repeat;
+    background-size: 100%;
+}
+
+#t-spark_top #story .story-I1 {
+    top: 17%;
+    z-index: 0;
+    position: absolute;  
+    width: 50%;
+}
+#t-spark_top #story .story-I2 {
+    top: 48%;
+    right: 0;
+    z-index: 0;
+    position: absolute;
+    width: 65%;
+}
+
+#t-spark_top #story .story-text {
+    width: 65%;
+    margin: 0 auto;
+    padding-top: 6%;
+}
+#t-spark_top #story .story-brock1 {
+    width: 44%;
+    left: 51%;
+    position: relative;
+    margin: 6% 0 5% 0;
+}
+#t-spark_top #story .story-logo {
+    width: 45%;
+    margin: 0 auto;
+    padding-bottom: 3%;
+}
+#t-spark_top #story .story-brock1 img {
+    margin-bottom: 2%;
+}
+#t-spark_top #story .story-brock2 {
+    width: 35%;
+    left: 8%;
+    position: relative;
+    margin: 0;
+    padding-bottom: 25%;
+}
+#t-spark_top #story .story-text2 {
+    width: 100%;
+}
+
+/*ABOUT*/
+#t-spark_top #about {
+    margin-top: -14%;
+    padding-bottom: 8%;
+}
+#t-spark_top #about .about-bg {
+    z-index: 0;
+    position: absolute;  
+    width: 130%;
+    left: -2%;
+}
+
+#t-spark_top #about .about-image {
+    width: 40%;
+    left: 6%;
+    position: absolute;
+    z-index: 1;
+}
+#t-spark_top #about .about-text {
+    width: 125%;
+    right: 0;
+    position: absolute;
+}
+
+#t-spark_top #about .about-Description {
+    position: relative;
+    padding-top: 5%;
+    width: 54%;
+    left: 50%;
+}
+#t-spark_top #about .about-Description h3 {
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10% 0 2% 0;
+}
+#t-spark_top #about .about-Description p {
+    width: 80%;
+}
+
+/*EXPLANATION*/
+#t-spark_top #explanation {
+    width: 100%;
+    height: auto;
+    position: relative;
+    background: url("../_image/metamor_BG02.png") center top no-repeat;
+    background-size: 100%;
+    padding-bottom: 10%;
+}
+#t-spark_top #explanation .story-I3 {
+    top: 5%;
+    z-index: 0;
+    position: absolute;  
+    width: 62%;
+    right: 0;
+}
+#t-spark_top #explanation .story-I4 {
+    top: 48%;
+    left: 0;
+    z-index: 0;
+    position: absolute;
+    width: 68%;
+}
+#t-spark_top #explanation .explanation1 {
+    width: 32%;
+    padding-top: 15%;
+    margin-left: 12%;
+}
+#t-spark_top #explanation .explanation-text1 {
+    float: left;
+    width: 14%;
+    margin-right: 8%;
+}
+#t-spark_top #explanation .explanation-p1 {
+    width: 85%;
+    padding-top: 25%;
+}
+#t-spark_top #explanation .explanation2{
+    padding-top: 10%;
+    left: 65%;
+    width: 32%;
+    position: relative;
+}
+#t-spark_top #explanation .explanation-text2 {
+    width: 14%;
+    margin: 0 auto;
+}
+#t-spark_top #explanation .explanation-p2 {
+    width: 75%;
+    padding-top: 10%;
+    margin: 0 auto;
+    padding-bottom: 10%;
+}
+
+/*CARACTER*/
+#t-spark_top #caracter {
+    width: 100%;
+    height: auto;
+    position: relative;
+    background: url("../_image/metamor_BG03.png") center no-repeat;
+    background-size: 100%;
+    padding-bottom: 5%;
+}
+#t-spark_top #caracter .cara-text {
+    position: relative;
+    left: 50%;
+    padding-top: 5%;
+    padding-left: 2%;
+}
+#t-spark_top #caracter .cara-text img {
+    width: 40%;
+    margin-bottom: 3%;
+}
+#t-spark_top #caracter .cara-text p {
+    width: 42%;
+}
+
+/*LINE-UP*/
+#t-spark_top #line-up {
+    width: 100%;
+    height: auto;
+    background: url("../_image/metamor_BG04.png") center top no-repeat;
+    background-size: 100%;
+    padding-bottom: 30%;
+}
+
+/*レスポンシブ*/
+@media screen and (min-width: 1815px) {
+    #t-spark_top #about {
+        padding-bottom: 15%;
+    }
+
+    #t-spark_top #explanation .explanation2 {
+        padding-top: 20%;
+    }
+
+    #t-spark_top #caracter {
+        padding-bottom: 15%;
+    }
+}
+
+@media screen and (max-width: 1215px) {
+    #t-spark_top #explanation .explanation-p1 {
+        width: 100%;
+    }
+    #t-spark_top #explanation .explanation1 {
+        width: 35%;
+        margin-left: 10%;
+    }
+    #t-spark_top #about .about-Description {
+        padding-top: 2%;
+    }
+}
+
+@media screen and (max-width: 1150px) {
+    #t-spark_top #story .story-brock2 {
+        left: 5%;
+    }
+    #t-spark_top #caracter .cara-text p {
+        width: 47%;
+    }
+}
+
+@media screen and (max-width: 1025px) {
+    #t-spark_top #brand_detail #top {
+        margin-bottom: 0;
+        padding-bottom: 25%;
+    }
+    #t-spark_top #brand_detail #top .lead {
+        left: 14%;
+    }
+    #t-spark_top #brand_detail #top .caption {
+        width: 80%;
+        left: 14%;
+    }
+    #t-spark_top #brand_detail #story {
+        background-size: 125%;
+    }
+    #t-spark_top #about {
+        margin-top: -21%;
+    }
+    #t-spark_top #explanation {
+        background-size: 120%;
+    }
+    #t-spark_top #explanation .explanation-p1 {
+        padding-top: 23%;
+    }
+    #t-spark_top #caracter {
+        background-size: 120%;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+        #t-spark_top p {
+        font-size: 13px;
+    }
+#t-spark_top #brand_detail #top .lead {
+        font-size: 2.4vw;
+        left: 14%;
+        margin-top: 3%;
+    }
+    #t-spark_top #brand_detail #top .caption {
+        margin-top: 13%;
+        width: 75%;
+        left: 14%;
+    }
+    #t-spark_top #brand_detail #story {
+        background: url("../_image/metamor_BG01.png") center top no-repeat;
+        background-size: 160%;
+    }    
+    #t-spark_top #story .story-text {
+        padding-top: 4%;
+    }
+    #t-spark_top #story .story-I1 {
+        position: static;
+        width: 60%;
+        margin: 0 auto;
+    }
+    #t-spark_top #story .story-I2 {
+        position: static;
+        width: 60%;
+        margin: 0 15%;
+        padding-bottom: 12%;
+    }
+    #t-spark_top #story .story-brock1 {
+        width: 80%;
+        left: 0;
+        margin: 0 auto;
+        padding-bottom: 2%;
+    }
+    #t-spark_top #story .story-logo {
+        width: 30%;
+        padding-bottom: 1%;
+    }
+    #t-spark_top #story .story-brock2 {
+        width: 80%;
+        left: 0;
+        margin: 0 auto;
+        padding-bottom: 0;
+    }
+    #t-spark_top #story .story-text2 {
+        width: 50%;
+        margin: 0 auto;
+    }
+    #t-spark_top #about {
+        margin-top: -10%;
+    }
+    #t-spark_top #about .about-bg {
+        width: 240%;
+        margin-top: -2%;
+    }
+    #t-spark_top #about .about-image {
+        width: 70%;
+        left: 13%;
+    }
+    #t-spark_top #about .about-Description {
+        padding-top: 65%;
+        position: static;
+        width: 80%;
+        margin: 0 auto;
+    }
+    #t-spark_top #about .about-Description p {
+        width: 100%;
+    }
+    #t-spark_top #explanation {
+        background: url("../_image/metamor_BG02.png") center top no-repeat;
+        background-size: 150%;
+        padding-bottom: 10%;
+    }
+    #t-spark_top #explanation .story-I3 {
+        width: 75%;
+    }
+    #t-spark_top #explanation .explanation1 {
+        width: 45%;
+        padding-top: 8%;
+    }
+    #t-spark_top #explanation .explanation-p1 {
+        padding-top: 110%;
+        width: 165%;
+        padding-left: 20%;
+    }
+    #t-spark_top #explanation .story-I4 {
+        width: 75%;
+        top: 49%;
+    }
+    #t-spark_top #explanation .explanation2 {
+        left: 60%;
+        width: 52%;
+    }
+    #t-spark_top #explanation .explanation-p2 {
+        padding-top: 35%;
+        width: 90%;
+        left: -70%;
+        position: relative;
+    }
+    #t-spark_top #caracter {
+        background: url("../_image/metamor_BG03.png") left top no-repeat;
+        background-size: 160%;    
+    }
+    #t-spark_top #caracter .cara-text {
+        margin: 0 auto;
+        width: 75%;
+        position: static;
+        left: 0;
+        padding-top: 70%;
+    }
+    #t-spark_top #caracter .cara-text p {
+        width: 100%;
+    }
+    #t-spark_top #caracter .cara-text img {
+        width: 70%;
+    }
+}
+@media screen and (max-width: 850px) {
+    #t-spark_top #brand_detail #top {
+        padding-bottom: 25%;
+    }
+    #t-spark_top #brand_detail dl dt {
+        margin: 0;
+        margin-left: 3%;
+    }
+    #t-spark_top #brand_detail #top .icon {
+        margin-left: 28%;
+    }
+    #t-spark_top #brand_detail #top .lead {
+        margin-top: 5%;
+    }
+}
+@media screen and (max-width: 685px) {
+    #t-spark_top #brand_detail #top {
+        margin-bottom: 0;
+        padding-bottom: 30%;
+    }
+    #t-spark_top #brand_detail #story {
+        background-size: 170%;
+    }
+    #t-spark_top #explanation {
+        background-size: 180%;
+        padding-bottom: 10%;
+    }
+}
+
+@media screen and (max-width: 685px) {
+    #t-spark_top #brand_detail #top {
+        padding-bottom: 35%;
+    }
+}
+
+/*SP*/
+@media screen and (max-width: 430px) {
+    #t-spark_top p {
+        font-size: 12px;
+    }
+    #t-spark_top #brand_detail #top {
+        padding-bottom: 50%;
+        margin-bottom: 0;
+    }
+    #t-spark_top #brand_detail #story {
+        background-size: 250%;
+    }
+    #t-spark_top #story .story-logo {
+        width: 45%;
+    }
+    #t-spark_top #story .story-text {
+        width: 85%;
+    }
+    #t-spark_top #story .story-text2 {
+        width: 90%;
+    }
+    #t-spark_top #story .story-I1 {
+        width: 80%;
+    }
+    #t-spark_top #story .story-I2 {
+        width: 80%;
+        margin: 0 6%;
+    }
+    #t-spark_top #about .about-Description h3 {
+        font-size: 17px;
+    }
+    #t-spark_top #caracter .cara-text img {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 430px) {
+    #t-spark_top #brand_detail #story {
+        background-size: 280%;
+    }
+    #t-spark_top #about .about-Description h3 {
+        font-size: 15px;
+    }
+    #t-spark_top #explanation .explanation-p1 {
+        width: 180%;
+        padding-left: 2%;
+    }
+    #t-spark_top #explanation .explanation-p2 {
+        width: 145%;
+        left: -95%;
+    }
+}
+@media screen and (max-width: 430px) {
+    #t-spark_top #brand_detail #top .lead {
+        font-size: 4.4vw;
+        margin-top: 85%;
+    }
+    #t-spark_top #brand_detail #top .caption {
+        margin-top: 100%;
+    }
+    #t-spark_top #brand_detail #story {
+        background-size: 350%;
+    }
+    #t-spark_top #story .story-text {
+        width: 95%;
+    }
+    #t-spark_top #story .story-I1 {
+        width: 90%;
+        left: 3%;
+        position: relative;
+    }
+    #t-spark_top #story .story-logo {
+        width: 55%;
+    }
+    #t-spark_top #story .story-text2 {
+        width: 100%;
+        margin: 5% auto;
+    }
+    #t-spark_top #about .about-text {
+        width: 140%;
+    }
+    #t-spark_top #explanation {
+        background-size: 200%;
+    }
+    #t-spark_top #explanation .story-I3 {
+        width: 80%;
+    }
+    #t-spark_top #explanation .explanation-p1 {
+        padding-top: 120%;
+    }
+    #t-spark_top #explanation .story-I4 {
+        width: 80%;
+        top: 52%;
+    }
+}
+
+@media screen and (max-width: 430px) {
+    #t-spark_top #brand_detail #top {
+        padding-bottom: 55%;
+    }
+    #t-spark_top #brand_detail #top .icon {
+        width: 90%;
+        margin-left: 20%;
+    }
+    #t-spark_top #brand_detail #top .lead {
+        margin-top: 8%;
+    }
+    #t-spark_top #brand_detail #top .caption {
+        margin-top: 25%;
+    }
+}
+@media screen and (max-width: 380px) {
+    #t-spark_top #brand_detail #top {
+        padding-bottom: 60%;
+    }
+    #t-spark_top #brand_detail #top .icon {
+        width: 90%;
+    }
+    #t-spark_top #about .about-bg {
+        width: 233%;
+    }
+}
+@media screen and (max-width: 330px) {
+    #t-spark_top #brand_detail #top {
+        padding-bottom: 65%;
+    }
+    #t-spark_top #brand_detail #top .icon {
+        width: 90%;
+    }
+    #t-spark_top #brand_detail #top .lead {
+        margin-top: 5%;
+    }
+    #t-spark_top #brand_detail #top .caption {
+        margin-top: 25%;
+    }
+}

@@ -1,0 +1,467 @@
+@charset "UTF-8";
+/*----------------------------------------------------------------------------*/
+
+
+/* MENU */
+ul.menu__second-level{display:flex;justify-content: center;padding:20px 0;width:100%;background:#000;}
+ul.menu__second-level li{width:220px!important;font-size: 0.8rem;font-weight:normal;color:#FFF;}
+
+* {
+  box-sizing: border-box;
+}
+/*PC設定*/
+.pc {
+  display: block;
+}
+.sp {
+  display: none;
+}
+body {
+  font-family: "source-han-sans-japanese", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 1.6;
+  background-color: #e5e5e5;
+  text-align: left;
+}
+
+img {
+  max-width: 100%;
+}
+#zoids_top {
+  width: 100%;
+  margin: 0 auto 100px;
+  background: url(_image/slider_bg.svg) no-repeat bottom -300px right;
+}
+
+#zoids_top h1,#zoids_under h1{background: #da174b;
+padding: 5px 0 2px;margin-bottom:20px;
+font-size: 14px;
+color: #000;
+text-align: center;}
+
+#zoids_top #logo {
+  max-width: 420px;
+  margin: 0 auto 60px;
+  padding: auto;
+}
+.txt_c {
+  text-align: center;
+}
+
+/* ナビ ********************************/
+.zoids_nav {
+  max-width: 1100px;
+  margin: 60px auto;
+}
+.zoids_nav ul {
+  display: flex;
+    justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+.zoids_nav ul li {
+  width: 180px;
+  margin: 0 3px;
+  height: 65px;
+}
+
+.zoids_nav ul li dl {
+  display: flex;
+}
+
+.zoids_nav ul li dl dt,
+.zoids_nav ul li dl dd {
+  width: 50%;
+  padding: 8px 0 0 0;
+}
+.zoids_nav ul li dl img {
+  width: 100%;
+  height: 40px;
+}
+/* スライダー ********************************/
+
+.zoids_slide {
+  margin: 0 auto 100px;
+  max-width: 1280px;
+  height: auto;
+}
+.zoids_slide_inner {
+  max-width: 1280px;
+  width: auto;
+  padding-left: 0;
+}
+.zoids_slide_inner img {
+  width: 100%;
+}
+
+/* dots */
+.slick-dots {
+justify-content: center;
+  display: flex;
+}
+.slick-dots li,
+.slick-dots li button,
+.slick-dots li button::before {
+  width: 10px;
+  height: 10px;
+}
+.slick-dots li {
+  margin: 0 8px;
+  display: block;
+}
+.slick-dots li button {
+  background-color: #b2b2b2;
+  opacity: 0.8;
+  border-radius: 100%;
+}
+.slick-dots li.slick-active button {
+  background-color: #666666;
+  opacity: 1;
+}
+.slick-dots li button::before {
+  content: "";
+}
+.slick-dots li.slick-active button:before {
+}
+
+/* バナー下注意 */
+.attention_text {
+  background-color: #da174b;
+  color: #fff;
+  padding: 10px 100px;
+  text-align: center;
+}
+
+.mb-100px {
+  margin-bottom: 100px;
+}
+
+.attention_text:hover {
+  text-decoration: underline;
+}
+
+/* コンテンツ ********************************/
+.zoids_contents {
+  overflow: hidden;
+  width: 100%;
+  background: linear-gradient(180deg, transparent 0, transparent 45px, #fff 45px, #fff 75px, #e5e5e5 75px);
+  margin-bottom: 100px;
+  color: #333;
+  padding-right: 40px;
+}
+.zoids_contents_inner {
+  max-width: 1120px;
+  margin: 0 auto;
+  background: url(_image/inner_bg.png) no-repeat left center;
+  padding-left: 40px;
+}
+.ttl h2 {
+  font-family: "bebas-neue-pro-expanded", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 80px;
+  line-height: 1;
+}
+.top_list ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.top_list ul li {
+  width: 24%;
+  margin-right: 1.333%;
+  margin-bottom: 2%;
+}
+.top_list ul li:nth-of-type(4n) {
+  margin-right: 0;
+}
+.top_list ul li img {
+  border: 1px solid #808080;
+}
+.ttl {
+  margin-bottom: 20px;
+}
+.h2_read {
+  font-size: 20px;
+}
+.h2_read_hash {
+  font-size: 18px;
+  margin-top: 8px;
+}
+.h2_read_hash {
+  margin-top: 30px;
+}
+.top_list_txt {
+  font-size: 0.8rem;
+  margin: 10px auto 5px;
+  font-weight: normal;
+}
+.top_list_day {
+  color: #999;
+  font-size: 0.8rem;
+  font-family: "bebas-neue-pro-expanded", sans-serif;
+}
+.top_btn {
+  width: 530px;
+  height: 50px;
+  background: url(_image/top_btn.svg);
+  margin: 40px auto 0;
+}
+.top_btn a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+#zoids_under{width:100%;background:#f7faff;padding-bottom:50px;}
+#zoids_under .inner1{width:1200px;margin:0 auto;}
+.mov{width:900px;margin:50px auto;}
+.youtube {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%;
+  box-sizing: border-box;
+}
+
+.youtube iframe {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+
+/* SP ********************************/
+/* SP ********************************/
+/* SP ********************************/
+@media screen and (max-width: 1199px) {
+      .sp {
+    display: block;
+  }
+  .pc {
+    display: none;
+  }
+  #zoids_top {
+    width: 100%;
+    margin: 0 auto;
+    background: url(_image/slider_bg_sp.svg) no-repeat bottom right -100px;
+    background-size: 40%;
+    padding-bottom: 20%;
+    overflow: hidden;
+  }
+
+  /* ナビ ********************************/
+    .zoids_nav ul li:first-child {
+  text-align: center;margin-right:0px;
+}
+  .zoids_nav {
+    width: 90%;
+    margin: 60px auto;
+  }
+  .zoids_nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+  }
+  .zoids_nav ul li {
+    width: 31.33%;
+    margin: 2% 1%;
+    height: auto;
+  }
+
+  .zoids_nav ul li dl {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .zoids_nav ul li dl img {
+    width: 100%;
+    height: auto;
+  }
+  .zoids_nav ul li dl dt,
+  .zoids_nav ul li dl dd {
+    width: 50%;
+    padding: 0 10%;
+  }
+
+  /* スライダー ********************************/
+
+  .zoids_slide {
+    width: 100%;
+    margin: 0 auto 200px;
+  }
+  .zoids_slide_inner {
+    max-width: 1180px;
+    width: auto;
+  }
+
+  /* dots */
+  .slick-dots {
+    width: 100%;
+    bottom: -100px;
+    right: 0;
+    display: flex;
+  }
+
+  .slick-dots li {
+    margin: 16px;
+  }
+
+  /* コンテンツ ********************************/
+  .mt-20 {
+    margin-top: -20%;
+  }
+  .zoids_contents {
+    width: 100%;
+    background: linear-gradient(180deg, transparent 0, transparent 45px, #fff 45px, #fff 75px, #e5e5e5 75px);
+    margin-bottom: 100px;
+    color: #333;
+    padding-right: 40px;
+    padding-left: 10%;
+  }
+
+  .zoids_contents_inner {
+    max-width: 1120px;
+    margin: 0 auto;
+    background: url(_image/inner_bg.png) no-repeat left center;
+    padding-left: 10%;
+  }
+  .ttl h2 {
+    font-family: "bebas-neue-pro-expanded", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 80px;
+    line-height: 1;
+  }
+  .top_list ul {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .top_list ul li {
+    width: 46%;
+    margin-right: 4%;
+    margin-bottom: 2%;
+  }
+  .top_list ul li img {
+    width: 100%;
+  }
+  .top_list ul li:nth-child(2) {
+    margin-right: 0;
+  }
+  .top_list ul li img {
+    border: 1px solid #808080;
+  }
+  .ttl {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .h2_read {
+    font-size: 20px;
+  }
+  .h2_read_hash {
+    font-size: 18px;
+    margin-top: 8px;
+  }
+  .h2_read_hash {
+    margin-top: 30px;
+  }
+  .top_list_txt {
+    font-size: 0.7rem;
+    margin: 10px auto 5px;
+    font-weight: normal;
+  }
+  .top_list_day {
+    color: #999;
+    font-size: 0.8rem;
+    font-family: "bebas-neue-pro-expanded", sans-serif;
+  }
+  .top_btn {
+    width: 90%;
+    height: auto;
+    background: url(_image/top_btn.svg) no-repeat center center;
+    background-size: 100%;
+    margin: 40px auto 0;
+    height: 20%;
+  }
+  .top_btn a {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+  }
+    
+    
+    .menu__second-level li{margin:4%!important;font-size: 0.7rem;}    
+    
+    
+}
+
+/* SP ********************************/
+/* SP ********************************/
+/* SP ********************************/
+@media screen and (max-width: 400px) {
+  #zoids_top {
+    background: url(_image/slider_bg_sp.svg) no-repeat bottom right -20px;
+    background-size: 40%;
+  }
+  /* コンテンツ ********************************/
+  .zoids_contents {
+    width: 100%;
+    background: linear-gradient(180deg, transparent 0, transparent 15px, #fff 15px, #fff 30px, #e5e5e5 30px);
+    margin-bottom: 100px;
+    color: #333;
+    padding-right: 40px;
+    padding-left: 10%;
+  }
+#zoids_top #logo {
+    width: 60%;
+}
+  /* スライダー ********************************/
+
+  .zoids_slide {
+    margin: 0 auto 150px;
+  }
+  /* dots */
+  .slick-dots {
+    bottom: -50px;
+  }
+  .slick-dots li {
+    margin: 8px;
+  }
+  .slick-dots li,
+  .slick-dots li button,
+  .slick-dots li button::before {
+    width: 5px;
+    height: 5px;
+  }
+  .ttl h2 {
+    font-size: 30px;
+  }
+  .h2_read {
+    font-size: 15px;
+  }
+  .top_list_txt {
+    font-size: 0.7rem;
+    margin: 5px auto 10px;
+    font-weight: normal;
+  }
+  .top_list_day {
+    font-size: 0.5rem;
+  }
+  .top_btn a {
+    font-size: 0.9rem;
+    padding: 0.5rem 0;
+  }
+    
+    #zoids_under{width:100%;background:#f7faff;padding-bottom:5vw;}
+    #zoids_under .inner1{width:100%;}
+.mov{width:100%;margin:5vw auto;}    
+    
+}

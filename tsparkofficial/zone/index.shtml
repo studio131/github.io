@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>T-SPARK公式サイト｜タカラトミー</title>
+    <meta
+      name="Description"
+      content="タカラトミー公式が贈る、キダルトホビー　T-SPARK（ティースパーク）新たなキャラクターの登場でタカラトミーのホビー世界観が大きく拡大。あそぶ・かざる・集めるホビーの力がここに集結。"
+    />
+    <!-- ogp -->
+    <meta property="og:site_name" content="T-SPARK公式サイト｜タカラトミー" />
+    <meta
+      property="og:url"
+      content="https://www.takaratomy.co.jp/products/tsparkofficial/"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="T-SPARK公式サイト｜タカラトミー" />
+    <meta
+      property="og:description"
+      content="タカラトミー公式が贈る、キダルトホビー　T-SPARK（ティースパーク）新たなキャラクターの登場でタカラトミーのホビー世界観が大きく拡大。あそぶ・かざる・集めるホビーの力がここに集結。"
+    />
+    <!-- twittercard -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:description"
+      content="タカラトミー公式が贈る、キダルトホビー　T-SPARK（ティースパーク）新たなキャラクターの登場でタカラトミーのホビー世界観が大きく拡大。あそぶ・かざる・集めるホビーの力がここに集結。"
+    />
+    <meta
+      property="og:image"
+      content="https://www.takaratomy.co.jp/products/tsparkofficial/_image/ogp.jpg"
+    />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, user-scalable=yes"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/common/css/cmn_layout.css"
+      media="all"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/common/css/cmn_style.css"
+      media="all"
+    />
+    <link rel="stylesheet" type="text/css" href="../style.css" />
+    <script src="/common/js/jquery.1.11.2.js"></script>
+    <script type="text/javascript" src="/common/js/common2.js"></script>
+    <!--[if lt IE 9]>
+      <script src="/common/js/html5_ie.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="_common/css/default.css" />
+    <link rel="stylesheet" type="text/css" href="_common/css/slick-theme.css" />
+    <link rel="stylesheet" type="text/css" href="_common/css/slick.css" />
+    <link rel="stylesheet" type="text/css" href="style.css?ver0419" />
+    <link rel="stylesheet" href="https://use.typekit.net/unj5qxc.css" />
+
+    <script src="https://j.wovn.io/1" data-wovnio="key=2ATvhU" async></script>
+  </head>
+
+  <body id="gDef" class="lDef">
+    <!--<div id="loader-bg">
+      <div id="loader"><img src="../_image/cmn_loading.png" srcset="../_image/cmn_loading@2x.png 2x" alt=""></div>
+    </div>-->
+
+    <!-- ヘッダエリア -->
+    <!--#include virtual="/include/header002.shtml" -->
+    <!-- //ヘッダエリア -->
+    <div id="t-spark_top">
+      <!--#include virtual="../parts_nav.shtml" -->
+
+      <section id="top">
+        <img src="img/zone_top.png">
+        <div class="top_info">
+          <img src="img/zone_top_info.png">
+          <div class="series">
+            <img src="img/zone_info_series.png">
+            <p>
+              トランスフォーマー、ZOIDS、ダイアクロン、鋼鉄機神 / アダマスマキナ、REALIZE MODEL、TOYRISE、ALTERED NANO / オルタードナノ、メタモルバース、SYNERGENEX（シナジネクス）
+            </p>  
+          </div>
+        </div>
+      </section>
+
+      <section id="sec2">
+        <div class="section_title">
+          <img src="img/sec2_title.png">  
+        </div>
+        <div class="innner">
+          <div class="item_detail">
+            <div>
+              <img src="img/transformers_title.png">
+              <h2 class="item_title">MPG-15 サイバトロンラットル</h2>
+              <p>テレビアニメ「ビーストウォーズ 超生命体トランスフォーマー」に登場した人気のサイバトロン戦士“ラットル”が、遂にトランスフォーマー最高峰ブランド「MPG」に登場！ねずみからロボットに変形します。</p>
+            </div>
+            <img src="img/transformers.png" class="item_img">
+          </div>  
+          <div class="item_detail">
+            <div>
+              <img src="img/zoids_title.png">
+              <h2 class="item_title">AZ-10 シーパンツァー</h2>
+              <p>1987年の発売以来、初のリメイク商品がZOIDS最高峰ブランド「AZ（アドバンスドズィー）」シリーズから登場！「シーパンツァー」のキットとしては初めてモーター駆動を搭載しています。</p>
+            </div>
+            <img src="img/zoids.png" class="item_img">
+          </div>  
+          <div class="item_detail">
+            <div>
+              <img src="img/adamas_machina_title.png">
+              <h2 class="item_title">AMT-02 プレダキング</h2>
+              <p>テレビアニメ「戦え!超ロボット生命体トランスフォーマー2010」に登場した巨重合体兵“プレダキング”が鋼鉄機神/アダマスマキナシリーズ トランスフォーマー第２弾商品として登場！猛獣部隊５体が変形合体します。</p>
+            </div>
+            <img src="img/adamas_machina.png" class="item_img">
+          </div>
+          <div class="item_detail">
+            <div>
+              <img src="img/realisemodel01_title.png">
+              <h2 class="item_title">RMZ-008 コマンドウルフ アーバイン仕様</h2>
+              <p>1999年の発売以来、リメイク商品が「REALIZE MODEL」シリーズから登場！アニメ劇中のデザイン設定を元に再検証し、全体シルエットを大きく崩さずに、部位ごとのデザインをディティールアップしています。</p>
+            </div>
+            <img src="img/realisemodel01.png" class="item_img">
+          </div>
+          <div class="item_detail">
+            <div>
+              <img src="img/realisemodel01_title.png">
+              <h2 class="item_title">RMZ-007 トリニティライガー</h2>
+              <p>2001年に発売された家庭用ゲーム用ソフト 『ZOIDSサーガ』 の１作目の主人公機として登場したトリニティライガーを「REALIZE MODEL」シリーズで初のキット化。</p>
+            </div>
+            <img src="img/realisemodel02.png" class="item_img">
+          </div>
+          <div class="item_detail">
+            <div>
+              <img src="img/toyrise_title.png">
+              <h2 class="item_title">ジェネシックガオガイガー</h2>
+              <p>TOYRISEオリジナルのトイアレンジによって、余剰パーツなしでファイナルフュージョンを実現！全身可動でアニメ劇中のポーズを再現できます。</p>
+            </div>
+            <img src="img/toyrise.png" class="item_img">
+          </div>
+        </div>
+      </section>
+
+      <section id="sec3">
+        <div class="section_title">
+          <img src="img/sec3_title.png">  
+        </div>
+        <div class="innner">
+          <div class="item_detail">
+            <div>
+              <img src="img/adamas_machina_title.png">
+              <h2 class="item_title">AMT-01 ロディマス</h2>
+              <p class="blue_text">2025年２月下旬発売</p>
+              <p>ハイディティール、ダイキャスト使用のハイエンドフィギュアシリーズ「鋼鉄機神（アダマスマキナ）」登場。<br>
+                トランスフォーマー第一弾はトランスフォーマーザ・ムービーなどで活躍した騎士ロディマス。<br>
+                フレイムトイズとのコラボレーションにより両形態のスタイリングを再現しつつ、完全変形を実現しています。</p>
+            </div>
+            <img src="img/adamas_machina02.png" class="item_img">
+          </div>
+          <div class="item_detail">
+            <div>
+              <img src="img/realisemodel01_title.png">
+              <h2 class="item_title">RMZ-001 ブレードライガー<br>RMZ-002 ジェノザウラー</h2>
+              <p class="blue_text">2025年２月下旬発売</p>
+              <p>1/100スケールのアクションプラキット。専用に設計された可動機構によって全身が可動し、咆哮や疾走ポーズなどゾイド特有の様々なアクションポーズをとることが可能。全身に搭載された武装が可動し、アニメで登場した様々な戦闘シーンの再現が可能。</p>
+            </div>
+            <img src="img/realisemodel03.png" class="item_img">
+          </div>
+          <div class="item_detail">
+            <div>
+              <img src="img/toyrise_title.png">
+              <h2 class="item_title">キングエクスカイザー</h2>
+              <p class="blue_text">2025年３月下旬発売</p>
+              <p>トイライズアレンジによるエクスカイザーの変形、キングローダーへの合体パワーアップの新たなる回答と過去アイテムを越えた合体後の可動ポージングアクション遊びを追求。更に新しい玩具化コンセプトにより、エクスカイザーとキングローダーを使用した新しいトイプレイスタイルが誕生。</p>
+            </div>
+            <img src="img/toyrise02.png" class="item_img">
+          </div>
+        </div>
+      </section>
+
+      <section id="sec4">
+        <img src="img/sec4_bar.png">
+        <div class="innner">
+          <img src="img/sec4_title.png" class="sec4_title">
+          <img src="img/sec4_img.png">
+          <ul>
+            <li>※商品画像はイメージです。 実際の商品とは異なる場合がございます。予めご了承ください。</li>
+            <li>※商品ご購入の際に、商品や合計金額に間違いがないか必ずご確認ください。 なお会計終了後の返金・返信・交換は一切お受けいたしません。（商品不良の場合を除く）</li>
+            <li>※万が一不良が発生した場合には、販売スタッフまでお声がけください。 なお、翌日以降の商品交換はご対応いたしかねます、予めご了承ください。</li>
+            <li>※数量に限りがございますので、ご希望の商品が売り切れの場合は何卒ご了承ください。</li>
+          </ul>
+        </div>
+        <img src="img/sec4_bar.png">
+      </section>
+
+      <section id="sec5">
+        <div class="innner">
+          <img src="img/attention.png" class="attention pc">
+          <img src="img/attention_sp.png" class="attention sp">
+          <p>株式会社タカラトミー（以下「当社」といいます）の 『 T-SPARK ZONE 2025 』（以下「本イベント」といいます）のご来場に際しては、下記記載内容および会場内に掲示される注意事項（以下「本規約」といいます）をよくお読みいただきますようお願いいたします。未成年者の方は、保護者の方に本規約をご確認いただき、同意を得たうえで本イベントにご参加ください。</p>
+          <div class="attention_wrapper">
+            <p class="attention_title">●イベント全体について</p>
+            <ul>
+              <li>1.本イベントおよび本イベント取り扱い商品は15歳以上を対象としたものが大半となります。保護者同伴でない15歳未満のお客様の入場はお断りします。</li>
+              <li>2.会場での商品の予約・販売および商品引渡しは実施しておりません。（オフィシャルグッズ販売は除く）</li>
+              <li>3.会場の内外で発生した、事故・トラブル等について、当社および当社が本イベント開催を委託する第三者（以下「主催者」といいます）および会場管理者は一切責任を負いかねます。</li>
+              <li>4.お荷物や貴重品はお客様ご自身で管理してください。盗難、置き引き、紛失等について、主催者および会場は一切の責任を負いません。</li>
+              <li>5.来場者同士および来場者と第三者間の事故・トラブル等に関しまして、主催者および会場管理者は一切責任を負いません。</li>
+              <li>6.会場内の各コーナーには、利用上の注意が掲示されている場合があります。それぞれの注意事項をご確認ください。</li>
+              <li>7.本イベントでは運営スタッフの指示にしたがい、スムーズな運営にご協力をお願いいたします。進行の妨げとなる行為がある又はそのおそれがあると運営スタッフが判断した場合は退場いただく可能性があります。</li>
+              <li>8.当日の混雑状況により入場制限ならびに開場・閉場が早まる場合がございます。</li>
+              <li>9.本規約は予告なく変更になる場合があります。</li>
+              <li>10.天災・不慮の事故等やむを得ない事情や主催者および会場管理者側の都合により、当日のイベント内容が変更・中止になる場合がございます。なお、主催者および会場管理者側の都合による変更・中止となった場合でも、ご来場にかかわる費用（通信費・交通費・宿泊費等）はいかなる理由におきましても補償いたしかねます。</li>
+              <li>11.展示や画像は実際の商品とは異なる場合があります。</li>
+            </ul>
+            <p class="attention_text">※イベント内容および商品は、状況により、内容が予告なく変更・中止になる場合があります。</p>  
+          </div>
+          <div class="attention_wrapper">
+            <p class="attention_title">●会場について</p>
+            <ul>
+              <li>・  会場内に喫煙所はございません。会場外の喫煙スペースをご利用ください。</li>
+              <li>・  会場内への飲み物の持ち込みは可能です。お食事の持ち込みはご遠慮ください。</li>
+              <li>・  介助犬、盲導犬、聴導犬を除き、ペットを連れての入場はできません。</li>
+              <li>・  来場者向けのクロークや手荷物預かり所の用意はありません。他の来場者のご迷惑になる大きな荷物や長物等を持っての入場は、ご遠慮ください。</li>
+            </ul>
+          </div>
+          <div class="attention_wrapper">
+            <p class="attention_title">●来場について</p>
+            <ul>
+              <li>・  発熱、風邪症状がみられる場合はご来場の自粛をお願いいたします。</li>
+              <li>・  入場の際、手指のアルコール消毒を実施する場合は、ご協力をお願いいたします。</li>
+              <li>・  マスクの着用は来場者個人の判断といたします。</li>
+              <li>・  イベント専用駐車場のご用意はありません。できる限り公共交通機関をご利用の上、お越しください。</li>
+              <li>・  会場内への、ビン・カン類、割れ物、ハサミ・カッターナイフ等の刃物類、花火・火薬類等、主催者側で「危険物」もしくは「他の来場者への迷惑になる」と判断した手荷物の持込みは禁止いたします。</li>
+              <li>・  会場の都合上、前日および当日早朝にお並びいただくことはできません。近隣のご迷惑となりますので厳にご遠慮ください。</li>
+            </ul>
+          </div>
+          <div class="attention_wrapper">
+            <p class="attention_title">●会場内での撮影について</p>
+            <ul>
+              <li>・  会場内では、当社や取材メディアによる写真や動画撮影が行われる予定です。会場内の撮影に伴い、来場者が映り込む場合がございます。当該写真および動画は、当社による当日のインターネット配信、イベント終了後の広告物、取材メディアによるテレビ、新聞、雑誌およびWEB等に露出／掲載される場合がありますので、あらかじめご了承ください。</li>
+              <li>・  本イベントでの写真撮影時は他の来場者の写り込みに十分ご注意ください。本イベントを撮影した写真をSNS等に投稿される場合には、お客様ご自身の責任で実施いただき、また、各ソーシャルメディアの利用規約を遵守してください。なお、投稿写真に関連する第三者の知的財産権・肖像権侵害について、主催者および会場はあらゆる責任を負いかねます。</li>
+              <li>・  会場内での動画撮影はご遠慮ください（主催者が承諾した取材メディアによる動画撮影は可）。</li>
+              <li>・  取材メディアによる動画撮影の際、名刺やアカウント名の提示を頂くことがあります。あらかじめご了承ください。</li>
+            </ul>
+          </div>
+          <div class="attention_wrapper">
+            <p class="attention_title">●会場内オフィシャルグッズ販売について</p>
+            <ul>
+              <li>オフィシャルグッズの販売を実施いたします。 商品の詳細は上記オフィシャルグッズの記載内容をご確認ください。</li>
+              <li>※ホビー商品の販売や予約はございません。あらかじめご了承ください。</li>
+              <li>・  イベント期間中2025年1月17日(金)～1月19日(日)にご購入いただけます。</li>
+              <li>・  各商品の準備数は限りがございます。準備数に達した時点で販売を終了いたします。</li>
+              <li>・  一度販売を終了した商品も再度販売を行う場合がございます。</li>
+              <li>・  本商品は、今後国内外において様々な販路での販売や条件を変更しての販売を行う可能性があります。</li>
+              <li>・  原則、決済後のキャンセル・変更はできません。予めご了承ください。</li>
+              <li>・  ご利用いただける決済方法および購入上限数は各販売によって異なります。ご確認のうえお買い求めください。</li>
+              <li>・  転売目的のご購入はご遠慮ください。</li>
+            </ul>
+          </div>
+          <div class="attention_wrapper_last">
+            <p class="attention_title">●展示商品について</p>
+            <ul>
+              <li>・  試遊体験ブース以外では商品にお手を触れないようお気をつけください。</li>
+              <li>・  開発中のサンプルにつき、最終品と異なる場合がありますので、あらかじめご了承ください。</li>
+              <li>・  商品の画像・イラストは実際の商品と一部異なる場合がございますのであらかじめご了承ください。</li>
+              <li>・  商品名、発売日、発送月、価格など、本ページの情報は変更になる場合がございますので、あらかじめご了承ください。</li>
+              <li>・  発売済み、予約中の商品は当社公式ECサイト「タカラトミーモール」または、全国の各取扱店、サイトにてご購入いただけます。</li>
+              <li>※発売から時間の経過している商品は生産・販売が終了している場合がございますのでご了承ください。</li>
+            </ul>
+          </div>
+          <div class="shop_link">
+            <a href="https://takaratomymall.jp/shop" target="_blank" class="shop_btn"><img src="img/takaratomy_btn.png" alt=""></a>
+            <a href="https://takaratomymall.jp/shop" target="_blank"><img src="img/shop_link.png" class="shop_btn"></a>
+          </div>
+          <p>・  このホームページに掲載されている全ての画像、文章、データ等の無断転用、転載をお断りします。</p>          
+        </div>
+      </section>
+      <section id="info">
+        <div class="section_title section_title_info_sp">
+          <h2>〔主催〕 株式会社タカラトミー　　<br class="sp">〔協力〕 AKIBAカルチャーズZONE</h2>
+        </div>
+        <div class="innner">
+          <div class="info">
+            <img src="img/form.png">
+            <p>タカラトミーグループお客様相談室<br>
+              0570-041031（ナビダイヤル）<br>
+              <a href="https://www.takaratomy.co.jp/support/privacypolicy.html" target="_blank">https://www.takaratomy.co.jp/support/privacypolicy.html</a><br>
+              営業時間：土日祝日を除く平日10時～17時</p>
+          </div>
+          <p class="info-text">本イベントおよび本イベント取扱商品は15歳以上を対象としたものが大半となります。<br>
+            保護者同伴でない15歳未満のお客様の入場はお断りします。</p>
+        </div>
+      </section>
+
+
+    <section id="copyright1">
+      <p>© T O M Y　　©︎Shopro　　©サンライズ</p>
+    </section>
+
+      
+
+
+      <!--/end t-spark_top -->
+    </div>
+
+    <!-- フッタエリア -->
+    <!--#include virtual="/include/footer002.shtml" -->
+    <!-- //フッタエリア -->
+
+    <script
+      type="text/javascript"
+      src="_common/js/jquery-2.1.0.min.js"
+    ></script>
+    <script type="text/javascript" src="_common/js/function.js"></script>
+    <script src="_common/js/slick.min.js"></script>
+    <script>
+      $("#main-slick").slick({
+        autoplay: true,
+        autoplaySpeed: 3000,
+        arrows: false,
+        dots: true,
+        infinite: true,
+      });
+      $("#news-slick").slick({
+        autoplay: true,
+        slidesToShow: 5,
+        slidesToScroll: 1,
+        autoplaySpeed: 3000,
+        arrows: true,
+        prevArrow:
+          '<img src="_image/arrow_prev.png" class="slide-arrow prev-arrow">',
+        nextArrow:
+          '<img src="_image/arrow_next.png" class="slide-arrow next-arrow">',
+        dots: false,
+        infinite: true,
+
+        //レスポンシブでの動作を指定
+        responsive: [
+          {
+            breakpoint: 467, //ブレイクポイントを指定
+            settings: {
+              slidesToShow: 2,
+              arrows: false,
+            },
+          },
+        ],
+      });
+
+      $(".tab").on("click", function () {
+        $(".tab, .panel").removeClass("active");
+
+        $(this).addClass("active");
+
+        var index = $(".tab").index(this);
+        $(".panel").eq(index).addClass("active");
+      });
+    </script>
+
+    <script>
+      (function (d) {
+        var config = {
+            kitId: "unk5wsm",
+            scriptTimeout: 3000,
+            async: true,
+          },
+          h = d.documentElement,
+          t = setTimeout(function () {
+            h.className =
+              h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive";
+          }, config.scriptTimeout),
+          tk = d.createElement("script"),
+          f = false,
+          s = d.getElementsByTagName("script")[0],
+          a;
+        h.className += " wf-loading";
+        tk.src = "https://use.typekit.net/" + config.kitId + ".js";
+        tk.async = true;
+        tk.onload = tk.onreadystatechange = function () {
+          a = this.readyState;
+          if (f || (a && a != "complete" && a != "loaded")) return;
+          f = true;
+          clearTimeout(t);
+          try {
+            Typekit.load(config);
+          } catch (e) {}
+        };
+        s.parentNode.insertBefore(tk, s);
+      })(document);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,120 @@
+/*メニュー全体のレイアウト*/
+.pc {display: block;}
+.sp {display: none;}
+.tab-wrap {}
+
+/*flexレイアウト*/
+.tab-menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+/*リスト*/
+.tab-wrap ul li {
+    width: 24%;
+    text-align: center;
+    /*カーソルをポインターに*/
+    cursor: pointer;
+    /*アニメーション処理*/
+    transition: all 0.3s;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+
+/*オンマウス*/
+.tab-wrap ul li:hover {
+    opacity: 0.6;
+}
+
+/*ナビの内容を非表示*/
+.tab-contents {
+    display: none;
+}
+
+/*マウスオンで表示*/
+.tab-contents.active {
+    display: block;
+}
+
+/* MENU内容*/
+.secontMenu {
+    display: none;
+}
+
+ul.menu__second-level {
+    display: flex;
+    justify-content: start;
+    width: 100%;
+    background: #000;
+    padding: 20px;
+}
+
+ul.menu__second-level li {
+    width: 220px !important;
+    margin: 10px;
+    font-size: 0.8rem;
+    font-weight: normal;
+    color: #FFF;
+}
+
+@media screen and (max-width: 1119px) {
+    .pc {display: none;}
+.sp {display: block;}
+    /*メニュー全体のレイアウト*/
+.tab-wrap {}
+
+/*flexレイアウト*/
+.tab-menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+/*リスト*/
+.tab-wrap ul li {
+    width: 46%;
+    text-align: left;
+    /*カーソルをポインターに*/
+    cursor: pointer;
+    /*アニメーション処理*/
+    transition: all 0.3s;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+
+/*オンマウス*/
+.tab-wrap ul li:hover {
+    opacity: 0.6;
+}
+
+/*ナビの内容を非表示*/
+.tab-contents {
+    display: none;
+    margin-bottom: 24px;
+}
+
+/*マウスオンで表示*/
+.tab-contents.active {
+    display: block;
+}
+
+/* MENU内容*/
+.secontMenu {
+    display: none;
+}
+
+ul.menu__second-level {
+    display: flex;
+    justify-content: start;
+    width: 100%;
+    background: #000;
+    padding: 10px;
+}
+
+ul.menu__second-level li {
+    width: 42% !important;
+    margin: 4px;
+    font-size: 0.6rem;
+    font-weight: normal;
+    color: #FFF;
+}
+}

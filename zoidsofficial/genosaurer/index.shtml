@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+
+<head>
+  <meta charset="UTF-8">
+  <title>AZ-09 GENO SAURER ジェノザウラー｜ゾイド(ZOIDS)シリーズ公式サイト｜タカラトミー</title>
+  <meta name="Keywords" content="ZOIDS,ジェノザウラー,タカラトミー" />
+  <meta name="Description" content="モーター駆動により生命を宿したがごとくリアルに歩行し、それに連動して頭部から尾にかけて、全身が動く。初代ジェノザウラーから脚部の構造を一新。つま先が歩行と連動して可動することで、２足歩行ゾイド伝統の補助バーを必要としない動きを可能とした。" />
+  <!-- ogp -->
+  <meta property="og:site_name" content="AZ-09 GENO SAURER ジェノザウラー｜ゾイド(ZOIDS)シリーズ公式サイト｜タカラトミー">
+  <meta property="og:url" content="https://www.takaratomy.co.jp/products/zoidsofficial/genosaurer/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="AZ-09 GENO SAURER ジェノザウラー｜ゾイド(ZOIDS)シリーズ公式サイト｜タカラトミー">
+  <meta property="og:description" content="モーター駆動により生命を宿したがごとくリアルに歩行し、それに連動して頭部から尾にかけて、全身が動く。初代ジェノザウラーから脚部の構造を一新。つま先が歩行と連動して可動することで、２足歩行ゾイド伝統の補助バーを必要としない動きを可能とした。">
+  <!-- twittercard -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:description" content="モーター駆動により生命を宿したがごとくリアルに歩行し、それに連動して頭部から尾にかけて、全身が動く。初代ジェノザウラーから脚部の構造を一新。つま先が歩行と連動して可動することで、２足歩行ゾイド伝統の補助バーを必要としない動きを可能とした。">
+  <meta property="og:image" content="https://www.takaratomy.co.jp/products/zoidsofficial/genosaurer/_image/ogp.jpg">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+  <link rel="stylesheet" type="text/css" href="/common/css/cmn_layout.css" media="all">
+  <link rel="stylesheet" type="text/css" href="/common/css/cmn_style.css" media="all">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=BIZ+UDPGothic&family=Bebas+Neue&display=swap" rel="stylesheet">
+  <script src="/common/js/jquery.1.11.2.js"></script>
+  <script type="text/javascript" src="/common/js/common2.js"></script>
+  <!-- wovn -->
+  <script src="https://j.wovn.io/1" data-wovnio="key=2ATvhU" async></script>
+
+  <!--[if lt IE 9]>
+<script src="/common/js/html5_ie.js"></script>
+<![endif]-->
+   <link rel="stylesheet" type="text/css" href="../_common/css/default.css">
+   <link rel="stylesheet" type="text/css" href="../_common/css/slick-theme.css">
+   <link rel="stylesheet" type="text/css" href="../_common/css/slick.css">
+  <link rel="stylesheet" type="text/css" href="pc.css">
+  <link rel="stylesheet" type="text/css" href="sp.css?v0701">
+  <link rel="stylesheet" href="https://use.typekit.net/unj5qxc.css" />
+
+
+  <!-- bebas-neue -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700&family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Bebas+Neue&family=Zen+Maru+Gothic:wght@700&display=swap" rel="stylesheet">
+
+  <script type="text/javascript" src="../_common/js/jquery-2.1.0.min.js"></script>
+  <script src="../_common/js/slick.min.js"></script>
+  <script src="../_common/js/gsap.min.js"></script>
+  <script src="../_common/js/ScrollTrigger.min.js"></script>
+  <script src="function.js?ver1203"></script>
+
+  <script>
+  (function(d) {
+    var config = {
+      kitId: 'oek0tre',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+
+</script>
+
+
+
+</head>
+
+<body id="gDef" class="lDef">
+  <div id="loader-bg">
+    <div id="loader"><img src="_image/load_red.gif" alt=""></div>
+  </div>
+  <div id="wrapper">
+    <!-- ヘッダエリア -->
+    <!--#include virtual="/include/header002.shtml" -->
+    <!-- //ヘッダエリア -->
+    <div id="contents">
+      <div class="zoids">
+  <h1>ゾイドシリーズ公式サイト。<br class="sp">ゾイドシリーズの様々な情報を集約。</h1>
+
+
+<section id="top">
+
+<div class="block1">
+    <p id="ad" class="fadeSet">ADVANCED</p>
+    <p class="size20 fadeSet mb_4rem">それは、更なる進化への歩み、常識の発達である——。</p>
+    <div class="logoW  fadeSet"><img src="_image/1x/top-logo-zoid-az.png" alt=""></div>
+    <div class="scroll fadeSet"><img src="_image/1x/top_scroll.png" alt=""></div>
+    </div>
+<!--/end top block1 -->
+
+<div class="block2">
+    <div class="title"><img src="_image/1x/top_title.png" alt="" class="w-100"></div>
+        <div class="redBar">
+            <dl><dt><img src="_image/1x/top_az.png" alt=""></dt>
+            <dd>
+            <p class="size30 p1">40年の技術の粋が、新たな歴史を刻む</p>
+                <p class="p2">40年の歴史を経て培われた最新の技術を搭載し、外観造型そして内部構造に至るまで一切の妥協を許さない。ゾイドごとに設定したテーマを元に、「再構築」・ 「洗練」・「練磨」が内包されたムービングキットの究極の姿を具現化する最高峰ブランド。</p></dd>
+            </dl>
+        </div>
+     <div class="bgFix Blur"></div>
+    </div>
+<!--/end top block2 -->
+
+<div class="block3">
+
+  <div class="mov view_timer" data-start-date="2024/4/10 12:00">
+    <div class="youtube">
+      <iframe width="880" height="495" class="box" src="https://www.youtube.com/embed/XWNofjFbR7w" frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+
+  <div class="parseBlock">
+
+    <div class="title fadeInRight"><img src="_image/1x/top_challenge_title.png" alt=""></div>
+    <div class="img"><img src="_image/1x/parse1_bg.png" alt="" class="w-100"></div>
+    <div class="parse-item">
+      <div>
+        <img src="_image/parse-01.png" class="w-100">
+        <p>全部位の細部に至るまでを再構築</p>
+      </div>
+      <div>
+        <img src="_image/parse-02.png" class="w-100">
+        <p>動きのリアルさの追求、躍動、漲る生命感</p>
+      </div>
+      <div>
+        <img src="_image/parse-03.png" class="w-100">
+        <p>旧キットとアニメ劇中設定の再検証</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--/end top block1 -->
+
+</section>
+<!--/end top -->
+
+<section id="parse1">
+<div class="inner">
+<div class="title">
+   <img src="_image/1x/parse1_title.png" class="w-100" alt=""></div>
+    <div class="lead">2000年に発売した当時のキットの造形だけでなく、アニメ劇中におけるデザイン設定を元に再検証を行い、全体シルエットはもとより顔・腕・脚・胴体・尾と個々の部位ごとのデザイン・ディティールをアップデート。</div>
+
+   <div class="parse1-img">
+    <img src="_image/1x/bg_parse1_pict1.png" alt="">
+   </div>
+
+  <div class="imgBox">
+      <h2><img src="_image/1x/parse1_h2_1.png" alt="" class="w-100"></h2>
+      <p class="parse1_h2_1_text"><span>AZ-09</span>ジェノザウラー<br>デザインコンセプト<br>最終スケッチ</p>
+      <div class="img1"><img src="_image/1x/parse1_pict1.png" alt="" class="w-100"></div>
+      <p class="parse1_text">元々のジェノザウラーのシルエットを維持しつつ、細部のデザインをアップデートすることで、最新のハイディティールなジェノザウラーを目指した。この段階から脚部の補助バーについては、使用しない前提でデザインを進めていた。そのため、各部のサイズはそれを前提とした重量バランスも意識して調整されている。
+        細部の形状は最終モデルで追加の調整を行い、より最新の「ジェノザウラー」デザインを追求している。</p>
+  </div>
+
+  <div class="imgBox">
+    <h2><img src="_image/1x/parse1_h2_1.png" alt="" class="w-100"></h2>
+    <p class="parse1_h2_1_text"><span>AZ-09</span>ジェノザウラー<br>デザインコンセプト<br>横図最終スケッチ</p>
+    <div class="img2">
+      <img src="_image/1x/parse1_pict2.png" alt="" class="w-100">
+    </div>
+    <p class="parse1_text_2">全体デザイン最終スケッチをベースに製作した横図の最終スケッチ。スケッチを元に3Dデータを製作し、全体ならびに各部のデザイン調整を行っていった。</p>
+  </div>
+
+  <div class="inner detail-inner">
+    <div class="detail"><img src="_image/1x/bg_detail.png" alt="" class="w-100"></div>
+    <div class="title title_detail"><img src="_image/1x/detail.png" alt="" class="w-100"></div>
+
+    <div class="detail-item sl1">
+      <div class="detail-box">
+        <img src="_image/1x/detail_pict2.png" alt="" class="w-100">
+        <div class="vertical-rl">
+          <p class="detail-title">上部<span class="bebas-neue-regular"> Details - Upper Parts</span></p>
+        </div>
+      </div>
+      <p>首は初代ジェノザウラーにあった荷電粒子砲発射形態への手動変形に加えて、新たに歩行との連動が両立した機構となっている。そのため、歩行時の動作はよりダイナミックに進化している。また内部にはメカディティールが施されたフレームが内蔵されており、金属生命体としての説得力を備えることを意識した。</p>
+
+      <div class="detail-box">
+        <img src="_image/1x/detail_pict1.png" alt="" class="w-100">
+        <div class="vertical-rl">
+          <p class="detail-title">腕部<span class="bebas-neue-regular">Details - Arms</span></p>
+        </div>
+      </div>
+      <p>腕部には手動での可動ギミックが搭載され、ユーザーの手で自由にポージングが可能となっている。肘にはシリンダーが搭載されており、肘の可動と合わせて実際に伸縮が可能である。手首だけでなくそれぞれの爪も個別に可動ができ、様々な表付けが可能となっている。</p>
+    </div>
+    <div class="detail-box-3">
+      <div class="vertical-rl sp_w15">
+        <p class="detail-title">脚部<span class="bebas-neue-regular">Details - Legs</span></p>
+      </div>
+      <img src="_image/1x/detail_pict3.png" alt="" class="w-100">
+      <p>ジェノザウラーの特徴ともいえる、大型のフィンの裏には排熱機構を意識したディティールが追加されている。黄金のシリンダーは商品でも再現され、歩行と連動して伸縮が可能となっている。
+        さらに初代ジェノザウラーでは飾りパーツとして使用されていた装甲のキャップは、実際にフレームを固定するキャップに変更されており、機構を内蔵したゾイドらしさアップデートしている。
+        尚、この飾りキャップが持っていた武器のジョイント機能は、別途にジョイントを設けることで維持されており、拡張性は確保されている。</p>
+    </div>
+  </div>
+</div>
+</section>
+<!--/end parse1 -->
+
+<section id="parse2">
+<div class="inner mt-50">
+<div class="bg1"><img src="_image/1x/bg_parse2.png" alt="" class="w-100"></div>
+<div class="title"><img src="_image/1x/parse2_title.png" alt="" class="w-100"></div>
+<div class="lead">開発当初から２足歩行恐竜の動き・歩行の再現に重点を置き、脚部の動力構造の見直しを図った。補助バーを必要としない歩行アクションの実現により、生命体としてさらにリアルな表現の具現化を果たす。</div>
+<div class="imgBox">
+  <h2><img src="_image/1x/parse2_h2_1.png" alt="" class="w-100"></h2>
+  <p class="parse1_h2_1_text parse1_h2_2_text"><span>AZ-09</span>ジェノザウラー<br>内部構造<br>初期スケッチ</p>
+  <div class="img1"><img src="_image/1x/parse2_pict1.png" alt="" class="w-100"></div>
+  <p class="parse1_text parse1_text_sp">ゾイド=金属生命体としてのリアリティを追求すべく、初期段階から内部の動きの検証を実施。新たに追加された頸部や尾部のリンク機構による連動機構に加えて、補助バーなしでの歩行検証を行っている。
+    脚部の構造にはゾイドワイルドシリーズで洗練された２足歩行ギミックの設計データをフィードバックしており、初代ジェノザウラーよりも安定した歩行動作を目指して開発が進められた。</p>
+</div>
+
+<div class="imgBox">
+  <h2 class="parse2_h2_2 parse2_h2_2_sp"><img src="_image/1x/parse2_h2_2.png" alt="" class="w-100"></h2>
+  <div class="img2"><img src="_image/1x/parse2_pict2.png" alt="" class="w-100"></div>
+  <p class="parse2_text">モーター駆動により生命を宿したがごとくリアルに歩行し、それに連動して頭部から尾にかけて、全身が動く。初代ジェノザウラーから脚部の構造を一新。つま先が歩行と連動して可動することで、２足歩行ゾイド伝統の補助バーを必要としない動きを可能とした。</p>
+</div>
+<a href="https://youtu.be/e1rm2QVHZ_4" class="action_movie_link" target="_blank">Action Movie</a>
+<ul class="specList sl1">
+  <li><img src="_image/1x/spec1.png" class="">
+  <p>目と口内の収束荷電粒子砲が発光。</p></li>
+  <li><img src="_image/1x/spec2.png" class="">
+  <p>首部が上下に動く。</p></li>
+  <li><img src="_image/1x/spec3.png" class="">
+  <p>尾部が左右に動く。</p></li>
+  <li><img src="_image/1x/spec4.png" class="">
+  <p>胸部内にあるゾイドコアが発光。</p></li>
+  <li><img src="_image/1x/spec5.png" class="">
+  <p>脚部のつま先が歩行と連動して開閉。</p></li>
+</ul>
+
+<div class="imgBox item-2">
+  <h2 class="parse2_h2_2"><img src="_image/1x/parse2_h2_3.png" alt="" class="w-100"></h2>
+  <div class="img3"><img src="_image/1x/parse2_pict3.png" alt="" class="w-100"></div>
+  <p class="parse2_text_2">背部ロングレンジパルスレーザーライフルの左右回転・上下の仰角調整、ならびにコックピットハッチの開閉など各部アーマーパーツが可動。さらに頭部武器の差し替えにより、量産機／専用機の切り替えが可能。多数の可動パーツを搭載することで、兵器としてのメカニカルな見せ場を作り出す。</p>
+</div>
+<ul class="specList sl1">
+  <li><img src="_image/1x/armors_spec01.png" class="">
+  <p>頭部武器の差し替えにより、<br>量産機／専用機の切り替えが可能。</p></li>
+  <li><img src="_image/1x/armors_spec02.png" class="">
+  <p>首部上下アーマーが開閉。</p></li>
+  <li><img src="_image/1x/armors_spec03.png" class="">
+  <p>基部が左右回転、<br>さらに上下に仰角調整が可能。</p></li>
+  <li><img src="_image/1x/armors_spec04.png" class="">
+  <p>尾部付け根アーマーが開閉。</p></li>
+  <li><img src="_image/1x/armors_spec05.png" class="">
+  <p>尾部排熱フィンが開閉。</p></li>
+  <li><img src="_image/1x/armors_spec06.png" class="">
+  <p>腹部コックピットハッチが開閉。</p></li>
+  <li><img src="_image/1x/armors_spec07.png" class="">
+  <p>腕部の爪の開閉や肘が可動し、<br>ポージングが可能。</p></li>
+  <li><img src="_image/1x/armors_spec08.png" class="">
+  <p>腕部のシリンダーが伸縮。</p></li>
+  <li><img src="_image/1x/armors_spec09.png" class="">
+  <p>脚部のシリンダーが伸縮。</p></li>
+  <li><img src="_image/1x/armors_spec10.png" class="">
+  <p>脚部バーニアカバーが開閉。</p></li>
+  <li><img src="_image/1x/armors_spec11.png" class="">
+  <p>脚部アンカーが可動。</p></li>
+</ul>
+</div>
+</section>
+<!--/end parse2 -->
+
+
+<section id="parse3">
+<div class="inner">
+<div class="title"><img src="_image/1x/parse3_title.png" alt="" class="w-100"></div>
+    <div class="lead">TVアニメにおける機体設定・デザインも再検証。ジェノザウラーを象徴する荷電粒子砲の発射形態を再現する「尾部排熱フィン」の開閉、ならびに「脚部アンカー」の可動、「脚部バーニアカバー」の開閉が可能となっている。<br>
+      さらに帝国軍・ジェノザウラーのパイロット「レイヴン」の同スケールフィギュアを付属。アニメ劇中の再現性もプロダクトの魅力の要素として追加している。
+</div>
+
+
+    </div>
+</section>
+<!--/end parse2 -->
+
+
+
+<section id="spec">
+<div class="inner1">
+  <div class="parse3_box">
+    <div class="title"><img src="_image/1x/parse3_h2.png" alt=""></div>
+    <div class="bg1"><img src="_image/1x/parse3_pict1.png" alt="" class="w-100"></div>
+    <div class="bg2"><img src="_image/1x/parse3_pict2.png" alt="" class="w-100"></div>
+    <div class="bg3"><img src="_image/1x/parse3_pict3.png" alt="" class="w-100"></div>
+    <div class="bg4"><img src="_image/1x/parse3_pict4.png" alt="" class="w-100"></div>
+
+    <div class="lead">
+      <p>尾部排熱フィン</p>
+      <p class="lead_text">アニメ劇中にて描かれた荷電粒子砲発射シークエンス時の尾部排熱フィンの開閉を再現。</p>
+    </div>
+
+    <div class="lead2">
+      <p>脚部アンカーと<br>バーニアカバー</p>
+      <p class="lead_text">アニメ劇中にて描かれた荷電粒子砲発射シークエンス時の脚部アンカーの可動とバーニアカバーの開閉を再現。</p>
+    </div>
+
+    <div class="lead3">
+      <p>レイヴン<br>1/72スケールフィギュア</p>
+      <p class="lead_text">ジェノザウラーの腹部コックピットに搭乗可能なレイヴンのフィギュアが付属。</p>
+    </div>
+
+    <div class="lead4">
+      <p>さらに同じく腹部コックピットに搭乗可能な1/72スケールの一般兵士フィギュア１体も付属。</p>
+    </div>
+  </div>
+</div>
+
+<div class="inner1 inner2">
+  <div class="title"><img src="_image/1x/spec_title.png" alt="" class="w-100"></div>
+  <div class="spec_bg1"><img src="_image/1x/spec_pict1.png" alt="" class="w-100"></div>
+  <div class="spec_bg2"><img src="_image/1x/spec_pict2.png" alt="" class="w-100"></div>
+
+  <div class="spec_title">型式番号：<br class="sp">EZ-026<br>
+    分　　類：<br class="sp">ティラノサウルス型
+  </div>
+
+  <div class="spec_lead">全　　長／23.0m<br>
+  全　　高／11.7m<br>
+  重　　量／112.8t<br>
+  最高速度／260km/h
+  </div>
+</div>
+
+
+
+<div id="gallery">
+ <h2><img src="_image/1x/gallery_title.png" alt=""></h2>
+  <dl id="gallery1">
+    <dt>
+      <div class="slider">
+        <div class="slick-img"><img src="_image/gallery/gallery01.png" alt=""></div>
+        <div class="slick-img"><img src="_image/gallery/gallery02.png" alt=""></div>
+        <div class="slick-img"><img src="_image/gallery/gallery03.png" alt=""></div>
+        <div class="slick-img"><img src="_image/gallery/gallery04.png" alt=""></div>
+        <div class="slick-img"><img src="_image/gallery/gallery05.png" alt=""></div>
+        <div class="slick-img"><img src="_image/gallery/gallery06.png" alt=""></div>
+        <div class="slick-img"><img src="_image/gallery/gallery07.png" alt=""></div>
+        <div class="slick-img"><img src="_image/gallery/gallery08.png" alt=""></div>
+        <div class="slick-img"><img src="_image/gallery/gallery09.png" alt=""></div>
+        <div class="slick-img"><img src="_image/gallery/gallery10.png" alt=""></div>
+        <div class="slick-img"><img src="_image/gallery/gallery11.png" alt=""></div>
+        <div class="slick-img"><img src="_image/gallery/gallery12.png" alt=""></div>
+        <div class="slick-img"><img src="_image/gallery/gallery13.png" alt=""></div>
+        <div class="slick-img"><img src="_image/gallery/gallery14.png" alt=""></div>
+        <div class="slick-img"><img src="_image/gallery/gallery15.png" alt=""></div>
+      </div>
+    </dt>
+
+    <dd>
+      <div class="thumbnail">
+        <div class="thumbnail-img"><img src="_image/thumbnail/thumbnail_01.png" alt=""></div>
+        <div class="thumbnail-img"><img src="_image/thumbnail/thumbnail_02.png" alt=""></div>
+        <div class="thumbnail-img"><img src="_image/thumbnail/thumbnail_03.png" alt=""></div>
+        <div class="thumbnail-img"><img src="_image/thumbnail/thumbnail_04.png" alt=""></div>
+        <div class="thumbnail-img"><img src="_image/thumbnail/thumbnail_05.png" alt=""></div>
+        <div class="thumbnail-img"><img src="_image/thumbnail/thumbnail_06.png" alt=""></div>
+        <div class="thumbnail-img"><img src="_image/thumbnail/thumbnail_07.png" alt=""></div>
+        <div class="thumbnail-img"><img src="_image/thumbnail/thumbnail_08.png" alt=""></div>
+        <div class="thumbnail-img"><img src="_image/thumbnail/thumbnail_09.png" alt=""></div>
+        <div class="thumbnail-img"><img src="_image/thumbnail/thumbnail_10.png" alt=""></div>
+        <div class="thumbnail-img"><img src="_image/thumbnail/thumbnail_11.png" alt=""></div>
+        <div class="thumbnail-img"><img src="_image/thumbnail/thumbnail_12.png" alt=""></div>
+        <div class="thumbnail-img"><img src="_image/thumbnail/thumbnail_13.png" alt=""></div>
+        <div class="thumbnail-img"><img src="_image/thumbnail/thumbnail_14.png" alt=""></div>
+        <div class="thumbnail-img"><img src="_image/thumbnail/thumbnail_15.png" alt=""></div>
+      </div>
+    </dd>
+  </dl>
+</div>
+
+
+<br style="clear:both;">
+
+<div id="info">
+
+    <div class="img1"><img src="_image/1x/info_pict1.png" alt="" class="w-100"></div>
+
+<div class="inner">
+<img src="_image/1x/info_title.png" alt="" class="w-100">
+<p class="days">2024年12月４日 予約開始<br>
+  2024年７月下旬 発売予定</p>
+<p class="price">メーカー希望小売価格：16,500円（税込）</p>
+<p class="attention">※画像は試作品の為、最終仕様と形状、カラーリングが異なる場合があります。<br>
+※画像は一部彩色、加工をしています。<br>
+※商品に関する仕様、価格、内容については変更になる場合がございます。<br>
+　予めご了承ください。<br>
+※単４形アルカリ乾電池２本使用。電池は別売です。<br>
+※対象年齢：15歳以上</p>
+</div>
+</div>
+
+    <div class="btn"><a href="https://takaratomymall.jp/shop/g/g4904810935049/" target="_blank"><img src="_image/1x/buybtn.png" alt=""></a></div>
+
+
+</section>
+        <!--/end parse3 -->
+
+       <br style="clear:both;">
+        <center>
+          ©️ TOMY ©️ ShoPro
+        </center>
+
+        <!--/end .zoids40th -->
+      </div>
+      <!--/end contents -->
+    </div>
+    <!--/end wrapper -->
+  </div>
+  <!-- フッタエリア -->
+  <!--#include virtual="/include/footer002.shtml" -->
+  <!-- //フッタエリア -->
+
+
+<script>
+$(function(){
+var ua = navigator.userAgent;
+	if ((ua.indexOf('iPhone') > 0) || ua.indexOf('iPod') > 0 || (ua.indexOf('Android') > 0 && ua.indexOf('Mobile') > 0)) {
+		// スマホのとき
+		$('head').prepend('<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />');
+	}else{
+		// PC・タブレットのとき
+		$('head').prepend('<meta name="viewport" content="width=1200" />');
+	}
+})
+
+    $(function () {
+  $(".slider").slick({
+    autoplay: true,
+    arrows: false,
+    fade: true,
+    asNavFor: ".thumbnail",
+        lazyLoad: 'progressive',
+  });
+  $(".thumbnail").slick({
+    slidesToShow: 15,
+    asNavFor: ".slider",
+    focusOnSelect: true,
+  });
+});
+
+//----------------------------------------------------時限設定
+$(document).ready(function() {
+  $(".view_timer").each(function(index, target) {
+    var startDate = $(this).attr("data-start-date");
+    var endDate = $(this).attr("data-end-date");
+    var nowDate = new Date();
+
+    if (startDate) {
+      startDate = new Date(startDate);
+    } else {
+      startDate = nowDate;
+    }
+    if (endDate) {
+      endDate = new Date(endDate);
+    }
+
+    if (startDate <= nowDate && (!endDate || nowDate <= endDate)) {
+      $(this).show();
+    } else {
+      $(this).hide();
+    }
+  });
+});
+</script>
+
+</body>
+
+</html>

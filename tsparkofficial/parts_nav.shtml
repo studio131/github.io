@@ -1,0 +1,48 @@
+<h1>T-SPARK公式サイト</h1>
+<header>   
+
+    <div id="gLogo"><a href="/tsparkofficial/index.shtml"><img src="/products/tsparkofficial/_image/logo_t-spark.png" alt=""></a></div>
+    <div id="logo_tate"><img src="/products/tsparkofficial/_image/logo_spark_tate.png" alt=""></div>
+    <nav>
+        <ul class="menu">
+            <img src="/products/tsparkofficial/_image/icon_thunder.png" class="menu_icon_thunder">
+            <li class="menu__mega"><a href="" class="init-bottom">ブランド</a>
+                <ul class="menu__second-level brand">
+                    <li><a href="/tsparkofficial/realize/"><img src="/products/tsparkofficial/_image/bn_brand2.png" alt=""><p>リアライズ</p></a></li>
+                    <li><a href="/tsparkofficial/adamas/"><img src="/products/tsparkofficial/_image/bn_brand1.png" alt=""><p>アダマスマキナ</p></a></li>
+                    <li><a href="/tsparkofficial/toyrise/"><img src="/products/tsparkofficial/_image/bn_brand3.png" alt=""><p>トイライズ</p></a></li>
+                    <li><a href="/tsparkofficial/metamor/"><img src="/products/tsparkofficial/_image/bn_brand5.png" alt=""><p>メタモルバース</p></a></li>
+                    <li><a href="/tsparkofficial/synergenex/"><img src="/products/tsparkofficial/_image/bn_brand6.png" alt=""><p>シナジネクス</p></a></li>
+                    <li><a href="/tsparkofficial/alterednano/"><img src="/products/tsparkofficial/_image/bn_brand_alterednano.png" alt=""><p>オルタードナノ</p></a></li>
+                    <li><a href="/tsparkofficial/qvillage/"><img src="/products/tsparkofficial/_image/bn_brand_qvillage.png" alt=""><p>Qビレッジ</p></a></li>
+                    <li><a href="/tsparkofficial/ck/"><img src="/products/tsparkofficial/_image/bn_brand_collekazaro.png" alt=""><p>コレカザロ</p></a></li>
+                    <li><a href="/tsparkofficial/sparkfig/"><img src="/products/tsparkofficial/_image/bn_brand_sparkfig.png" alt=""><p>スパークフィグ</p></a></li>
+                    <li><a href="legacysoul/"><img src="/products/tsparkofficial/_image/bn_brand_legacysoul.png" alt=""><p>レガシーソウル</p></a></li>
+                </ul>
+            </li>
+            <li class="menu__mega"><a href="" class="init-bottom">自社作品</a>
+                <ul class="menu__second-level">
+                    <li><a href="https://www.takaratomy.co.jp/products/zoidsofficial/"><img src="/products/tsparkofficial/_image/bn_works1.png" alt=""><p>ZOIDS</p></a></li>
+                    <li><a href="https://tf.takaratomy.co.jp" target="_blank"><img src="/products/tsparkofficial/_image/bn_works2.png" alt=""><p>トランスフォーマー</p></a></li>
+                    <li><a href="https://www.takaratomy.co.jp/products/diaclone/" target="_blank"><img src="/products/tsparkofficial/_image/bn_works3.png" alt=""><p>ダイアクロン</p></a></li>
+                </ul>  
+            </li>
+
+            <li class="menu__mega"><a href="" class="init-bottom">商品一覧</a>
+                <ul class="menu__second-level">
+                    <li><a href="/tsparkofficial/realize/"><img src="/products/tsparkofficial/_image/bn_brand2.png" alt=""><p>リアライズ</p></a></li>
+                    <li><a href="/tsparkofficial/adamas/"><img src="/products/tsparkofficial/_image/bn_brand1.png" alt=""><p>アダマスマキナ</p></a></li>
+                    <li><a href="/tsparkofficial/toyrise/"><img src="/products/tsparkofficial/_image/bn_brand3.png" alt=""><p>トイライズ</p></a></li>
+                    <li><a href="/tsparkofficial/synergenex/"><img src="/products/tsparkofficial/_image/bn_brand6.png" alt=""><p>シナジネクス</p></a></li>
+                    <li><a href="/tsparkofficial/metamor/"><img src="/products/tsparkofficial/_image/bn_brand5.png" alt=""><p>メタモルバース</p></a></li>
+                    <li><a href="/tsparkofficial/alterednano/"><img src="/products/tsparkofficial/_image/bn_brand_alterednano.png" alt=""><p>オルタードナノ</p></a></li>
+                    <li><a href="/tsparkofficial/qvillage/"><img src="/products/tsparkofficial/_image/bn_brand_qvillage.png" alt=""><p>Qビレッジ</p></a></li>
+                    <li><a href="/tsparkofficial/ck/"><img src="/products/tsparkofficial/_image/bn_brand_collekazaro.png" alt=""><p>コレカザロ</p></a></li>
+                    <li><a href="/tsparkofficial/sparkfig/"><img src="/products/tsparkofficial/_image/bn_brand_sparkfig.png" alt=""><p>スパークフィグ</p></a></li>
+                    <li><a href="/tsparkofficial/legacysoul/"><img src="/products/tsparkofficial/_image/bn_brand_legacysoul.png" alt=""><p>レガシーソウル</p></a></li>
+                </ul>        
+            </li>
+        </ul>
+    </nav>     
+
+</header>   

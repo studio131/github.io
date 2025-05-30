@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>商品一覧｜T-SPARK公式サイト｜タカラトミー</title>
+    <meta name="Description" content="タカラトミー公式が贈る、キダルトホビー　T-SPARK（ティースパーク）新たなキャラクターの登場でタカラトミーのホビー世界観が大きく拡大。あそぶ・かざる・集めるホビーの力がここに集結。" />
+    <!-- ogp -->
+    <meta property="og:site_name" content="T-SPARK公式サイト｜タカラトミー" />
+    <meta property="og:url" content="https://www.takaratomy.co.jp/products/tsparkofficial/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="商品一覧｜T-SPARK公式サイト｜タカラトミー" />
+    <meta property="og:description" content="タカラトミー公式が贈る、キダルトホビー　T-SPARK（ティースパーク）新たなキャラクターの登場でタカラトミーのホビー世界観が大きく拡大。あそぶ・かざる・集めるホビーの力がここに集結。" />
+    <!-- twittercard -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="タカラトミー公式が贈る、キダルトホビー　T-SPARK（ティースパーク）新たなキャラクターの登場でタカラトミーのホビー世界観が大きく拡大。あそぶ・かざる・集めるホビーの力がここに集結。" />
+    <meta property="og:image" content="https://www.takaratomy.co.jp/products/tsparkofficial/_image/ogp.jpg" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+    <link rel="stylesheet" type="text/css" href="/common/css/cmn_layout.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="/common/css/cmn_style.css" media="all" />
+    <script src="/common/js/jquery.1.11.2.js"></script>
+    <script type="text/javascript" src="/common/js/common2.js"></script>
+    <!--[if lt IE 9]>
+      <script src="/common/js/html5_ie.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="../_common/css/default.css" />
+    <link rel="stylesheet" type="text/css" href="../style.css" />
+    <link rel="stylesheet" href="https://use.typekit.net/unj5qxc.css" />
+
+    <script src="https://j.wovn.io/1" data-wovnio="key=2ATvhU" async></script>
+  </head>
+
+  <body id="gDef" class="lDef">
+    <!--<div id="loader-bg">
+      <div id="loader"><img src="../_image/cmn_loading.png" srcset="../_image/cmn_loading@2x.png 2x" alt=""></div>
+    </div>-->
+
+    <!-- ヘッダエリア -->
+    <!--#include virtual="/include/header002.shtml" -->
+    <!-- //ヘッダエリア -->
+    <div id="t-spark_top">
+
+    <!--#include virtual="../parts_nav.shtml" -->
+
+      <div id="lineup_detail">
+        <h2>LINE UP<p>商品一覧</p></h2>
+        <div id="adamas" class="logo"><img src="../_image/logo_adama.png" alt=""></div>
+        <ul>
+            <li><a href="../adamas/amt01_rodimus/"><img src="../_icon/adamas_t01_rodimas.jpg" alt=""><p>鋼鉄機神 アダマスマキナ<br>「AMT-01 ロディマス」</p></a></li>
+            <li><a href="../adamas/amz01_berserk/"><img src="../_icon/adamas_z01_fuhrer.jpg" alt=""><p>鋼鉄機神 アダマスマキナ<br>「AMZ-01 バーサークフューラー」</p></a></li>
+        </ul>
+
+          <div id="realize" class="logo"><img src="../_image/logo_realize.png" alt=""></div>
+            <ul>
+              <li><a href="../realize/rmz009_ironkong/"><img src="../_icon/rmz09_ironkong.jpg" alt=""><p>REALIZE MODEL<br>「RMZ-009 アイアンコング」</p></a></li>
+              <li><a href="../realize/rmz008_cwolfirvine/"><img src="../_icon/rmz08_cwolf_irvine.jpg" alt=""><p>REALIZE MODEL<br>「RMZ-008 コマンドウルフ アーバイン仕様」</p></a></li>
+              <li><a href="../realize/rmz007_trinityliger/"><img src="../_icon/realize07_trinity_liger.jpg" alt=""><p>REALIZE MODEL<br>「RMZ-007 トリニティライガー」</p></a></li>
+              <li><a href="../realize/rmz006_sabertiger/"><img src="../_icon/realize06_saber_tiger.jpg" alt=""><p>REALIZE MODEL<br>「RMZ-006 セイバータイガー」</p></a></li>
+              <li><a href="../realize/rmz005_molga/"><img src="../_icon/realize05_molga.jpg" alt=""><p>REALIZE MODEL<br>「RMZ-005 モルガ」</p></a></li>
+              <li><a href="../realize/rmz004_hellcat/"><img src="../_icon/realize04_hellcat.jpg" alt=""><p>REALIZE MODEL<br>「RMZ-004 ヘルキャット」</p></a></li>
+              <li><a href="../realize/rmz003_commandwolf/"><img src="../_icon/realize03_commandwolf.jpg" alt=""><p>REALIZE MODEL<br>「RMZ-003 コマンドウルフ」</p></a></li>
+              <li><a href="../realize/rmz02_genosaurer/"><img src="../_icon/realize02_genosaurer.jpg" alt=""><p>REALIZE MODEL<br>「RMZ-002 ジェノザウラー」</p></a></li>
+              <li><a href="../realize/rmz01_bladeliger/"><img src="../_icon/realize01_bladeliger.jpg" alt=""><p>REALIZE MODEL<br>「RMZ-001 ブレードライガー」</p></a></li>
+            </ul>
+
+            <div id="toyrise" class="logo"><img src="../_image/logo_toyrise.png" alt=""></div>
+
+            <ul>
+              <li><a href="../toyrise/dragon_kizer/"><img src="../_icon/dk.jpg" alt=""><p>TOYRISE<br>「ドラゴンカイザー」</p></a></li>
+              <li><a href="../toyrise/b_daman_yellow_cresher/"><img src="../_icon/b_daman_yellow_cresher.jpg" alt=""><p>TOYRISE<br>「ビーダマン イエロークラッシャー」</p></a></li>
+              <li><a href="../toyrise/ryukendo/"><img src="../_icon/ryukendo.jpg" alt=""><p>TOYRISE<br>「リュウケンドー」</p></a></li>
+              <li><a href="../toyrise/b_daman_blue_braiver/"><img src="../_icon/b_daman_blue_braiver.jpg" alt=""><p>TOYRISE<br>「ビーダマン ブルーブレイバー」</p></a></li>
+              <li><a href="../toyrise/b_daman_white_blows/"><img src="../_icon/b_daman_white_blows.jpg" alt=""><p>TOYRISE<br>「ビーダマン ホワイトブロス」</p></a></li>
+              <li><a href="../toyrise/sd02_melquiyan/"><img src="../_icon/sd02_melquiyan.jpg" alt=""><p>TOYRISE<br>「ボトムズ スコープドッグ メルキア仕様」</p></a></li>
+              <li><a href="../toyrise/sd01_redshoulder/"><img src="../_icon/SD01_redshoulder.jpg" alt=""><p>TOYRISE<br>「ボトムズ スコープドッグ レッドショルダーカスタム」</p></a></li>
+              <li><a href="../toyrise/03_gaogaigar/"><img src="../_icon/toyrise03_gaogaigar.jpg" alt=""><p>TOYRISE<br>「ジェネシック ガオガイガー」</p></a></li>
+              <li><a href="../toyrise/02_bang_bravern/"><img src="../_image/BB_thumb.jpg" alt=""><p>TOYRISE<br>「バーンブレンバーン」</p></a></li>
+              <li><a href="../toyrise/01_exkaiser/"><img src="../_icon/toyrise01_exkaiser.jpg" alt=""><p>TOYRISE<br>「キングエクスカイザー」</p></a></li>
+            </ul>
+
+            <div id="synergenex" class="logo"><img src="../_image/logo_synergenex.png" alt=""></div>
+
+            <ul>
+              <li><a href="../synergenex/gatlingfoxmizutsune/" target="_blank"><img src="../_icon/gatlingfoxmizutsune.jpg" alt=""><p>SYNERGENEX<br>「ガトリングフォックス ミツネ」</p></a></li>
+              <li><a href="../synergenex/knucklekongrajang/" target="_blank"><img src="../_icon/knucklekongrajang.jpg" alt=""><p>SYNERGENEX<br>「ナックルコング 斉天」</p></a></li>
+              <li><a href="../synergenex/silverliolaeusprime/" target="_blank"><img src="../_icon/silverliolaeusprime.jpg" alt=""><p>SYNERGENEX<br>「シルバーリオレウスプライム」</p></a></li>
+              <li><a href="../synergenex/godzilla/" target="_blank"><img src="../_icon/synergenex_godzilla.jpg" alt=""><p>SYNERGENEX<br>「MEGATRON TYPE GODZILLA」<br>「OPTIMUS PRIME TYPE MFS-3 KIRYU」</p></a></li>
+              <li><a href="../synergenex/monsterhunter/" target="_blank"><img src="../_icon/synergenex_monsterhunter.jpg" alt=""><p>SYNERGENEX<br>「リオレウスプライム」</p></a></li>
+              <li><a href="/products/zoidsofficial/spiderzoids/" target="_blank"><img src="../_icon/synergenex02_spider.jpg" alt=""><p>SYNERGENEX<br>「SPIDER ZOIDS SPIDER-MAN special」</p></a></li>
+              <li><a href="/products/zoidsofficial/spiderzoids_bk/" target="_blank"><img src="../_icon/synergenex03_spider_bk.jpg" alt=""><p>SYNERGENEX<br>「SPIDER ZOIDS BLACK SPIDER -MAN special」</p></a></li>
+            </ul>
+
+            <div id="alterednano" class="logo"><img src="../_image/logo_alterednano.png" alt=""></div>
+
+            <ul>
+              <li><a href="/products/tsparkofficial/alterednano/" target="_blank"><img src="../_icon/alterednano_aa.jpg" alt=""><p>ALTEREDNANO<br>AA-CAVALL＜カヴァス＞</p></a></li>
+              <li><a href="/products/tsparkofficial/alterednano/" target="_blank"><img src="../_icon/alterednano_alt.jpg" alt=""><p>ALTEREDNANO<br>Alt FRIGATE＜フリゲート＞</p></a></li>
+            </ul>
+
+            <div id="qvillage" class="logo"><img src="../_image/logo_qvillage.png" alt=""></div>
+
+            <ul>
+              <li><a href="../qvillage/ws/" target="_blank"><img src="../_icon/ws.jpg" alt=""><p>Q VILLAGE<br>バック・トゥ・ザ・フューチャー タイムマシン（PART1）</p></a></li>
+              <li><a href="../qvillage/btf/" target="_blank"><img src="../_icon/btf.jpg" alt=""><p>Q VILLAGE<br>ワイルド・スピード NISSAN SKYLINE GT-R (R34)</p></a></li>
+            </ul>
+
+            <div id="collekazaro" class="logo"><img src="../_image/logo_collekazaro.png" alt=""></div>
+
+            <ul>
+              <li><a href="../ck/" target="_blank"><img src="../_icon/colle_ha.jpg" alt=""><p>COLLEKAZARO<br>僕のヒーローアカデミア</p></a></li>
+              <li><a href="../ck/" target="_blank"><img src="../_icon/colle_vi.jpg" alt=""><p>COLLEKAZARO<br>ヴィジランテ -僕のヒーローアカデミア ILLEGALS-</p></a></li>
+            </ul>
+
+            <div id="sparkfig" class="logo"><img src="../_image/logo_sparkfig.png" alt=""></div>
+
+            <ul>
+              <li><a href="../sparkfig/princess_ripple/" target="_blank"><img src="../_icon/sparkfig_princess_ripple.png" alt=""><p>SPARK Fig<br>プリンセッション・オーケストラ<br>プリンセス・リップル</p></a></li>
+              <li><a href="../sparkfig/kotona_elegance/index.shtml" target="_blank"><img src="../_icon/next_product.png" alt=""><p>SPARK Fig<br>ゾイド ジェネシス<br>コトナ・エレガンス</p></a></li>
+            </ul>
+
+          <!--#include virtual="../parts_footer.shtml" -->
+          </div>
+      <!--/end zoids_top -->
+      </div>
+    <!-- フッタエリア -->
+    <!--#include virtual="/include/footer002.shtml" -->
+    <!-- //フッタエリア -->
+      <script src="../_common/js/jquery-2.1.0.min.js"></script>
+      <script src="../_common/js/function.js"></script>
+
+      <script>
+        (function(d) {
+          var config = {
+            kitId: 'unk5wsm',
+            scriptTimeout: 3000,
+            async: true
+          },
+          h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+        })(document);
+      </script>
+  </body>
+</html>

@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>T-SPARK公式サイト｜タカラトミー</title>
+    <meta
+      name="Description"
+      content="タカラトミー公式が贈る、キダルトホビー　T-SPARK（ティースパーク）新たなキャラクターの登場でタカラトミーのホビー世界観が大きく拡大。あそぶ・かざる・集めるホビーの力がここに集結。"
+    />
+    <!-- ogp -->
+    <meta property="og:site_name" content="T-SPARK公式サイト｜タカラトミー" />
+    <meta
+      property="og:url"
+      content="https://www.takaratomy.co.jp/products/tsparkofficial/"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="T-SPARK公式サイト｜タカラトミー" />
+    <meta
+      property="og:description"
+      content="タカラトミー公式が贈る、キダルトホビー　T-SPARK（ティースパーク）新たなキャラクターの登場でタカラトミーのホビー世界観が大きく拡大。あそぶ・かざる・集めるホビーの力がここに集結。"
+    />
+    <!-- twittercard -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:description"
+      content="タカラトミー公式が贈る、キダルトホビー　T-SPARK（ティースパーク）新たなキャラクターの登場でタカラトミーのホビー世界観が大きく拡大。あそぶ・かざる・集めるホビーの力がここに集結。"
+    />
+    <meta
+      property="og:image"
+      content="https://www.takaratomy.co.jp/products/tsparkofficial/_image/ogp.jpg"
+    />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, user-scalable=yes"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/common/css/cmn_layout.css"
+      media="all"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/common/css/cmn_style.css"
+      media="all"
+    />
+    <link rel="stylesheet" type="text/css" href="../style.css" />
+    <script src="/common/js/jquery.1.11.2.js"></script>
+    <script type="text/javascript" src="/common/js/common2.js"></script>
+    <!--[if lt IE 9]>
+      <script src="/common/js/html5_ie.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="_common/css/default.css" />
+    <link rel="stylesheet" type="text/css" href="_common/css/slick-theme.css" />
+    <link rel="stylesheet" type="text/css" href="_common/css/slick.css" />
+    <link rel="stylesheet" type="text/css" href="style.css?ver0419" />
+    <link rel="stylesheet" href="https://use.typekit.net/unj5qxc.css" />
+
+    <script src="https://j.wovn.io/1" data-wovnio="key=2ATvhU" async></script>
+  </head>
+
+  <body id="gDef" class="lDef">
+    <!--<div id="loader-bg">
+      <div id="loader"><img src="../_image/cmn_loading.png" srcset="../_image/cmn_loading@2x.png 2x" alt=""></div>
+    </div>-->
+
+    <!-- ヘッダエリア -->
+    <!--#include virtual="/include/header002.shtml" -->
+    <!-- //ヘッダエリア -->
+    <div id="t-spark_top">
+      <!--#include virtual="../parts_nav.shtml" -->
+
+      <section id="top">
+        <img src="_image/top_topics_toy_show.png">
+        </div>
+      </section>
+
+      <section id="sec2">
+		  <div class="innner">
+			  <div class="article">
+              <table class="normalTbl">
+            <thead>
+              &emsp;
+            </thead>
+            <tbody>
+			<tr>
+            <th>場&emsp;&emsp;所</th>
+            <td>台北世界貿易センター第1</td>
+            </tr>
+            <tr>
+            <th>日&emsp;&emsp;時</th>
+            <td>2025年5月30日(金)〜06月02日(月)</td>
+            </tr>
+            <tr>
+            <th>時&emsp;&emsp;間</th>
+            <td>10:00 - 18:00</td>
+            </tr>
+            <tr>
+            <th>住&emsp;&emsp;所</th>
+            <td>台北市信義区信義路5号5号</td>
+            </tr>
+            <tr>
+            <th>電話番号</th>
+            <td>02-2797-9559</td>
+            </tr>
+            <tr>
+            <th>ホームページ</th>
+            <td><a href="https://tpe-toyshow.kje-event.com.tw/">台北國際潮流玩具、授權展 TAIPEI TOY SHOW｜05/30-06/02 世貿一館</a></td>
+            </tr>
+            <tr>
+            <th>イベント概要</th>
+            <td>玩具ファンのためのフェスティバル！05/30-06/02台北世界世界貿易センターにて開催<br>
+                  ファッショントイ、デザイナートイ、コレクショントイ、模型、ブライドボックスなど様々なIPが参加し、玩具ファンに夢のような体験を！</td>
+            </tr>
+            </tbody></table>
+		</div>
+		</div>
+		  <h2 class="text_2">T-SPARK商品が集結！</h2> 
+      </section>
+
+      <section id="sec3">
+	
+      </section>
+		  </div>
+    <section id="copyright1">
+		<p></p>
+    </section>
+
+      
+
+</div>
+      <!--/end t-spark_top -->
+    </div>
+
+    <!-- フッタエリア -->
+    <!--#include virtual="/include/footer002.shtml" -->
+    <!-- //フッタエリア -->
+
+    <script
+      type="text/javascript"
+      src="_common/js/jquery-2.1.0.min.js"
+    ></script>
+    <script type="text/javascript" src="_common/js/function.js"></script>
+    <script src="_common/js/slick.min.js"></script>
+    <script>
+      $("#main-slick").slick({
+        autoplay: true,
+        autoplaySpeed: 3000,
+        arrows: false,
+        dots: true,
+        infinite: true,
+      });
+      $("#news-slick").slick({
+        autoplay: true,
+        slidesToShow: 5,
+        slidesToScroll: 1,
+        autoplaySpeed: 3000,
+        arrows: true,
+        prevArrow:
+          '<img src="_image/arrow_prev.png" class="slide-arrow prev-arrow">',
+        nextArrow:
+          '<img src="_image/arrow_next.png" class="slide-arrow next-arrow">',
+        dots: false,
+        infinite: true,
+
+        //レスポンシブでの動作を指定
+        responsive: [
+          {
+            breakpoint: 467, //ブレイクポイントを指定
+            settings: {
+              slidesToShow: 2,
+              arrows: false,
+            },
+          },
+        ],
+      });
+
+      $(".tab").on("click", function () {
+        $(".tab, .panel").removeClass("active");
+
+        $(this).addClass("active");
+
+        var index = $(".tab").index(this);
+        $(".panel").eq(index).addClass("active");
+      });
+    </script>
+
+    <script>
+      (function (d) {
+        var config = {
+            kitId: "unk5wsm",
+            scriptTimeout: 3000,
+            async: true,
+          },
+          h = d.documentElement,
+          t = setTimeout(function () {
+            h.className =
+              h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive";
+          }, config.scriptTimeout),
+          tk = d.createElement("script"),
+          f = false,
+          s = d.getElementsByTagName("script")[0],
+          a;
+        h.className += " wf-loading";
+        tk.src = "https://use.typekit.net/" + config.kitId + ".js";
+        tk.async = true;
+        tk.onload = tk.onreadystatechange = function () {
+          a = this.readyState;
+          if (f || (a && a != "complete" && a != "loaded")) return;
+          f = true;
+          clearTimeout(t);
+          try {
+            Typekit.load(config);
+          } catch (e) {}
+        };
+        s.parentNode.insertBefore(tk, s);
+      })(document);
+    </script>
+  </body>
+</html>

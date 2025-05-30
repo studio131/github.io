@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>TRANSFORMERS × MONSTER HUNTER「リオレウスプライム」｜SYNERGENEX/シナジネクス｜T-SPARK公式サイト</title>
+    <meta name="Description" content="モンスターハンター20周年、トランスフォーマー40周年を記念し、夢のコラボレーションが実現！" />
+    <!-- ogp -->
+    <meta property="og:site_name" content="T-SPARK公式サイト｜タカラトミー" />
+    <meta property="og:url" content="https://www.takaratomy.co.jp/products/tsparkofficial/synergenex/monsterhunter/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="TRANSFORMERS × MONSTER HUNTER「リオレウスプライム」｜SYNERGENEX/シナジネクス" />
+    <meta property="og:description" content="モンスターハンター20周年、トランスフォーマー40周年を記念し、夢のコラボレーションが実現！" />
+    <!-- twittercard -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="モンスターハンター20周年、トランスフォーマー40周年を記念し、夢のコラボレーションが実現！" />
+    <meta property="og:image" content="https://www.takaratomy.co.jp/products/tsparkofficial/synergenex/monsterhunter/ogp.jpg" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+    <link rel="stylesheet" type="text/css" href="/common/css/cmn_layout.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="/common/css/cmn_style.css" media="all" />
+    <script src="/common/js/jquery.1.11.2.js"></script>
+    <script type="text/javascript" src="/common/js/common2.js"></script>
+    <!--[if lt IE 9]>
+      <script src="/common/js/html5_ie.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="../../_common/css/default.css" />
+    <link rel="stylesheet" type="text/css" href="../../style.css?ver0416" />
+   
+<link rel="stylesheet" type="text/css" media="all" href="css/style.css" />
+    <link rel="stylesheet" href="https://use.typekit.net/unj5qxc.css" />
+    
+    <script src="https://j.wovn.io/1" data-wovnio="key=2ATvhU" async></script>
+    
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'chc0say',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+ 
+  </head>
+
+  <body id="gDef" class="lDef">
+    <!--<div id="loader-bg">
+      <div id="loader"><img src="../../_image/cmn_loading.png" srcset="../_image/cmn_loading@2x.png 2x" alt=""></div>
+    </div>-->
+
+    <!-- ヘッダエリア -->
+    <!--#include virtual="/include/header002.shtml" -->
+    <!-- //ヘッダエリア -->
+    <div id="t-spark_top">
+
+        
+           <!--#include virtual="../../parts_nav.shtml" -->
+
+
+<section class="mv" class="maxImg">
+      <picture class="maxImg">
+ <source srcset="img/bg_top.webp" media="(min-width:667px)" type="image/webp" />
+  <source srcset="img/bg_top.jpg" media="(min-width:667px)" />
+  <source srcset="img/bg_top_sp.webp" type="image/webp" />
+  <img src="img/bg_top_sp.jpg" alt="sp.jpg" />
+    </picture>
+</section>
+    
+<section id="lead">
+    <div class="text1"><img src="img/lead_text.png" alt=""></div>
+</section>
+    
+<section id="collabo" class="maxImg">
+      <picture>
+  <source srcset="img/bg_colabo.webp" type="image/webp" />
+  <img src="img/bg_colabo.jpg" alt="bg_top.jpg" />
+    </picture>
+</section>    
+    
+
+<section id="movie">
+<h2>MOVIE</h2>
+     <div class="mv">
+      <div class="youtube">
+        <iframe width="880" height="495" class="box" src="https://www.youtube.com/embed/saLpR_Vg3cg" frameborder="0"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+         </div></div>
+    
+</section>    
+
+    <section id="product">
+        <div class="bgchara"><img src="img/bg_chara.png" alt=""></div>
+        <h2>PRODUCT</h2>
+
+        <div class="img1"> <picture>
+                        <source srcset="img/product_img.png" media="(min-width: 640px)" /><!-- 幅640px以上なら表示 -->
+                        <img src="img/product_img_sp.png"><!-- それ以外で表示 -->
+                    </picture></div>
+    
+    
+    <div class="title"><img src="img/product_title.png" alt=""></div>
+    
+    <p class="text1">オプティマスプライムが「モンスターハンター」の世界で身をひそめるための姿。<br>
+スペースブリッジでの転送で不具合が生じ、<br>
+オプティマスプライムは「モンスターハンター」の世界へと迷い込んでしまった。<br>
+元の世界の姿のままでは目立つと判断した彼は、<br>
+ふと空を見上げた際に飛翔していたリオレウスをスキャンしたのであった。</p>
+   
+   
+   <dl class="specBox">
+       <dt><div class=titleImg><img src="img/product_title_weapon.png" alt=""></div>
+       
+        <p>リオレウスプライムのメインウェポン。<br>
+剣と盾で構成され、剣モードから斧モードへと変形合体が可能。<br>
+戦況に合わせ両モードを使い分ける。<br>
+剣と斧の両方の扱いに長けたオプティマスプライムに特化した武器である。
+</p>
+      </dt>
+       <dd><img src="img/product_weapon_img.png" alt=""></dd>
+
+        </dl>
+        <br style="clear:both;">
+        
+   <dl class="specBox num2">
+       <dt><div class=titleImg><img src="img/product_title_accessory.png" alt=""></div>
+       
+        <p>オプティマスプライムのマトリクスが変化した姿。<br>
+リオレウスをスキャンした際に、体内の「ある玉石」がマトリクスと反応したことで、中央のクリスタルが変化した。<br>
+このマトリクスに選ばれし者は、天空を自在に舞い、炎を意のままに操る力を授かるといわれている。</p>
+      </dt>
+       <dd><img src="img/product_accessory_img.png" alt=""></dd>
+
+        </dl>
+
+    </section>
+    
+    
+<section id="info">
+    
+    <div class="pict"><img src="img/info_img.jpg" alt=""></div>
+     <div class="text"><img src="img/info_text.png" alt=""></div>
+     
+     
+<div class="btnBuy"><a href="https://takaratomymall.jp/shop/g/g4904810948568/" target="_blank"><img src="../../_image/btn_buy.png" alt=""></a></div>
+     
+<div class="banner"><a href="https://tf.takaratomy.co.jp" target="_blank"><img src="img/banner_tf.png" alt=""></a></div>
+     
+    
+    <p class="caution">「トランスフォーマー」、 「TRANSFORMERS」 は株式会社タカラトミーの商標登録です。<br>
+※背景、エフェクトは情景を表すイメージです　※映像の商品は開発中の設計データを使用したCGです<br>
+        ※最終仕様と形状、カラーリングが異なる場合があります</p>
+        
+    <p class="copy">©︎CAPCOM    ©︎ T O M Y</p>
+    
+</section>
+    
+
+
+
+      
+<!--------------------------------------------------------------------------------- 
+ここまで
+---------------------------------------------------------------------------------->
+
+
+  </div>
+
+    <!-- フッタエリア -->
+    <!--#include virtual="/include/footer002.shtml" -->
+    <!-- //フッタエリア -->
+
+
+    <script src="../../_common/js/jquery-2.1.0.min.js"></script>
+        <script src="../../_common/js/jquery.cookie.js"></script>
+    <script src="../../_common/js/access_check.js"></script>
+
+</body>
+</html>

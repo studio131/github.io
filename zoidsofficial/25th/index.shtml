@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>『ゾイド - ZOIDS -』25周年記念プロジェクト｜ゾイド(ZOIDS)シリーズ公式サイト｜タカラトミー</title>
+    <meta name="Description" content="" />
+    <!-- ogp -->
+    <meta property="og:site_name" content="『ゾイド - ZOIDS -』25周年記念プロジェクト｜ゾイド(ZOIDS)シリーズ公式サイト｜タカラトミー" />
+    <meta property="og:url" content="https://www.takaratomy.co.jp/products/zoidsofficial/25th/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="『ゾイド - ZOIDS -』25周年記念プロジェクト｜ゾイド(ZOIDS)シリーズ公式サイト｜タカラトミー" />
+    <meta property="og:description" content="" />
+    <!-- twittercard -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="" />
+    <meta property="og:image" content="https://www.takaratomy.co.jp/products/zoidsofficial/25th/_image/ogp.jpg" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+    <link rel="stylesheet" type="text/css" href="/common/css/cmn_layout.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="/common/css/cmn_style.css" media="all" />
+    <script src="/common/js/jquery.1.11.2.js"></script>
+    <script type="text/javascript" src="/common/js/common2.js"></script>
+    <!--[if lt IE 9]>
+      <script src="/common/js/html5_ie.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="../_common/css/default.css" />
+    <link rel="stylesheet" type="text/css" href="../_common/css/slick-theme.css" />
+    <link rel="stylesheet" type="text/css" href="../_common/css/slick.css" />
+    <link rel="stylesheet" type="text/css" href="_common/magnific-popup.css" />
+    <link rel="stylesheet" type="text/css" href="../style.css" />
+
+    <link rel="stylesheet" href="https://use.typekit.net/unj5qxc.css" />
+  </head>
+
+  <body id="gDef" class="lDef">
+    <!--<div id="loader-bg">
+      <div id="loader"><img src="../_image/cmn_loading.png" srcset="../_image/cmn_loading@2x.png 2x" alt=""></div>
+    </div>-->
+
+    <!-- ヘッダエリア -->
+    <!--#include virtual="/include/header002.shtml" -->
+    <!-- //ヘッダエリア -->
+    <div id="zoids_under">
+              <h1>ゾイドシリーズ公式サイト。<br class="sp">ゾイドシリーズの様々な情報を集約。</h1>
+              
+
+    <div class="inner1">
+        <img src="_image/zoids_BK.jpg?v3" alt="">
+        
+        
+        
+             
+            <div class="mov">
+            <div class="youtube">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/PYBF_puyX5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+             
+        
+    </div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      <!--/end zoids_top -->
+    </div>
+
+
+
+
+
+
+
+
+    <!-- フッタエリア -->
+    <!--#include virtual="/include/footer002.shtml" -->
+    <!-- //フッタエリア -->
+
+
+    <script>
+      (function (d) {
+        var config = {
+            kitId: "tys5cuo",
+            scriptTimeout: 3000,
+            async: true,
+          },
+          h = d.documentElement,
+          t = setTimeout(function () {
+            h.className = h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive";
+          }, config.scriptTimeout),
+          tk = d.createElement("script"),
+          f = false,
+          s = d.getElementsByTagName("script")[0],
+          a;
+        h.className += " wf-loading";
+        tk.src = "https://use.typekit.net/" + config.kitId + ".js";
+        tk.async = true;
+        tk.onload = tk.onreadystatechange = function () {
+          a = this.readyState;
+          if (f || (a && a != "complete" && a != "loaded")) return;
+          f = true;
+          clearTimeout(t);
+          try {
+            Typekit.load(config);
+          } catch (e) {}
+        };
+        s.parentNode.insertBefore(tk, s);
+      })(document);
+    </script>
+
+  </body>
+</html>

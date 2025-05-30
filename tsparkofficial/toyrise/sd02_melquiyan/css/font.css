@@ -1,0 +1,125 @@
+@charset "UTF-8";
+
+/**********************************************
+                   フォント 
+***********************************************/
+
+
+
+@font-face {
+	font-family: "YuGothic-M";
+	font-weight: normal;
+	 src: local("YuGothic-Medium"),
+		  local("Yu Gothic Medium"),
+		  local("YuGothic-Regular");
+}
+
+@font-face {
+	font-family: "YuGothic-M";
+	font-weight: bold;
+	 src: local("YoGothic-Bold"),
+		  local("Yu Gothic");
+}
+
+html {
+	font-size: 62.5%;/* 16px x 0.625 = 10px(=1rem) */
+}
+
+body {
+	font-size: 1.6rem;/* 16px */
+  letter-spacing:.2rem;
+	font-family: -apple-system, blinkMacSystemFont, YuGothic-M, YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+	-webkit-text-size-adjust: 100%;
+	font-feature-settings: "palt";
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	::i-block-chrome, body {
+		font-feature-settings: "pkna";
+	}
+}
+
+
+h1, h2, h3, h4 {
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+h2{
+  font-size:clamp(2.5rem ,3vw,4rem);
+  letter-spacing:.6rem;
+  line-height:36rem;
+}
+
+p{
+  font-size:clamp(1.4rem ,1.5vw,1.6rem);
+  margin: 0.8rem 0;
+  line-height: 2.5rem;
+}
+
+/**********************************************
+                   フォント      
+***********************************************/
+
+
+.font-weight-normal{font-weight: bold;}
+.font-weight-100{font-weight:100;}
+
+
+.line-height-xxl{line-height:2;}
+.line-height-xl{line-height:1.9;}
+.line-height-lg{line-height:1.75;}
+.line-height-md{line-height:1.5;}
+.line-height-sm{line-height:1.375;}
+.line-height-sm{line-height:1.5;}
+.line-height-xs{line-height:1.25;}
+.line-height-xxs{line-height:1;}
+
+
+
+/**********************************************
+                   見出し      
+***********************************************/
+
+/*h1{font-size:2.5rem;}*/
+/*h2{font-size:2rem;}*/
+h3{font-size:1.75rem;}
+h4{font-size:1.5rem;}
+h5{font-size:1.25rem;}
+
+.h1{font-size:2.5rem;}
+.h2{font-size:2rem;}
+.h3{font-size:1.75rem;}
+.h4{font-size:1.5rem;}
+.h5{font-size:1.25rem;}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  margin-bottom: .5rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: clamp(2.4rem, 3.125vw, 3.2rem);
+}
+
+.fs-1{font-size:2.5rem;}
+.fs-2{font-size:2rem;}
+.fs-3{font-size:1.75rem;}
+.fs-4{font-size:1.5rem;}
+.fs-5{font-size:1.25rem;}
+.fs-6{font-size:1rem;}
+
+.fs-xs-small{font-size: .5rem;}
+.fs-xxs-small{font-size: .2rem;}
+
+.display-1{font-size: 5rem;}
+.display-2{font-size: 4.5rem;}
+.display-3{font-size: 4rem;}
+.display-4{font-size: 3.5rem;}
+.display-5{font-size: 3rem;}
+.display-6{font-size: 2.5rem;}
+
+
+

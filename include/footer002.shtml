@@ -1,0 +1,226 @@
+<footer class="footMain01">
+	<p class="footerPageTop01"><a href="#pageTop" class="scroll" style="display: block;">ページ上部へ</a></p>
+	<div class="commonFrame01">
+		<div class="inner01">
+			<div class="commonFrameWrap01">
+				<ul class="commonSnsList01">
+					<li><a href="https://www.youtube.com/takaratomychannel" target="_blank" rel="noopener"><img src="/common/2021/img/common_icon05.svg" alt="youtube"></a></li>
+					<li><a href="https://twitter.com/takaratomytoys" target="_blank" rel="noopener"><img src="/common/2021/img/common_icon20.svg" alt="X"></a></li>
+					<li><a href="https://www.instagram.com/takaratomytoys/" target="_blank" rel="noopener"><img src="/common/2021/img/common_icon19.svg" alt="Instagram"></a></li>
+					<li><a href="https://www.facebook.com/takaratomytoys" target="_blank" rel="noopener"><img src="/common/2021/img/common_icon21.svg" alt="facebook"></a></li>
+					<li><a href="/lineofficial/"><img src="/common/2021/img/common_icon13.svg" alt="LINE"></a></li>
+				</ul>
+				<p class="text01"><a href="/sns/">タカラトミー公式SNS一覧</a></p>
+			<!-- /commonFrameWrap01 --></div>
+			<p class="banner01"><a href="https://takaratomymall.jp/shop/" target="_blank" rel="noopener"><img src="/common/2021/img/common_bnr01.png" alt="キミのだいすき、みつかる タカラトミーモール 公式ショッピングサイト"></a></p>
+		<!-- /inner01 --></div>
+	<!-- /commonFrame01 --></div>
+	<div class="footerFrame01">
+		<div class="inner01">
+			<div class="footerWrap02">
+				<div class="footerCol01">
+					<dl class="footerList01">
+						<dt><a href="/products/" class="inner01">商品情報</a></dt>
+						<dd>
+							<ul class="footerList02">
+								<li><a href="/products/">商品情報</a></li>
+								<li><a href="/product_release/">商品リリース</a></li>
+								<li><a href="/products/list/">商品一覧</a></li>
+								<li><a href="https://takaratomymall.jp/shop/goods/search.aspx?sort=rd&amp;max_releasedt=2021-03-31&amp;min_releasedt=2021-03-01&amp;search=true" target="_blank" rel="noopener">新商品一覧</a></li>
+								<li><a href="/whatsnew/">商品サイト更新情報</a></li>
+							</ul>
+						</dd>
+					</dl>
+					<dl class="footerList01 mt30 sp_mt00">
+						<dt><span class="inner01">シーズンサイト</span></dt>
+						<dd>
+							<ul class="footerList02">
+								<li style="display: block;"><a href="/season/xmas/">クリスマス2024</a></li>
+								<li style="display: block;"><a href="/season/toyshow/">おもちゃショー2024</a></li>
+							</ul>
+						</dd>
+					</dl>
+					
+				<!-- /footCol01 --></div>
+				<div class="footerCol01 sp_ft">
+					<dl class="footerList01">
+						<dt><a href="/products/" class="inner01">キャラクターから探す</a></dt>
+						<dd>
+							<ul class="footerList02">
+								<li><a href="/products/character/tomica.html">トミカ</a></li>	
+								<li><a href="/products/character/plarail.html">プラレール</a></li>	
+								<li><a href="/products/character/ania.html">アニア</a></li>	
+								<li><a href="/products/character/licca.html">リカちゃん</a></li>	
+								<li><a href="/products/character/tf.html">トランスフォーマー</a></li>	
+								<li><a href="/products/character/dm.html">デュエル・マスターズ</a></li>	
+								<li><a href="/products/character/disney.html">ディズニー</a></li>	
+								<li><a href="/products/character/pokemon.html">ポケットモンスター</a></li>	
+								<li><a href="/products/character/zoids.html">ZOIDS</a></li>	
+								<li><a href="/products/character/beyblade.html">ベイブレード</a></li>	
+								<li><a href="/products/character/pawpatrol.html">パウ・パトロール</a></li>	
+								<li><a href="/products/character/aipri.html">ひみつのアイプリ</a></li>	
+								<li><a href="/products/character/shinkalion.html">新幹線変形ロボ シンカリオンＺ</a></li>	
+								<li><a href="/products/character/diaclone.html">ダイアクロン</a></li>	
+								<li><a href="/products/character/kurohige.html">黒ひげ危機一発</a></li>	
+								<li><a href="/products/character/jinsei.html">人生ゲーム</a></li>	
+								<li><a href="/products/character/vehiclezoo.html">ゴー!ゴー!びーくるずー</a></li>	
+								<li><a href="/products/character/baby.html">タカラトミーベビー</a></li>	
+								<li><a href="/products/character/thomas.html">きかんしゃトーマス</a></li>	
+								<li><a href="/products/character/bottleman.html">ボトルマン</a></li>	
+								<li><a href="/products/character/kabutoborg.html">バトル昆虫カブトボーグ</a></li>	
+								<li><a href="/products/character/magicalplaytime.html">マジカルプレイタイム</a></li>	
+								<li><a href="/products/character/omnibot.html">オムニボット</a></li>	
+								<li><a href="/products/character/wixoss.html">wixoss</a></li>	
+								<li><a href="/products/character/sumikko.html">すみっコぐらし</a></li>	
+								<li><a href="/products/character/jurassicworld.html">ジュラシック・ワールド</a></li>	
+								<li><a href="/products/character/kimetsu.html">鬼滅の刃</a></li>	
+								<li><a href="/products/character/bb.html">人機一体ブットバスター</a></li>	
+								<li><a href="/products/character/mazica_party.html">マジカパーティ</a></li>	
+							</ul>
+						</dd>
+					</dl>
+
+				<!-- /footCol01 --></div>
+
+
+
+				<div class="footerCol01 sp_ft">
+					<dl class="footerList01">
+						<dt><a href="/products/" class="inner01">ジャンルから探す</a></dt>
+						<dd>
+							<ul class="footerList02">
+								<li><a href="/products/category/car.html">くるま</a></li>	
+								<li><a href="/products/category/train.html">でんしゃ</a></li>	
+								<li><a href="/products/category/doll.html">人形</a></li>	
+								<li><a href="/products/category/educational_toys.html">知育玩具</a></li>	
+								<li><a href="/products/category/robot.html">ロボット</a></li>	
+								<li><a href="/products/category/cardgame.html">カードゲーム</a></li>	
+								<li><a href="/products/category/game.html">ゲーム</a></li>	
+								<li><a href="/products/category/nuigurumi.html">ぬいぐるみ</a></li>	
+								<li><a href="/products/category/figure.html">フィギュア</a></li>	
+								<li><a href="/products/category/oshare.html">おしゃれ</a></li>	
+								<li><a href="/products/category/programming.html">プログラミング</a></li>	
+								<li><a href="/products/category/block_toys.html">ブロック</a></li>	
+								<li><a href="/products/category/battle.html">対戦</a></li>	
+								<li><a href="/products/category/edutainment.html">エデュテイメント</a></li>	
+								<li><a href="/products/category/narikiri_item.html">なりきりアイテム</a></li>	
+								<li><a href="/products/category/mamagoto.html">ままごと</a></li>	
+								<li><a href="/products/category/henkei.html">変形・合体</a></li>	
+								<li><a href="/products/category/osewa.html">おせわ</a></li>	
+								<li><a href="/products/category/oekaki.html">おえかき</a></li>	
+								<li><a href="/products/category/making_toys.html">メイキングトイ</a></li>	
+								<li><a href="/products/category/sticker.html">シール</a></li>	
+								<li><a href="/products/category/trading_card.html">トレーディングカード</a></li>	
+								<li><a href="/products/category/app.html">アプリゲーム</a></li>	
+								<li><a href="/products/category/communication.html">コミュニケーション</a></li>	
+								<li><a href="/products/category/collection.html">コレクション</a></li>	
+							</ul>
+						</dd>
+					</dl>
+				<!-- /footCol01 --></div>
+
+
+				<div class="footerCol01 sp_ft">
+					<dl class="footerList01">
+						<dt><a href="/products/" class="inner01">年齢別から探す</a></dt>
+						<dd>
+							<ul class="footerList02">
+								<li><a href="/products/age/baby.html">ベビー・プリスクール</a></li>
+								<li><a href="/products/age/3_years.html">3歳以上</a></li>
+								<li><a href="/products/age/4_years.html">4歳以上</a></li>
+								<li><a href="/products/age/5_years.html">5歳以上</a></li>
+								<li><a href="/products/age/6_years.html">6歳以上</a></li>
+								<li><a href="/products/age/elementary_school.html">小学生</a></li>
+								<li><a href="/products/age/junior_high_school.html">中学生</a></li>
+								<li><a href="/products/age/15_years.html">15歳以上</a></li>
+								<li><a href="/products/age/20_years.html">20歳以上</a></li>
+								<li><a href="/products/age/senior.html">シニア向け</a></li>
+							</ul>
+						</dd>
+					</dl>
+				<!-- /footCol01 --></div>
+
+
+
+				<div class="footerCol01 sp_ft">
+					<dl class="footerList01">
+						<dt><a href="/products/" class="inner01">共遊玩具から探す</a></dt>
+						<dd>
+							<ul class="footerList02">
+								<li><a href="/products/kyouyu/moudouken_mark.html">盲導犬マーク</a></li>
+								<li><a href="/products/kyouyu/usagi_mark.html">うさぎマーク</a></li>
+							</ul>
+						</dd>
+					</dl>
+					<p class="text01"><a href="/eco/">エコトイから探す</a></p>
+					<p class="text01"><a href="/event/">イベント・キャンペーン</a></p>
+				<!-- /footCol01 --></div>
+
+				<div class="footerCol01">
+					<dl class="footerList01">
+						<dt><a href="/company/" class="inner01">会社情報</a></dt>
+						<dd>
+							<ul class="footerList02">
+								<li><a href="/company/">会社情報</a></li>
+								<li><a href="/company/recruit/index_select.html">採用情報</a></li>
+								<li><a href="/company/csr/">サステナビリティ</a></li>
+								<li><a href="/company/social_contributions/">社会貢献活動</a></li>
+								<li><a href="/eco/">エコトイ</a></li>
+								<li><a href="/products/kyouyu/">共遊玩具</a></li>
+								<li><a href="/business/">法人のお客様</a></li>
+								<li><a href="/shop/">通販サイト・店舗のご紹介</a></li>
+								<li><a href="/business/eventpack/">イベント開催ご希望の企業・団体様へ</a></li>
+							</ul>
+						</dd>
+					</dl>
+				<!-- /footCol01 --></div>
+				<div class="footerCol01">
+					<dl class="footerList01">
+						<dt><a href="/ir/" class="inner01">投資家情報</a></dt>
+						<dd>
+							<ul class="footerList02">
+								<li><a href="/ir/">投資家情報</a></li>
+								<li><a href="/ir/topmessage/">トップメッセージ</a></li>
+								<li><a href="/ir/plan/">中期経営計画</a></li>
+								<li><a href="/ir/personal/">個人投資家の皆様へ</a></li>
+								<li><a href="/ir/personal/overview.html">タカラトミーの紹介</a></li>
+								<li><a href="/ir/highlight/">財務・業績情報</a></li>
+								<li><a href="/ir/financial/">IRライブラリー</a></li>
+							</ul>
+						</dd>
+					</dl>
+					<p class="text01"><a href="/company/csr/">サステナビリティ</a></p>
+				<!-- /footCol01 --></div>
+				<div class="footerCol01">
+					<dl class="footerList01">
+						<dt><a href="/support/" class="inner01">お客様相談室</a></dt>
+						<dd>
+							<ul class="footerList02">
+								<li><a href="/support/">お客様相談室</a></li>
+								<li><a href="https://faq.takaratomy.co.jp/Default.aspx?dispNodeId=0">よくあるご質問 / お問い合わせ</a></li>
+								<li><a href="/support/important.html">お客様へのお知らせ</a></li>
+								<li><a href="/support/denchi.html">電池の正しい使い方</a></li>
+								<li><a href="/shop/">製品、部品の購入</a></li>
+								<li><a href="/support/syuri.html">修理のご案内</a></li>
+								<li><a href="/support/contact.html">その他連絡先</a></li>
+							</ul>
+						</dd>
+					</dl>
+					<p class="text01"><a href="/questionnaire/">お客様アンケート</a></p>
+				<!-- /footCol01 --></div>
+			<!-- /footerWrap02 --></div>
+			<ul class="footerList03">
+				<li><a href="/sitepolicy/">このサイトについて</a></li>
+				<li><a href="/rss/">RSSについて</a></li>
+				<li><a href="/privacypolicy/">個人情報保護方針</a></li>
+				<li><a href="/environment/">ブラウザ・OSの推奨環境</a></li>
+				<li><a href="/inquiry/">お問い合わせ</a></li>
+				<li><a href="/socialpolicy/">ソーシャルメディアポリシー</a></li>
+				<li><a href="/sitemap/">サイトマップ</a></li>
+			</ul>
+			<div class="footerWrap03">
+				<p class="copyrights01"><small>© TOMY<img src="/common/2021/img/common_icon10.svg" alt="株式会社タカラトミー"></small></p>
+			<!-- /footerWrap03 --></div>
+		<!-- /inner01 --></div>
+	<!-- /footerFrame01 --></div>
+<!-- /footer01 --></footer>

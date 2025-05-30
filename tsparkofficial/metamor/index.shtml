@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>メタモルバース｜T-SPARK公式サイト｜タカラトミー</title>
+    <meta name="Description" content="ホビーメーカー株式会社壽屋との協業企画。世界観はマルチバース設定で、様々なコンテンツのキャラクターが集合。オリジナルキャラクターだけでなく「ZOIDS」「トランスフォーマー」を始め、自社IPのキャラクターも展開予定。商品詳細の発表は今夏を予定。" />
+    <!-- ogp -->
+    <meta property="og:site_name" content="T-SPARK公式サイト｜タカラトミー" />
+    <meta property="og:url" content="https://www.takaratomy.co.jp/products/tsparkofficial/metamor/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="T-SPARK公式サイト｜タカラトミー" />
+    <meta property="og:description" content="ホビーメーカー株式会社壽屋との協業企画。世界観はマルチバース設定で、様々なコンテンツのキャラクターが集合。オリジナルキャラクターだけでなく「ZOIDS」「トランスフォーマー」を始め、自社IPのキャラクターも展開予定。商品詳細の発表は今夏を予定。" />
+    <!-- twittercard -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="ホビーメーカー株式会社壽屋との協業企画。世界観はマルチバース設定で、様々なコンテンツのキャラクターが集合。オリジナルキャラクターだけでなく「ZOIDS」「トランスフォーマー」を始め、自社IPのキャラクターも展開予定。商品詳細の発表は今夏を予定。" />
+    <meta property="og:image" content="https://www.takaratomy.co.jp/products/tsparkofficial/metamor/_image/ogp.jpg" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+    <link rel="stylesheet" type="text/css" href="/common/css/cmn_layout.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="/common/css/cmn_style.css" media="all" />
+    <script src="/common/js/jquery.1.11.2.js"></script>
+    <script type="text/javascript" src="/common/js/common2.js"></script>
+    <!--[if lt IE 9]>
+      <script src="/common/js/html5_ie.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="../_common/css/default.css" />
+
+    <link rel="stylesheet" type="text/css" href="../style.css" />
+    <link rel="stylesheet" href="https://use.typekit.net/unj5qxc.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="css/style.css" />
+    
+    <script src="https://j.wovn.io/1" data-wovnio="key=2ATvhU" async></script>
+  </head>
+
+  <body id="gDef" class="lDef">
+    <!--<div id="loader-bg">
+      <div id="loader"><img src="../_image/cmn_loading.png" srcset="../_image/cmn_loading@2x.png 2x" alt=""></div>
+    </div>-->
+
+    <!-- ヘッダエリア -->
+    <!--#include virtual="/include/header002.shtml" -->
+    <!-- //ヘッダエリア -->
+    <div id="t-spark_top">
+          <!--#include virtual="../parts_nav.shtml" -->
+      <div id="brand_detail">
+        <section id="top">
+          <div class="logo"><img src="../_image/logo_metamor.png" alt=""></div>
+          <div class="bg-illust"><img src="_image/bg-thunder.png" alt=""></div>
+          <dl>
+            <dt><div class="icon"><img src="../_icon/brand_metamor.jpg?ver2" alt=""></div></dt>
+            <dd>
+              <h3 class="lead">1/10スケール<br>キャラクター可動プラキットシリーズ</h3>
+              <p class="caption">ホビーメーカー株式会社壽屋との協業企画。世界観はマルチバース設定で、様々なコンテンツのキャラクターが集合。オリジナルキャラクターだけでなく「ZOIDS」「トランスフォーマー」を始め、自社IPのキャラクターも展開予定。商品詳細の発表は今夏を予定。</p>
+            </dd>
+          </dl><br style="clear:both;">
+        </section>
+
+        <section id="story">
+          <div class="story-text"><img src="_image/story-text.png"></div>
+          <div class="story-I1"><img src="_image/metamor_illust01.png"></div>
+          <div class="story-brock1">
+            <div class="story-logo"><img src="_image/story-logo.png"></div>
+            <p>斬山碧（きりやまあお）はゾイドをはじめロボット玩具が好きな軽度の隠れオタクで、
+              小さい頃から「たくさんの人が夢中になって楽しむような玩具を作りたい」という夢を密かに抱えて生活していた。
+              しかし、志望していた会社には入れず、挫折して玩具メーカーではない会社へ就職。
+              その後、夢を諦められないことや、会社の空気が合わなかったこともあり、一念発起して現在の玩具メーカー会社へ転職。
+              ところが、本来は企画・開発部へ志望しようとしたものの、引っ込み思案ゆえに自己アピールしきれず、総務部への配属となってしまったのだった。
+              その転職先でかつて妹のように可愛がっていた幼馴染の財部真問（たからべまとい）と再会。
+              消沈している碧を励ますため、真問は「メタモルバース」というVRゲームを紹介する。</p>
+          </div>
+          <div class="story-brock2">
+            <div class="story-text2"><img src="_image/story-text2.png"></div>
+            <p>なりたい容姿になれるだけでなく、多種多様なゲームの要素を持ったイベントが開催される。
+              専用のVR機器を用いてプレイヤーの意識をデータ化して読み取ることでかつてない没入感を味わうことができる。<br>
+              また、アニメや玩具IPなどとのコラボイベントが多数実装されていることでも話題を呼んでいた。
+              ちょうどゾイドとのコラボが始まるタイミングだったこともあって碧は興味を持ちプレイを始めることになる。
+              NPC（ノンプレイヤーキャラクター）と思われるフィーネと出会い、真問に教わりながらのめりこんでいく。</p>
+          </div>
+          <div class="story-I2"><img src="_image/metamor_illust02.png"></div>          
+        </section>
+
+        <section id="about">
+          <div class="about-bg"><img src="_image/black-bg.png"></div>
+          <div class="about-image">
+            <div class="about-logo"><img src="_image/metamor-logo.png"></div>
+            <div class="about-text"><img src="_image/about.png"></div>
+          </div>
+          <div class="about-Description">
+            <h3>なりたい自分になれる、自由なメタ空間。</h3>
+            <p>現実世界はVR・AI.技術が現代より進歩しており、VRゲームも一般的なものとなっている。
+              複数のゲーム会社が提携し、共作・運営しており、専用のVR機器を用いてプレイヤーの意識をデータ化して読み取ることでかつてない没入感を味わえる。<br>
+              また、アニメや玩具IPなどとのコラボイベントが多数実装されていることでも話題を呼んでいる。<br>
+              メタモルバース内には多数のNPCが存在し、世界観を盛り上げる。高性能のAIを用いてプログラムされており、人と変わらない挙動をすると評判。<br>
+              性別問わずこの世界に入り込むことが可能。<br>
+              相棒のように力を貸してくれる、デフォルメされたロボ・メカ「バディアーマー」が多数存在し、人気を呼んでいる。</p>
+          </div>
+        </section>
+
+        <section id="explanation">
+          <div class="story-I3"><img src="_image/metamor_illust03.png"></div>
+          <div class="explanation1">
+            <div class="explanation-text1"><img src="_image/explanation-text1.png"></div>
+            <p class="explanation-p1">メタモルバース内では、バディアーマーと呼ばれるロボ・メカをペットのようにして連れて歩いたり、冒険の相棒にすることができる。
+              通常時は小型サイズのロボ・メカと共闘が可能だが、必要に応じて武装に変化し、プレイヤーが身体に装着して闘うことも可能。</p>  
+          </div>
+          <div class="story-I4"><img src="_image/metamor_illust04.png"></div>
+          <div class="explanation2">
+            <div class="explanation-text2"><img src="_image/explanation-text2.png"></div>
+            <p class="explanation-p2">メタモルバース内で自分を飾り、“なりたい自分”を表現することを「メタ盛る」という。容姿だけでなく、現実とは 違う思考や性格になることもある。</p>  
+          </div>     
+        </section>
+
+        <section id="caracter">
+          <div class="cara-text">
+            <img src="_image/cara-name.png">
+            <p>玩具メーカーの総務部社員。やや引っ込み思案で奥手な性格。
+              何事にも一生懸命取り組むが、ドジっ子な一面があり、うっかりやらかしてしまうことがたまにある。
+              志望していた会社からはお祈りメールをもらってしまい、挫折して玩具メーカーではない会社へ就職。
+              夢を諦められないことや、会社の空気が合わなかったこともあって、現在の玩具メーカー会社へ転職。
+              ところが、本来は企画・開発部へ志望しようとしたものの、引っ込み思案ゆえに自己アピールしきれず、総務部への配属となってしまった。<br>
+              そんな自分を変えたいと思っているが、なかなか行動に移せないでいたところに「メタモルバース」の存在を知り、
+              ちょうどゾイドとのコラボが始まるタイミングだったこともあってプレイを始め、そこから徐々にのめりこんでいく。
+              「メタモルバース」内では現実でなかなかできない金髪ツインテールのアバターを使用している。
+              ブレードライガーをバディアーマーとして連れ、「メタモルバース」で第2の現実を生きることに。</p>
+          </div>
+        </section>
+
+        <section id="line-up">
+          <div class="lineup-text"></div>
+        </section>
+          <!--
+        <section class="list3">
+          <h2>TOYS<p>関連商品</p></h2>
+          <ul>
+            <li><img src="../_icon/damy.jpg" alt=""><p>鋼鉄機神 アダマスマキナ<br>「AMT-01 ホットロッド」</p></li>
+            <li><img src="../_icon/damy.jpg" alt=""><p>鋼鉄機神 アダマスマキナ<br>「AMZ-01 バーサークフューラー」</p></li>
+          </ul>
+        </section>                 
+        
+        <section id="movieBlock">
+          <h2>SPECIAL MOVIE<p>スペシャルムービー</p></h2>
+            <div class="youtube">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/4NkMPULREBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </section>
+
+        <section class="list3 other">
+          <h2>OTHER BRANDS<p>他のブランド</p></h2>
+          <ul>
+            <li><a href="../adamas/"><img src="../_image/bn_brand1.png" alt=""><p>アダマスマキナ</p></a></li>
+            <li><a href="../realize/"><img src="../_image/bn_brand2.png" alt=""><p>リアライズ</p></a></li>
+            <li><a href="../toyrise/"><img src="../_image/bn_brand3.png" alt=""><p>トイライズ</p></a></li>
+            <li><a href="../projectm/"><img src="../_image/bn_brand4.png" alt=""><p>プロジェクトM</p></a></li>
+            <li><a href="../synergenex/"><img src="../_image/bn_brand6.png" alt=""><p>シナジネクス</p></a></li>
+          </ul>
+        </section>
+      -->
+              
+        <section id="copyright1">
+          <p>画像はイメージです。最終仕様と形状・カラーリングは異なる場合があります。</p>
+          <p>© TOMY　© ShoPro</p>  
+          <p>© プロジェクト シンカリオン・JR-HECWK/超進化研究所・TBS</p>
+          <p>© Crypton Future Media, INC</p>
+
+        </section>     
+                        
+      </div>
+      <!--/end zoids_top -->
+    </div>
+
+    <!-- フッタエリア -->
+    <!--#include virtual="/include/footer002.shtml" -->
+    <!-- //フッタエリア -->
+
+    <script src="../_common/js/jquery-2.1.0.min.js"></script>
+     <script src="../_common/js/jquery.cookie.js"></script>
+       <script src="../_common/js/function.js"></script>
+              <script src="../_common/js/access_check.js"></script>
+
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'unk5wsm',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+ 
+
+ 
+  </body>
+</html>

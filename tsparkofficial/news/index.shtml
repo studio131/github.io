@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>T-SPARK公式サイト｜タカラトミー</title>
+    <meta
+      name="Description"
+      content="タカラトミー公式が贈る、キダルトホビー　T-SPARK（ティースパーク）新たなキャラクターの登場でタカラトミーのホビー世界観が大きく拡大。あそぶ・かざる・集めるホビーの力がここに集結。"
+    />
+    <!-- ogp -->
+    <meta property="og:site_name" content="T-SPARK公式サイト｜タカラトミー" />
+    <meta
+      property="og:url"
+      content="https://www.takaratomy.co.jp/products/tsparkofficial/"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="T-SPARK公式サイト｜タカラトミー" />
+    <meta
+      property="og:description"
+      content="タカラトミー公式が贈る、キダルトホビー　T-SPARK（ティースパーク）新たなキャラクターの登場でタカラトミーのホビー世界観が大きく拡大。あそぶ・かざる・集めるホビーの力がここに集結。"
+    />
+    <!-- twittercard -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:description"
+      content="タカラトミー公式が贈る、キダルトホビー　T-SPARK（ティースパーク）新たなキャラクターの登場でタカラトミーのホビー世界観が大きく拡大。あそぶ・かざる・集めるホビーの力がここに集結。"
+    />
+    <meta
+      property="og:image"
+      content="https://www.takaratomy.co.jp/products/tsparkofficial/_image/ogp.jpg"
+    />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, user-scalable=yes"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/common/css/cmn_layout.css"
+      media="all"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/common/css/cmn_style.css"
+      media="all"
+    />
+    <link rel="stylesheet" type="text/css" href="../style.css" />
+    <script src="/common/js/jquery.1.11.2.js"></script>
+    <script type="text/javascript" src="/common/js/common2.js"></script>
+    <!--[if lt IE 9]>
+      <script src="/common/js/html5_ie.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="_common/css/default.css" />
+    <link rel="stylesheet" type="text/css" href="_common/css/slick-theme.css" />
+    <link rel="stylesheet" type="text/css" href="_common/css/slick.css" />
+    <link rel="stylesheet" type="text/css" href="style.css?ver0419" />
+    <link rel="stylesheet" href="https://use.typekit.net/unj5qxc.css" />
+
+    <script src="https://j.wovn.io/1" data-wovnio="key=2ATvhU" async></script>
+  </head>
+
+  <body id="gDef" class="lDef">
+    <!--<div id="loader-bg">
+      <div id="loader"><img src="../_image/cmn_loading.png" srcset="../_image/cmn_loading@2x.png 2x" alt=""></div>
+    </div>-->
+
+    <!-- ヘッダエリア -->
+    <!--#include virtual="/include/header002.shtml" -->
+    <!-- //ヘッダエリア -->
+    <div id="t-spark_top">
+      <!--#include virtual="../parts_nav.shtml" -->
+
+　　<section id="top">
+        <div class="logo_area">
+          <img src="img/hobbyshow_logo.png" class="logo">  
+        </div>
+        <img src="img/top_img1.png">
+        <img src="img/top_img2.jpg" class="img2">
+      </section>
+
+      <section id="sec1">
+        <img src="img/title.png" class="sec1_title">
+        <div class="brand_about">
+          <img src="img/q_village_img.png" class="brand_img">
+          <div class="brand_text">
+            <img src="img/q_village.png">
+            <h2>キュートでクールな世界を提案する<br>デフォルメフォーマットシリーズ</h2>
+            <p>1979年に誕生、1980年に"チョロチョロ走るキュートな車"として発売した「チョロQ」で培ったデフォルメデザインから派生し、新たな提案としてミニフィグを一緒にセットにすることで、"飾る楽しさ"や"乗せる楽しみ"を提案していきます。「リアルスケールには無い、オリジナリティある世界観」で自分だけのデフォルメワールドが作れるのも魅力です。</p>
+            <a href="../../qvillage/"><img src="img/detail_btn.png" class="detail_btn"></a>
+          </div>
+        </div>
+        <div class="brand_about">
+          <img src="img/collekazaro_img.png" class="brand_img">
+          <div class="brand_text">
+            <img src="img/collekazaro.png">
+            <h2>さぁ、コレかざろ！</h2>
+            <p>3.75インチ(約10㎝)のコレクタブルフィギュアシリーズ。<br>
+              集めて部屋に飾るだけでなく、一緒に持ち歩くことで日常の生活を豊かにするフィギュアブランド、それがCOLLEKAZAROです。</p>
+            <a href="../../ck"><img src="img/detail_btn.png" class="detail_btn"></a>
+          </div>
+        </div>
+        <div class="brand_about">
+          <img src="img/sparkfig_img.png" class="brand_img">
+          <div class="brand_text">
+            <img src="img/sparkfig.png">
+            <h2>アニメキャラクターなどを活かした<br>スケール／ノンスケールフィギュア</h2>
+            <p>アニメキャラクターなどを活かし、綺麗、可愛い、を表現したフィギュアをスケール・ノンスケールなど様々なサイズで展開するシリーズです。</p>
+            <a href="../../sparkfig/"><img src="img/detail_btn.png" class="detail_btn"></a>
+          </div>
+        </div>
+        <div class="brand_about">
+          <img src="img/legacysoul_img.png" class="brand_img">
+          <div class="brand_text">
+            <img src="img/legacysoul.png">
+            <h2>受け継がれる魂、未来を拓く。</h2>
+            <p>少年時代、胸を熱く焦がした記憶が、最新の技術と融合し、新たな時代を切り拓く。LEGACYSOULは、T-SPARKが贈る新ブランド。かつて心を躍らせた駆動、可動、変形。あの衝撃が、時を超え、再び動き出す。タカラトミーのホビー史に刻まれた伝説を、あなたと共に未来へ繋ぐプロジェクト。思い出の中に眠る名作たちが、最新技術で進化を遂げ、あなたの参加によって、さらなる高みへ。記憶と体験が交錯する、未だかつてないホビー体験。受け継ぎし者として、ホビーの未来を創造せよ。</p>
+            <a href="../../legacysoul/"><img src="img/detail_btn.png" class="detail_btn"></a>
+          </div>
+        </div>
+      </section>
+
+      <section id="sec2">
+        <div class="section_title">
+          <img src="img/sec2_title.png">  
+        </div>
+        <div class="brands_img">
+          <img src="img/brands.png">  
+        </div>
+      </section>
+
+      <section id="sec3">
+        <div class="section_title">
+          <img src="img/sec3_title.png">  
+        </div>
+        <div class="event_info">
+          <p class="event_title"><span>イ</span><span>ベ</span><span>ン</span><span>ト</span><span>概</span><span>要</span></p>
+          <p class="event_text">第63回 静岡ホビーショー</p>
+        </div>
+        <div class="event_info">
+          <p class="event_title"><span>開</span><span>催</span><span>日</span><span>時</span></p>
+          <p class="event_text">
+            2025年5月14日（水）〜2025年5月18日（日）<br>
+            ＜業者招待日＞<br>
+            5月14日（水）・15日（木） 9:30〜16：30<br>
+            ＜小中高校生招待日＞<br>
+            5月16日（金） 9:00〜17:00<br>
+            ＜一般公開日＞<br>
+            5月17日（土） 9:00〜17:00 ・ 5月18日（日） 9:00〜16：00
+          </p>
+        </div>
+        <div class="event_info">
+          <p class="event_title"><span>会</span>場</p>
+          <p class="event_text">
+            ツインメッセ静岡<br>
+            〒422-8006 静岡県静岡市駿河区曲金3丁目1-10<br>
+            MAP：<a href="https://maps.app.goo.gl/bB1bwVMkwURSU6Ri7">https://maps.app.goo.gl/bB1bwVMkwURSU6Ri7</a><br>
+            TEL：054-287-5931（静岡模型教材協同組合）
+          </p>
+        </div>
+        <div class="event_info">
+          <p class="event_title"><span>展</span><span>示</span><span>場</span><span>所</span></p>
+          <p class="event_text">北大展示場 5</p>
+        </div>
+        <div class="event_info">
+          <p class="event_title"><span>公</span><span>式</span><span>H</span><span>P</span></p>
+          <p class="event_text"><a href="https://www.hobby-shizuoka.com">https://www.hobby-shizuoka.com</a></p>
+        </div>
+      </section>
+
+      <section id="sec4">
+        <img src="img/sec4_bar.png">
+        <div class="innner">
+          <img src="img/sec4_title.png" class="sec4_title">
+          <img src="img/sec4_day.png" class="sec4_day">
+          <p class="mb-30px">※実施時間は「第63回 静岡ホビーショー」の会場時間に準じます。</p>
+          <img src="img/sec4_img.png">
+          <ul>
+            <li>※商品画像はイメージです。 実際の商品とは異なる場合がございます。予めご了承ください。</li>
+            <li>※ホビー商品の販売や予約はございません。予めご了承ください。</li>
+            <li>※支払い方法は現金・クレジットカード・各種電子マネー（※paypay除く）となります。</li>
+            <li>※商品ご購入の際に、商品や合計金額に間違いがないか必ずご確認ください。 なお会計終了後の返金・返信・交換は一切お受けいたしません。（商品不良の場合を除く）</li>
+            <li>※万が一不良が発生した場合には、販売スタッフまでお声がけください。 なお、翌日以降の商品交換はご対応いたしかねます、予めご了承ください。</li>
+            <li>※数量に限りがございますので、ご希望の商品が売り切れの場合は何卒ご了承ください。</li>
+            <li>※一度販売を終了した商品も再度販売を行う場合がございます。</li>
+            <li>※本商品は、今後国内外において様々な販路での販売や条件を変更しての販売を行う可能性があります。</li>
+            <li>※転売等・営利目的でのご来場・ご購入はご遠慮ください。</li>
+            <li>※当日は予告なく中止となる場合がございます。</li>
+            <li>※詳細は当日の現場スタッフまでお問い合わせください。</li>
+          </ul>
+        </div>
+        <img src="img/sec4_bar.png">
+      </section>
+
+      <section id="touchzone">
+        <div class="title_area">
+          <img src="img/touch_and_try.png" class="mb_30px">
+          <img src="img/sec4_day.png">
+          <p class="mb-30px">※実施時間は「第63回 静岡ホビーショー」の会場時間に準じます。</p>  
+        </div>  
+        <img src="img/realize.png" class="touchzone_img">
+        <img src="img/toyrise.png" class="touchzone_img">
+        <img src="img/info_text.png">
+        <div class="attention_text_area">
+          <p>※サンプルは開発中の試作品です。実際の商品とは異なる場合がございます。</p>
+          <p>※対象年齢15歳以上の商品となります。15歳未満の方はご参加いただけません。</p>
+          <p>※混雑状況次第ではお一人様あたりの体験時間を制限させていただく場合がございます。</p>
+          <p>※当日は予告なく中止となる場合がございます。</p>
+          <p>※詳細は当日の現場スタッフまでお問い合わせください。</p>
+        </div>
+      </section>
+
+      <section id="sec5">
+        <div class="section_title">
+          <img src="img/sec5_title.png">  
+        </div>
+        <div class="innner">
+          <div class="sec5_top">
+            <img src="img/sec5_img1.png">
+            <p class="sec5_img_text">※実施時間は「第63回 静岡ホビーショー」の会場時間に準じます。</p>
+            <img src="img/sec5_img2.png" class="sec5_img">
+            <img src="img/sec5_img3.png" class="sec5_img">
+            <div class="wid_s">
+              <img src="img/sec5_brands.png">
+              <p>※画像はイメージです。実際の配布物と異なる場合がございます。</p>
+              <p>※配布物はおひとり様1枚までとさせていただきます。</p>
+              <p>※T-SPARKオリジナルステッカーは本イベント以外でも配布させていただく可能性がございます。</p>
+              <p>※配布物は無くなり次第、終了となります。</p>
+              <p>※配布物は返品・交換は行っておりません。</p>
+              <p>※配布物の転売等・営利目的での利用はご遠慮ください。</p>
+              <p>※当日は予告なく中止となる場合がございます。</p>
+              <p>※詳細は当日の現場スタッフまでお問い合わせください。</p>
+            </div>        
+          </div>
+          
+          <img src="img/attention.png" class="attention pc">
+          <img src="img/attention_sp.png" class="attention sp">
+          <div class="attention_wrapper">
+            <p class="attention_title">●展示商品について</p>
+            <ul>
+              <li>・「タッチ＆トライゾーン」以外では商品にお手を触れないようお気をつけください。</li>
+              <li>・開発中のサンプルにつき、最終品と異なる場合がありますので、あらかじめご了承ください。</li>
+              <li>・商品の画像・イラストは実際の商品と一部異なる場合がございますのであらかじめご了承ください。</li>
+              <li>・商品名、発売日、発送月、価格など、本ページの情報は変更になる場合がございますので、あらかじめご了承ください。</li>
+              <li>・発売済み、予約中の商品は当社公式ECサイト「タカラトミーモール」または、全国の各取扱店、サイトにてご購入いただけます。</li>
+              <li>※発売から時間の経過している商品は生産・販売が終了している場合がございますのでご了承ください。</li>
+            </ul>
+          </div>
+            
+          <div class="shop_link">
+            <a href="https://takaratomymall.jp/shop" target="_blank" class="shop_btn"><img src="img/takaratomy_btn.png" alt=""></a>
+            <a href="https://takaratomymall.jp/shop" target="_blank"><img src="img/shop_link.png" class="shop_btn"></a>
+          </div>
+          <p>・  このホームページに掲載されている全ての画像、文章、データ等の無断転用、転載をお断りします。</p>          
+        </div>
+      </section>
+      <section id="copyright1">
+        <p>画像はイメージです。最終仕様と形状・カラーリングは異なる場合があります。</p>
+        <p>
+          © TOMY<br>
+          © TOMY　© ShoPro<br>
+          © サンライズ<br>
+          ©︎ 2024 MARVEL　©︎ TOMY<br>
+          ©︎ CAPCOM　©︎ TOMY<br>
+          © Universal City Studios LLC and Amblin Entertainment, Inc. All Rights Reserved.　© ＴＯＭＹ<br>
+          © Universal City Studios LLC. All Rights Reserved.　© ＴＯＭＹ<br>
+          ©堀越耕平／集英社・僕のヒーローアカデミア製作委員会<br>
+          © 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会<br>
+          ©Project PRINCESS-SESSION　© ＴＯＭＹ<br>
+          TM & © TOHO CO., LTD.　© ＴＯＭＹ<br>
+          🄫 「勇気爆発バーンブレイバーン」製作委員会<br>
+          🄫Konami Digital Entertainment ／ ADK EM<br>
+          🄫「魔弾戦記リュウケンドー」製作委員会／テレビ愛知・ウィーヴ<br>
+          🄫タツノコプロ<br>
+          🄫YANMAR<br>
+          🄫今賀 俊/小学館
+        </p>
+      </section>
+      <!--/end t-spark_top -->
+    </div>
+    <!-- フッタエリア -->
+    <!--#include virtual="/include/footer002.shtml" -->
+    <!-- //フッタエリア -->
+    <script
+      type="text/javascript"
+      src="_common/js/jquery-2.1.0.min.js"
+    ></script>
+    <script type="text/javascript" src="_common/js/function.js"></script>
+    <script src="_common/js/slick.min.js"></script>
+    <script>
+      $("#main-slick").slick({
+        autoplay: true,
+        autoplaySpeed: 3000,
+        arrows: false,
+        dots: true,
+        infinite: true,
+      });
+      $("#news-slick").slick({
+        autoplay: true,
+        slidesToShow: 5,
+        slidesToScroll: 1,
+        autoplaySpeed: 3000,
+        arrows: true,
+        prevArrow:
+          '<img src="_image/arrow_prev.png" class="slide-arrow prev-arrow">',
+        nextArrow:
+          '<img src="_image/arrow_next.png" class="slide-arrow next-arrow">',
+        dots: false,
+        infinite: true,
+
+        //レスポンシブでの動作を指定
+        responsive: [
+          {
+            breakpoint: 467, //ブレイクポイントを指定
+            settings: {
+              slidesToShow: 2,
+              arrows: false,
+            },
+          },
+        ],
+      });
+
+      $(".tab").on("click", function () {
+        $(".tab, .panel").removeClass("active");
+
+        $(this).addClass("active");
+
+        var index = $(".tab").index(this);
+        $(".panel").eq(index).addClass("active");
+      });
+    </script>
+
+    <script>
+      (function (d) {
+        var config = {
+            kitId: "unk5wsm",
+            scriptTimeout: 3000,
+            async: true,
+          },
+          h = d.documentElement,
+          t = setTimeout(function () {
+            h.className =
+              h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive";
+          }, config.scriptTimeout),
+          tk = d.createElement("script"),
+          f = false,
+          s = d.getElementsByTagName("script")[0],
+          a;
+        h.className += " wf-loading";
+        tk.src = "https://use.typekit.net/" + config.kitId + ".js";
+        tk.async = true;
+        tk.onload = tk.onreadystatechange = function () {
+          a = this.readyState;
+          if (f || (a && a != "complete" && a != "loaded")) return;
+          f = true;
+          clearTimeout(t);
+          try {
+            Typekit.load(config);
+          } catch (e) {}
+        };
+        s.parentNode.insertBefore(tk, s);
+      })(document);
+    </script>
+  </body>
+</html>

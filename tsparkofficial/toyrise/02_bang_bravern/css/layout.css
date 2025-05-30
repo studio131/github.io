@@ -1,0 +1,360 @@
+@charset "UTF-8";
+
+
+
+
+
+.col-2{width:calc((100% - 20px)/2);}
+.col-4{width:calc((100% - 20px)/4);}
+.col-5{width:calc((100% - 20px)/5);}
+.col-6{width:calc((100% - 20px)/6);}
+
+
+.row{
+  display: flex;
+  flex-wrap: wrap;/*折り返して複数行にする*/
+  box-sizing: border-box;
+  flex-direction: column;/*縦並びにする*/
+  margin:1% auto;
+}
+
+
+
+.justify-content-start{justify-content: start;} /* アイテムを先頭に寄せる */
+.justify-content-end{justify-content: end; } /* アイテムを末尾に寄せる */
+.justify-content-center{justify-content: center; } /* アイテムを中央に寄せる */
+.justify-content-between{justify-content: space-between;}/*両端に合せて均等配置*/
+.justify-content-around{justify-content: space-around;} /* 各アイテムを均等に配置し各アイテムの両側に半分の大きさの間隔を置く */
+.justify-content-evenly{justify-content: space-evenly;} /* 各アイテムを均等に配置し各アイテムの周りに同じ大きさの間隔を置く */
+.justify-content-stretch{justify-content: stretch;} /* 各アイテムを均等に配置しサイズが 'auto' であるアイテムは、コンテナーに合わせて引き伸ばす */
+
+.align-self-center{align-self: center;}
+
+
+/*クロス軸の垂直方向に揃えて配置します。*/
+.align-items-start{align-items: flex-start;}
+.align-items-end{align-items: flex-end;}	
+.align-items-center{align-items: center;}	
+.align-items-baseline{align-items:baseline;}		
+.align-items-stretch{align-items: stretch;}	
+
+
+
+.align-self-end{align-self: flex-end;}
+.align-self-auto{align-self:auto;}/*（初期値）: 親要素の align-items の値に従う*/
+.align-self-start{align-self:flex-start;}/*親要素の左端に配置*/
+.align-self-flex-end{align-self:flex-end;}/*親要素の右端に配置*/
+.align-self-center{align-self:center;}/*親要素の中央に配置*/
+.align-self-baseline{align-self:baseline;}/* flexアイテムのベースライン（テキストの下端）に配置*/
+.align-self-stretch{align-self:stretch;}/*親要素の横幅に合わせてflexアイテムを伸縮*/
+
+
+.align-content-start{align-content:flex-start;}/*flexアイテムの上揃え*/
+.align-content-end{align-content:flex-end;;}/*flexアイテムの下揃え*/
+.align-content-center{align-content:center;}/* flexアイテムの上下中央揃え*/
+.align-content-start{align-content:space-between;}/* 上下の両端揃え*/
+.align-content-around{align-content:space-around;}/* flexアイテムの上下に均等な余白をとる*/
+.align-content-evenly{align-content:space-evenly;}/*均等な余白をとる*/
+
+.flex-shrink{flex-shrink:0;}
+.flex-shrink1{flex-shrink:1;}
+.flex-shrink2{flex-shrink:2;}
+.flex-shrink3{flex-shrink:3;}
+
+.flex-grow1{
+  flex-grow: 1;
+}
+
+
+.order0 {order: 0;}
+.order01 {order: 1;}
+.order02 {order: 2;}
+.order03 {order: 3;}
+.order04 {order: 4;}
+.order05 {order: 5;}
+.order06 {order: 6;}
+.order-1 {order: -1;}
+
+
+
+
+.f-direction-column{
+  display: flex;
+  flex-direction: column;
+}
+
+
+@media (min-width: 576px){
+.row{flex-direction: row;/*横並びにする*/}
+}
+
+
+
+@media screen and (min-width: 768px),print {
+  .col-md-2{
+    width:calc((100% - 20px)/2);
+    box-sizing: border-box;
+  }
+
+  .col-md-3{width:calc((100% - 20px)/3);}
+  .col-md-4{width:calc((100% - 20px)/4);}
+  .col-md-5{width:calc((100% - 20px)/5);}
+  }
+
+  @media screen and (min-width: 992px),print {
+.col-lg-2{ width:calc((100% - 20px)/2);}
+.col-lg-3{width:calc((100% - 20px)/3);}
+.col-lg-4{width:calc((100% - 20px)/4);}
+.col-lg-5{width:calc((100% - 20px)/5);}
+
+ }
+
+
+
+
+
+/****************************************************
+                      カ ー ド
+*****************************************************/
+
+
+.card-list-3,.card-list-4{
+display: flex;
+flex-direction: column;
+list-style: none;
+margin: 0;
+margin-left: -20px;
+padding: 0;
+}
+
+.card-item-3,.card-item-4{margin: 2rem 0 0 0;
+padding:1rem;
+align-items:stretch;
+box-sizing: border-box;
+}
+
+@media (min-width: 768px){
+  .card-list-3,.card-list-4{
+    flex-direction: row;
+    flex-wrap: wrap;
+    }
+
+.card-item-3,.card-item-4{
+width:calc((100% - 40px) / 2);
+margin-left: 20px;
+}
+
+
+
+}
+
+@media (min-width: 992px){
+.card-item-3{
+width:calc((100% - 60px) / 3);
+margin-left: 20px;
+}
+
+
+
+
+.card-item-4{
+  width:calc((100% - 80px) / 4);
+  margin-left: 20px;
+  }
+  
+
+/*カードアイテムの最終を左寄せにする*/
+/*.card-list-3::after{
+  content:"";
+  display: block;
+  width:calc((100% - 20px)/3);
+  }
+  .card-list-4::before,
+  .card-list-4::after{
+    content:"";
+    display: block;
+    width:calc((100% - 20px)/4);
+    }
+    .card-list-4::before{
+    order:1;
+      }
+  */
+
+}
+
+
+/**********************************************
+                   グリッド     
+***********************************************/
+
+.grid{
+  display: grid;
+}
+
+
+/**********************************************
+                   フレックス    
+***********************************************/
+
+.d-flex {display: flex;}
+.d-none{display: none;}
+.d-block{display: block;}
+
+@media (min-width: 576px){
+.d-sm-flex{ display: flex;}
+.d-sm-none{display: none;}
+.d-sm-block{display: block;}
+}
+@media (min-width: 768px){
+.d-md-flex{ display: flex;}
+.d-md-none{display: none;}
+.d-md-block{display: block;}
+}
+@media (min-width: 992px){
+.d-lg-flex{ display: flex ;}
+.d-lg-none{display: none;}
+.d-lg-block{display: block;}
+}
+
+@media (min-width: 1200px){
+.d-xl-flex{ display: flex;}
+.d-xl-none{display: none;}
+.d-xl-block{display: block;}
+}
+@media (min-width: 1400px){
+.d-xxl-flex{ display: flex;}
+.d-xxl-none{display: none;}
+.d-xxl-block{display: block;}
+}
+
+
+
+.flex-wrap{
+  flex-wrap: wrap;
+}
+
+.flex-column{flex-direction: column;}
+
+
+
+/**********************************************
+                   ポジション    
+***********************************************/
+
+
+.position-fixed{position: fixed;}
+
+.position-relative {
+  position: relative;
+}
+
+.position-absolute {
+  position: absolute;
+}
+
+.z-999 {
+  z-index: 999;
+}
+
+.m-0-auto {
+  margin: 0 auto;
+}
+
+/**********************************************
+                   リンクボタン    
+***********************************************/
+
+.link_size {
+  width:70%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+/**********************************************
+                   見出し  
+***********************************************/
+.title-text {
+  font-size: 25px;
+}
+
+.text {
+  font-size: 20px;;
+}
+
+.border-box {
+  border: 1px solid #fff;
+}
+
+/**********************************************
+                   背景画像   
+***********************************************/
+
+.bg_img_01 {
+  background-image: url(../img/bg_01.png);
+  background-size: cover;
+  height: 390px;
+}
+
+.bg_img_02 {
+  background-image: url(../img/bg_02.png);
+  background-size: cover;
+  height: 700px;
+}
+
+.bg_img_03 {
+  background-image: url(../img/bg_03.png);
+  background-size: cover;
+  height: 700px;
+}
+
+.bg_img_04 {
+  background-image: url(../img/bg_04.png);
+  background-size: cover;
+  height: 700px;
+}
+
+.p10 {
+  padding: 10px;
+}
+
+.p5 {
+  padding: 0 5%;
+}
+
+.top0 {
+  top: 0;
+}
+
+.top60 {
+  top: 60%;
+}
+
+.top-48 {
+  top: -48%;
+}
+
+.bottom25 {
+  bottom: 25%;
+}
+
+.left10 {
+  left: 10%;
+}
+
+.right10 {
+  right: 10%;
+}
+
+.right-15 {
+  right: -15%;
+}

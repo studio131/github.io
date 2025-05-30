@@ -1,0 +1,431 @@
+@charset "UTF-8";
+/*----------------------------------------------------------------------------*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "source-han-sans-japanese", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 3.5vw;
+  line-height: 1.5;
+  display: block;
+  z-index: -1;
+  text-align: left;
+  color:#FFF;
+  width: 100%;
+  background-color: black;
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+ul {
+    text-decoration: none;
+    text-align: left;
+    list-style: none;
+    padding: 0;
+    line-height: 1.5;
+}
+
+.pc {
+  display: block;
+}
+
+.sp {
+  display: none;
+}
+
+/* top */
+#top {
+    width: 100%;
+}
+
+#top .logo_area {
+    background-color: #FFF;
+    margin: 0 auto;
+    padding: 50px 0;
+    text-align: center;
+}
+
+#top img.logo {
+    width: 80%;
+}
+
+#top img.img2 {
+    position: relative;
+    top: -7px;
+}
+
+/* sec1 */
+#sec1 {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#sec1 .sec1_title {
+    margin: 50px 0;
+}
+
+#sec1 .brand_about {
+    display: flex;
+    justify-content: space-between;
+    margin:0 50px 50px;
+    border-bottom: 1px solid;
+    border-image: linear-gradient(to right, #00B1BF 0%, #2453A4 100%) 1;
+    padding-bottom: 50px;
+}
+
+#sec1 .brand_about:last-of-type {
+    border-bottom: none;
+}
+
+#sec1 .brand_about .brand_img {
+    width: 40%;
+    height: 100%;
+}
+
+#sec1 .brand_about .brand_text {
+    width: 55%;
+}
+
+#sec1 .brand_about .brand_text h2 {
+    margin: 20px 0 0;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#sec1 .brand_about .brand_text p {
+    margin: 10px 0;
+}
+
+.detail_btn {
+    margin-top: 20px;
+}
+
+/* sec2 */
+.brands_img {
+    width: 80%;
+    margin: 50px auto;
+}
+
+.section_title {
+    text-align: center;
+    height: 75px;
+    width: 100%;
+    background-image: linear-gradient(90deg, rgba(0, 177, 191, 1), rgba(36, 83, 164, 1));
+}
+
+.section_title img {
+    width: 30%;
+}
+
+.innner {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* sec3 */
+#sec3 {
+    padding-bottom: 50px;
+}
+
+#sec3 .section_title {
+    margin-bottom: 100px;
+}
+
+#sec3 .event_info {
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin: 0 auto;
+}
+
+#sec3 .event_info .event_title {
+    width: 12%;
+    margin: 0 20px 30px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+#sec3 .event_info .event_text {
+    width: 80%;
+    margin: 0 0 30px;
+}
+
+#sec3 .event_info a {
+    color: #fff;
+    text-decoration: none;
+    word-break: break-all;
+}
+
+/* sec4 */
+#sec4 {
+    text-align: center;
+}
+
+#sec4 .innner {
+    padding: 100px 0;
+}
+
+#sec4 img.sec4_title {
+    width: 80%;
+    margin-bottom: 30px;
+}
+
+.sec4_day {
+    width: 80%; 
+}
+
+.mb_30px {
+    margin-bottom: 30px;
+}
+
+#sec4 ul {
+    margin-top: 30px;
+}
+
+#sec4 ul li {
+    margin-bottom: 5px;
+}
+
+#touchzone {
+    width: 80%;
+    margin: 100px auto;
+}
+
+#touchzone .title_area {
+    width: 80%;
+    margin: 0 auto 30px;
+    text-align: center;
+}
+
+#touchzone .touchzone_img {
+    margin-bottom: 30px;
+}
+
+.attention_text_area {
+    margin-top: 50px;
+}
+
+.attention_text_area p {
+    margin: 0 0 10px 0;
+}
+
+/* sec5 */
+
+#sec5 .innner {
+    padding: 100px 0;
+    width: 80%;
+}
+
+#sec5 .sec5_top {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#sec5 .attention {
+    margin-bottom: 20px;
+}
+
+#sec5 .attention_wrapper {
+    padding: 30px 0;
+}
+
+#sec5 .attention_wrapper_last {
+    padding: 30px 0 15px;
+}
+
+#sec5 .attention_title {
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0 0 10px;
+}
+
+#sec5 .attention_text {
+    margin: 0;
+}
+
+#sec5 ul {
+    margin: 0;
+}
+
+#sec5 ul li {
+    margin-bottom: 5px;
+}
+
+#sec5 .shop_link {
+    display: flex;
+}
+
+#sec5 .shop_btn {
+    width: 40%;
+}
+
+#sec5 .section_title img {
+    width: 50%;
+}
+
+#sec5 .sec5_img {
+    margin-bottom: 30px;
+}
+
+.sec5_img_text {
+    text-align: center;
+    margin: 20px 0 30px 0;
+}
+
+#sec5 .wid_s {
+    padding: 0 20px;
+    margin: 20px 0 100px;
+}
+
+#sec5 .wid_s img {
+    margin-bottom: 30px;
+}
+
+#sec5 .wid_s p {
+    margin: 0 0 10px;
+}
+
+/* ここからCOPYRIGHT */    
+    
+#copyright1{width:80%;margin:0 auto 5vw; text-align: center;}   
+#copyright1 p{font-size:2.5vw; text-align: left;}
+
+#copyright1 p:first-of-type {
+    margin: 0 0 30px;
+}
+    
+#brand_detail #copyright1{width:96%;margin:10vw auto 0vw;}   
+
+
+/* みまもりチェック */    
+.ageCheck h3{color:#FFF;font-size:5vw;;text-align:center;margin-top:1em;}
+.ageCheck p.txt02{color:#FFF; font-size:4vw;text-align:center;}
+
+/* デザインC(PC) */
+@media screen and (min-width: 1025px) {
+/* PC用レイアウト 1,025px以上の範囲に収めるデザインはこの中に記述 */
+
+body {
+  font-size: 16px;
+}  
+    
+/* ここからCOPYRIGHT */    
+
+#copyright1{width:80%;margin:0 auto 140px;}   
+#copyright1 p{font-size:12px;}
+
+#brand_detail #copyright1{width:860px;margin:140px auto 0px;}   
+
+/* みまもりチェック */    
+.ageCheck h3{color:#FFF;font-size:28px;;text-align:center;margin-top:2em;}
+.ageCheck p.txt02{color:#FFF; font-size:20px;text-align:center;}
+    
+}
+
+@media screen and (max-width: 430px) {
+    .pc {
+        display: none;
+      }
+
+    .sp {
+    display: block;
+    }
+
+    #sec1 .brand_about {
+        flex-direction: column;
+        margin: 0;
+    }
+
+    #sec1 .brand_about .brand_img {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    #sec1 .brand_about .brand_text {
+        width: 100%;
+    }
+
+    /* sec2 */
+    .section_title img {
+        width: 70%;
+    }
+
+    .section_title {
+        height: 45px;
+    }
+
+    #sec3 .event_info {
+        width: 80%;
+    }
+
+    #sec3 .section_title {
+        margin-bottom: 50px;
+    }
+
+    #sec3 .event_info .event_text {
+        width: 75%;
+    }
+
+    #sec3 .event_info .event_title {
+        width: 20%;
+        display: block;
+    }
+
+    #touchzone {
+        margin: 50px auto;
+    }
+
+    #touchzone .title_area {
+        width: 100%;
+    }
+
+    .sec4_day {
+        width: 100%;
+    }
+
+    /* sec4 */
+    #sec4 .innner {
+        padding: 50px 0;
+    }
+
+    /* sec5 */
+    #sec5 .innner {
+        padding: 50px 0;
+    }
+
+    #sec5 .section_title {
+        height: 37px;
+    }
+
+    #sec5 .section_title img {
+        width: 90%;
+    }
+
+    #sec5 .shop_link {
+        display: block;
+    }
+
+    #sec5 .shop_btn {
+        width: 100%;
+    }
+
+    .section_title_info_sp {
+        height: 95px;
+    }
+
+    #sec5 .sec5_top {
+        width: 100%;
+    }
+
+    #sec5 .wid_s {
+        padding: 0;
+        margin: 20px 0 50px;
+    }
+}

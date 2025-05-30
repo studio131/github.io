@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>TRANSFORMERS × MONSTER HUNTER「シルバーリオレウスプライム」｜SYNERGENEX/シナジネクス｜T-SPARK公式サイト</title>
+    <meta name="Description" content="モンスターハンター20周年、トランスフォーマー40周年を記念し、夢のコラボレーションが実現！" />
+    <!-- ogp -->
+    <meta property="og:site_name" content="T-SPARK公式サイト｜タカラトミー" />
+    <meta property="og:url" content="https://www.takaratomy.co.jp/products/tsparkofficial/synergenex/silverliolaeusprime" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="TRANSFORMERS × MONSTER HUNTER「シルバーリオレウスプライム」｜SYNERGENEX/シナジネクス" />
+    <meta property="og:description" content="モンスターハンター20周年、トランスフォーマー40周年を記念し、夢のコラボレーションが実現！" />
+    <!-- twittercard -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="モンスターハンター20周年、トランスフォーマー40周年を記念し、夢のコラボレーションが実現！" />
+    <meta property="og:image" content="https://www.takaratomy.co.jp/products/tsparkofficial/synergenex/silverliolaeusprime/ogp.jpg" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+    <link rel="stylesheet" type="text/css" href="/common/css/cmn_layout.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="/common/css/cmn_style.css" media="all" />
+    <script src="/common/js/jquery.1.11.2.js"></script>
+    <script type="text/javascript" src="/common/js/common2.js"></script>
+    <!--[if lt IE 9]>
+      <script src="/common/js/html5_ie.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="../../_common/css/default.css" />
+    <link rel="stylesheet" type="text/css" href="../../style.css?ver0416" />
+   
+<link rel="stylesheet" type="text/css" media="all" href="css/style.css" />
+    <link rel="stylesheet" href="https://use.typekit.net/unj5qxc.css" />
+    
+    <script src="https://j.wovn.io/1" data-wovnio="key=2ATvhU" async></script>
+    
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'chc0say',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+ 
+  </head>
+
+  <body id="gDef" class="lDef">
+    <!--<div id="loader-bg">
+      <div id="loader"><img src="../../_image/cmn_loading.png" srcset="../_image/cmn_loading@2x.png 2x" alt=""></div>
+    </div>-->
+
+    <!-- ヘッダエリア -->
+    <!--#include virtual="/include/header002.shtml" -->
+    <!-- //ヘッダエリア -->
+    <div id="t-spark_top">
+
+        
+           <!--#include virtual="../../parts_nav.shtml" -->
+
+
+<section class="mv" class="maxImg">
+  <img src="img/bg_top.png" alt="" />
+</section>
+    
+<section id="lead">
+    <div class="text1"><img src="img/lead_text.png" alt=""></div>
+</section>
+    
+<section id="collabo" class="maxImg">
+      <picture>
+  <img src="img/bg_colabo.png" alt="bg_top.jpg" />
+    </picture>
+</section>    
+    
+
+<section id="product">
+  <h2>PRODUCT</h2>
+  <div class="img1"> 
+    <img src="img/product_img.png">
+  </div>
+  <div class="title"><img src="img/product_title.png" alt=""></div>
+  
+  <p class="text1">リオレウスプライムが「銀火竜のマトリクス」の影響で銀色に変化した姿。<br>
+  体表は銀色の金属のような物質に変化したほか、<br>
+  エナジーアックスの刃先は青紫色の炎を帯びるようになった。<br>
+  まだ、通常のリオレウスを凌駕するほどの力を持つ<br>
+  銀色のリオレウスが確認されており、同じようにシルバーレオリウスプライムも<br>
+  攻撃性能・防御性能が大きく向上している。<br>
+  ただし、銀火竜のマトリクスは精神面への影響も大きく、<br>
+  モンスター特有の凶暴性も見られるようになった。</p>
+   
+  <dl class="specBox">
+    <dt><div class=titleImg><img src="img/product_title_weapon.png" alt=""></div>
+      
+    <p>リオレウスプライムの焔斧エナジーアックスが、銀火竜のマトリクスによって変化した姿。<br>
+    焔斧エナジーアックスでは赤熱していた刃先だが、より高温の青紫色の炎をまとうようになり、攻撃性能も格段に向上している。<br>
+    焔斧エナジーアックス同様、剣モードから斧モードに変形することができる。
+    </p>
+    </dt>
+    <dd><img src="img/product_weapon_img.png" alt=""></dd>
+  </dl>
+  <br style="clear:both;">
+        
+  <dl class="specBox num2">
+    <dt><div class=titleImg><img src="img/product_title_accessory.png" alt=""></div>
+      <p>リオレウスへのトランスフォームを続けた結果、徐々に超ロボット生命体の特性とリオレウスの特性が融合していき、「火竜のマトリクス」が銀色に変化したもの。<br>
+      このマトリクスを手にしたものは、白銀に輝く強固な体表に包まれ、青い業火を操ることができるとされている。しかも所有者は精神にも影響を及ぼすとされ、より攻撃的な性格へ変化するとも言われている。
+      </p>
+    </dt>
+    <dd><img src="img/product_accessory_img.png" alt=""></dd>
+  </dl>
+</section>
+    
+    
+<section id="info">
+    
+  <div class="pict"><img src="img/info_img.png" alt=""></div>
+  <div class="text"><img src="img/info_text.png" alt=""></div>
+     
+  <div class="btnBuy"><a href="https://takaratomymall.jp/shop/g/g4904810948575/" target="_blank"><img src="../../_image/btn_buy.png" alt=""></a></div>
+      
+  <div class="banner"><a href="https://tf.takaratomy.co.jp/products/tf_collaboration" target="_blank"><img src="img/banner_tf.png" alt=""></a></div>
+        
+  <p class="caution">「トランスフォーマー」、 「TRANSFORMERS」 は株式会社タカラトミーの商標登録です。<br>
+  ※背景、エフェクトは情景を表すイメージです　※映像の商品は開発中の設計データを使用したCGです<br>
+  ※最終仕様と形状、カラーリングが異なる場合があります</p>
+      
+  <p class="copy">©︎CAPCOM    ©︎ T O M Y</p>
+    
+</section>
+    
+
+
+
+      
+<!--------------------------------------------------------------------------------- 
+ここまで
+---------------------------------------------------------------------------------->
+
+
+  </div>
+
+    <!-- フッタエリア -->
+    <!--#include virtual="/include/footer002.shtml" -->
+    <!-- //フッタエリア -->
+
+
+    <script src="../../_common/js/jquery-2.1.0.min.js"></script>
+        <script src="../../_common/js/jquery.cookie.js"></script>
+    <script src="../../_common/js/access_check.js"></script>
+
+</body>
+</html>

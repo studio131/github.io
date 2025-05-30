@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/*----------------------------------------------------------------------------*/
+
+.movePoint{width:100%; margin:0 auto;}
+.movePoint h2.move{width:60%;margin:0 auto;}
+.movePoint h2.redesign{width:85%;margin:0 auto;}
+.movePoint h2 img{ margin:5vw auto;display: block;}
+
+.movePoint ul{display:flex; flex-wrap:wrap;width:70%;margin:0 auto;}
+.movePoint ul li{width:100%;margin:2% auto 10%;position: relative;}
+.movePoint ul li:first-child:before{content:""; position:absolute;left:-3vw;top:-5vw;;background:url(_image/movie_point1.png)no-repeat; background-size:100% auto; width:14vw;height:auto;padding-top:20vw}
+
+
+.movePoint ul li:nth-child(2):before{content:""; position:absolute;left:-2vw;top:-5vw;;background:url(_image/movie_point2.png)no-repeat; background-size:100% auto; width:14vw;height:auto;padding-top:20vw}
+.movePoint ul li:nth-child(3):before{content:""; position:absolute;left:-2vw;top:-5vw;;background:url(_image/movie_point3.png)no-repeat; background-size:100% auto; width:14vw;height:auto;padding-top:20vw}
+.movePoint ul li:nth-child(4):before{content:""; position:absolute;left:-2vw;top:-5vw;;background:url(_image/movie_point4.png)no-repeat; background-size:100% auto; width:14vw;height:auto;padding-top:20vw}
+.movePoint ul li:nth-child(5):before{content:""; position:absolute;left:-2vw;top:-5vw;;background:url(_image/movie_point5.png)no-repeat; background-size:100% auto; width:14vw;height:auto;padding-top:20vw}
+.movePoint ul li:nth-child(6):before{content:""; position:absolute;left:-2vw;top:-5vw;;background:url(_image/movie_point6.png)no-repeat; background-size:100% auto; width:14vw;height:auto;padding-top:20vw}
+
+.movePoint ul li img{border: 2px solid #00b1bf;}
+    .movePoint ul li p{margin-top:3vw;font-size:3vw;font-weight:500;}
+
+/* デザインC(PC) */
+@media screen and (min-width: 1025px) {
+/* PC用レイアウト 1,025px以上の範囲に収めるデザインはこの中に記述 */
+    
+.movePoint{width:980px; margin:0 auto;}
+.movePoint h2 img{ margin:30px auto;display: block;}
+    
+.movePoint ul{display:flex; flex-wrap:wrap;width:100%;}
+.movePoint ul li{width:46%;margin:2% 2% 4%;position: relative;}
+.movePoint ul li:first-child:before{content:""; position:absolute;left:-20px;top:-20px;;background:url(_image/movie_point1.png)no-repeat;width:122px;height:106px;}
+.movePoint ul li:nth-child(2):before{content:""; position:absolute;left:-20px;top:-20px;;background:url(_image/movie_point2.png)no-repeat;width:122px;height:106px;}
+.movePoint ul li:nth-child(3):before{content:""; position:absolute;left:-20px;top:-20px;;background:url(_image/movie_point3.png)no-repeat;width:122px;height:106px;}
+.movePoint ul li:nth-child(4):before{content:""; position:absolute;left:-20px;top:-20px;;background:url(_image/movie_point4.png)no-repeat;width:122px;height:106px;}
+.movePoint ul li:nth-child(5):before{content:""; position:absolute;left:-20px;top:-20px;;background:url(_image/movie_point5.png)no-repeat;width:122px;height:106px;}
+.movePoint ul li:nth-child(6):before{content:""; position:absolute;left:-20px;top:-20px;;background:url(_image/movie_point6.png)no-repeat;width:122px;height:106px;}
+   
+.movePoint ul li p{margin-top:10px;font-size:20px;font-weight:500;}
+    
+}

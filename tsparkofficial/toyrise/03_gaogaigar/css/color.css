@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+
+
+
+/**********************************************
+                   カ ラ ー      
+***********************************************/
+
+
+.bg-gray{ background: #eee;}
+.text-Red{color:#ff382e;}
+.text-Pink{color:#ff2e58;}
+.text-DeepPink{color:#ff1493;}
+.text-Hotpink {color:#ff69b4;}
+.text-Violet {color:#ee82ee;}
+.text-blueviolet {color:#8a2be2 ;}
+.text-Purp{color:#b33de6;}
+.text-DeepPurple{color:#801fff;}
+.text-darkviolet{color:#9400d3;}
+.text-plum{color:#dda0dd;}
+.text-orchid{color:#da70d6;}
+.text-Indigo{color:#3e5ed0;}
+.text-Blue{color:#007bff;}
+.text-LightBlue{color:#009efa;}
+.text-Cyan{color:#20c4d9;}
+.text-Teal{color:#2abba8;}
+.text-Green{color:#4ad962;}
+.text-LightGreen{color:#79de2b;}
+.text-Lime{color:#bee22c;}
+.text-Yellow{color:#f7e226;}
+.text-Amber{color:#f6b213;}
+.text-Orange{color:#ff9500;}
+.text-DeepOrange{color:#ff4f1a;}
+.text-Brown{color:#b07663;}
+.text-Grey{color:#9e9e9e;}
+.text-LightGrey{color:#efefef;}
+.text-BlueGrey{color:#6e96aa;}
+.text-black{color:#000000;}
+.text-white{color:#ffffff;}
+
+.bg-Red{background-color:#ff382e;}
+.bg-Pink{background-color:#ff2e58;}
+.bg-DeepPink{background-color:#ff1493;}
+.bg-Hotpink {background-color:#ff69b4;}
+.bg-Violet {background-color:#ee82ee;}
+.bg-blueviolet {background-color:#8a2be2 ;}
+.bg-plum{background-color:#dda0dd;}
+.bg-orchid{background-color:#da70d6;}
+.bg-Purp{background-color:#b33de6;}
+.bg-darkviolet{background-color:#9400d3;}
+.bg-DeepPurple{background-color:#801fff;}
+.bg-Indigo{background-color:#3e5ed0;}
+.bg-Blue{background-color:#007bff;}
+.bg-LightBlue{background-color:#009efa;}
+.bg-Cyan{background-color:#20c4d9;}
+.bg-Teal{background-color:#2abba8;}
+.bg-Green{background-color:#4ad962;}
+.bg-LightGreen{background-color:#79de2b;}
+.bg-Lime{background-color:#bee22c;}
+.bg-Yellow{background-color:#f7e226;}
+.bg-Amber{background-color:#f6b213;}
+.bg-Orange{background-color:#ff9500;}
+.bg-DeepOrange{background-color:#ff4f1a;}
+.bg-Brown{background-color:#b07663;}
+.bg-Grey{background-color:#9e9e9e;}
+.bg-LightGrey{background-color:#efefef;}
+.bg-BlueGrey{background-color:#6e96aa;}
+.bg-Black{background-color:#000000;}
+.bg-White{background-color:#ffffff;}
+

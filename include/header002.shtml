@@ -1,0 +1,114 @@
+<div class="headMainWrap01">
+	<header class="headMain01" id="pageTop">
+		<div class="inner01">
+			<div class="headerWrap01">
+				<h1 class="logo01"><a href="/"><img src="/common/2021/img/common_logo01.svg" alt="TAKARATOMY"></a></h1>
+				<div class="globalNavArea01">
+					<nav class="globalNav01">
+						<ul>
+							<li class="navi01"><a href="/"><span>トップページ</span></a></li>
+							<li class="navi02"><a href="/products/"><span>商品情報</span></a></li>
+							<li class="navi03"><a href="/event/"><span>イベント<span class="font01">・</span><br>キャンペーン</span></a></li>
+							<li class="navi04"><a href="/company/"><span>会社情報</span></a>
+								<div class="globalChildArea01">
+									<div class="inner01">
+										<ul class="headerList01">
+											<li>
+												<p class="image01"><a href="/company/"><img src="/common/2021/img/common_img01.png" alt="会社情報"></a></p>
+												<p class="text01"><a href="/company/">会社情報</a></p>
+											</li>
+											<li>
+												<p class="image01"><a href="/company/recruit/index_select.html"><img src="/common/2021/img/common_img02.png" alt="採用情報"></a></p>
+												<p class="text01"><a href="/company/recruit/index_select.html">採用情報</a></p>
+											</li>
+											<li>
+												<p class="image01"><a href="/company/csr/"><img src="/common/2021/img/common_img03.png" alt="CSR"></a></p>
+												<p class="text01"><a href="/company/csr/">サステナビリティ</a></p>
+											</li>
+										</ul>
+										<ul class="headerList02">
+											<li><a href="/company/social_contributions/">社会貢献活動</a></li>
+											<li><a href="/eco/">エコトイ</a></li>
+											<li><a href="/products/kyouyu/">共遊玩具</a></li>
+											<li><a href="/business/">法人のお客様</a></li>
+											<li><a href="/shop/">通販サイト・店舗のご紹介</a></li>
+										</ul>
+									<!-- /inner01--></div>
+								<!-- /globalChildArea01--></div>
+							</li>
+							<li class="navi05"><a href="/ir/"><span>投資家情報</span></a></li>
+							<li class="navi07"><a href="/company/csr/"><span>サステナビリティ</span></a></li>
+							<li class="navi06"><a href="/support/"><span>お客様相談室</span></a>
+								<div class="globalChildArea01">
+									<div class="inner01">
+										<ul class="headerList01">
+											<li>
+												<p class="image01"><a href="/support/"><img src="/common/2021/img/common_img04.png" alt="お客様相談室"></a></p>
+												<p class="text01"><a href="/support/">お客様相談室</a></p>
+											</li>
+											<li>
+												<p class="image01"><a href="https://faq.takaratomy.co.jp/Default.aspx?dispNodeId=0"><img src="/common/2021/img/common_img05.png" alt="よくあるご質問 / お問い合わせ"></a></p>
+												<p class="text01"><a href="https://faq.takaratomy.co.jp/Default.aspx?dispNodeId=0">よくあるご質問 / お問い合わせ</a></p>
+											</li>
+											<li>
+												<p class="image01"><a href="/support/important.html"><img src="/common/2021/img/common_img06.png" alt="お客様へのお知らせ"></a></p>
+												<p class="text01"><a href="/support/important.html">お客様へのお知らせ</a></p>
+											</li>
+											<li>
+												<p class="image01"><a href="/support/manual/"><img src="/common/2021/img/common_img07.png" alt="取扱説明書"></a></p>
+												<p class="text01"><a href="/support/manual/">取扱説明書</a></p>
+											</li>
+										</ul>
+										<ul class="headerList02">
+											<li><a href="/support/denchi.html">電池の正しい使い方</a></li>
+											<li><a href="/shop/">製品、部品の購入</a></li>
+											<li><a href="/support/syuri.html">修理のご案内</a></li>
+											<li><a href="/support/contact.html">その他連絡先</a></li>
+										</ul>
+									<!-- /inner01--></div>
+								<!-- /globalChildArea01--></div>
+							</li>
+						</ul>
+					<!-- /globalNav01--></nav>
+					<div class="commonFrame01">
+						<div class="inner01">
+							<div class="commonFrameWrap01">
+								<ul class="commonSnsList01">
+									<li><a href="https://www.youtube.com/takaratomychannel" target="_blank" rel="noopener"><img src="/common/2021/img/common_icon05.svg" alt="youtube"></a></li>
+									<li><a href="https://twitter.com/takaratomytoys" target="_blank" rel="noopener"><img src="/common/2021/img/common_icon20.svg" alt="X"></a></li>
+									<li><a href="https://www.instagram.com/takaratomytoys/" target="_blank" rel="noopener"><img src="/common/2021/img/common_icon19.svg" alt="Instagram"></a></li>
+									<li><a href="https://www.facebook.com/takaratomytoys" target="_blank" rel="noopener"><img src="/common/2021/img/common_icon21.svg" alt="facebook"></a></li>
+									<li><a href="/lineofficial/"><img src="/common/2021/img/common_icon13.svg" alt="LINE"></a></li>
+								</ul>
+								<p class="text01"><a href="/sns/">タカラトミー公式SNS一覧</a></p>
+							<!-- /commonFrameWrap01 --></div>
+							<p class="banner01"><a href="https://takaratomymall.jp/shop/" target="_blank" rel="noopener"><img src="/common/2021/img/common_bnr01.png" alt="キミのだいすき、みつかる タカラトミーモール 公式ショッピングサイト"></a></p>
+						<!-- /inner01 --></div>
+					<!-- /commonFrame01 --></div>
+					<button class="closeButton01"><span class="inner01">とじる</span></button>
+				<!-- /globalNavArea01--></div>
+			<!-- /headerWrap01--></div>
+			<div class="headerWrap02">
+				<button class="headerSearchButton01"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.8 40.83" class="icon01"><path d="M27.49,4.72a16.1,16.1,0,1,0,0,22.77A16.1,16.1,0,0,0,27.49,4.72Zm-3.81,19a10.71,10.71,0,1,1,0-15.15A10.7,10.7,0,0,1,23.68,23.68ZM39.63,34,34,28.39a4,4,0,0,0-5.66,5.66l5.6,5.6A4,4,0,1,0,39.63,34Z"></path></svg><span class="font01">さがす</span></button>
+				<div class="headerFrame01">
+					<div class="inner01">
+						<p class="text01">キーワード<span class="font01">からさがす</span></p>
+						<form name="SS_searchForm" id="SS_searchForm" action="https://search.takaratomy.co.jp/search" method="get" enctype="application/x-www-form-urlencoded" class="serchArea01">
+							<input type="hidden" name="site" value="HLQCWXGN">
+							<input type="hidden" name="charset" value="UTF-8">
+							<input type="hidden" name="design" value="1">
+							<input type="text" name="query" value="" id="SS_searchQuery" class="searchText01" autocomplete="off">
+							<button type="submit" name="imageField" value="さがす" id="SS_searchSubmit" class="searchButton01"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.8 40.83" class="icon01"><path d="M27.49,4.72a16.1,16.1,0,1,0,0,22.77A16.1,16.1,0,0,0,27.49,4.72Zm-3.81,19a10.71,10.71,0,1,1,0-15.15A10.7,10.7,0,0,1,23.68,23.68ZM39.63,34,34,28.39a4,4,0,0,0-5.66,5.66l5.6,5.6A4,4,0,1,0,39.63,34Z"></path></svg></button>
+						</form>
+						<button class="closeButton01"><span class="inner01">とじる</span></button>
+					<!-- /inner01 --></div>
+				<!-- /headerFrame01 --></div>
+				<div class="headerCol01">
+					<p class="button01"><a href="/english/"><img src="/common/2021/img/common_icon11.svg" alt="English" class="icon01"><span class="font01">English</span></a></p>
+					<p class="button02"><a href="https://takaratomymall.jp/shop/?from=t2hed" target="_blank" rel="noopener"><img src="/common/2021/img/common_bnr13.svg" alt="キミのだいすき、みつかる タカラトミーモール 公式ショッピングサイト" class="icon01"></a></p>
+				<!-- /headerCol01--></div>
+				<button class="headerButton01"><span class="inner01"><span class="inner02">メニュー</span></span></button>
+			<!-- /headerWrap02--></div>
+		<!-- /inner01 --></div>
+	<!-- /headMain01 --></header>
+<!-- /headMainWrap01--></div>

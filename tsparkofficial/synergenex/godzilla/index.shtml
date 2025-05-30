@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>
+      TRANSFORMERS ×
+      GODZILLA「ゴジラ」｜SYNERGENEX/シナジネクス｜T-SPARK公式サイト
+    </title>
+    <meta
+      name="Description"
+      content="ゴジラ70周年、トランスフォーマー40周年を記念し、「ゴジラ」「トランスフォーマー」進撃開始！"
+    />
+    <!-- ogp -->
+    <meta property="og:site_name" content="T-SPARK公式サイト｜タカラトミー" />
+    <meta
+      property="og:url"
+      content="https://www.takaratomy.co.jp/products/tsparkofficial/synergenex/godzilla/"
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:title"
+      content="TRANSFORMERS × GODZILLA「ゴジラ」｜SYNERGENEX/シナジネクス"
+    />
+    <meta
+      property="og:description"
+      content="ゴジラ70周年、トランスフォーマー40周年を記念し、「ゴジラ」「トランスフォーマー」進撃開始！"
+    />
+    <!-- twittercard -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:description"
+      content="ゴジラ70周年、トランスフォーマー40周年を記念し、「ゴジラ」「トランスフォーマー」進撃開始！"
+    />
+    <meta
+      property="og:image"
+      content="https://www.takaratomy.co.jp/products/tsparkofficial/synergenex/godzilla/TFGZ_banner1_2.jpg"
+    />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, user-scalable=yes"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/common/css/cmn_layout.css"
+      media="all"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/common/css/cmn_style.css"
+      media="all"
+    />
+    <script src="/common/js/jquery.1.11.2.js"></script>
+    <script type="text/javascript" src="/common/js/common2.js"></script>
+    <!--[if lt IE 9]>
+      <script src="/common/js/html5_ie.js"></script>
+    <![endif]-->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="../../_common/css/default.css"
+    />
+    <link rel="stylesheet" type="text/css" href="../../style.css?ver0416" />
+
+    <link rel="stylesheet" type="text/css" media="all" href="css/style.css" />
+    <link rel="stylesheet" href="https://use.typekit.net/unj5qxc.css" />
+
+    <script src="https://j.wovn.io/1" data-wovnio="key=2ATvhU" async></script>
+
+    <script>
+      (function (d) {
+        var config = {
+            kitId: "chc0say",
+            scriptTimeout: 3000,
+            async: true,
+          },
+          h = d.documentElement,
+          t = setTimeout(function () {
+            h.className =
+              h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive";
+          }, config.scriptTimeout),
+          tk = d.createElement("script"),
+          f = false,
+          s = d.getElementsByTagName("script")[0],
+          a;
+        h.className += " wf-loading";
+        tk.src = "https://use.typekit.net/" + config.kitId + ".js";
+        tk.async = true;
+        tk.onload = tk.onreadystatechange = function () {
+          a = this.readyState;
+          if (f || (a && a != "complete" && a != "loaded")) return;
+          f = true;
+          clearTimeout(t);
+          try {
+            Typekit.load(config);
+          } catch (e) {}
+        };
+        s.parentNode.insertBefore(tk, s);
+      })(document);
+    </script>
+  </head>
+
+  <body id="gDef" class="lDef">
+    <!--<div id="loader-bg">
+      <div id="loader"><img src="../../_image/cmn_loading.png" srcset="../_image/cmn_loading@2x.png 2x" alt=""></div>
+    </div>-->
+
+    <!-- ヘッダエリア -->
+    <!--#include virtual="/include/header002.shtml" -->
+    <!-- //ヘッダエリア -->
+    <div id="t-spark_top">
+      <!--#include virtual="../../parts_nav.shtml" -->
+
+      <section class="mv" class="maxImg">
+        <picture class="maxImg">
+          <img src="img/KV01.png" alt="" />
+        </picture>
+      </section>
+
+      <section id="lead">
+        <img class="lead-T" src="img/lead-transformers.png" alt=""/>
+        <img class="lead-G" src="img/lead-godzilla.png" alt="" />
+        <div class="text1-logo"><img src="img/lead1.png" alt="" /></div>
+
+        <div class="lead-story">
+          <table>
+            <tr>
+              <th><img src="img/lead-story.png" alt=""/></th>
+              <th>
+                <p class="text1">
+                  2024年、平和を保っていた地球に空間移動装置「スペースブリッジ」を使って破壊大帝「メガトロン」が地球に襲来。それを感知して最強の怪獣「ゴジラ」が出現。地球最強の力を求めたメガトロンはゴジラをスキャンして、その力を得た「メガトロン
+                  TYPE
+                  ゴジラ」として生まれ変わってしまい、最強の座をかけて2体の壮絶な戦いが始まり、地球に滅亡の危機が訪れる。<br />
+                  異変を察知した総司令官「オプティマスプライム」はメガトロンを止めるために立ち向かう。しかしゴジラの力を得て暴走していたメガトロンとそのオリジナルであるゴジラの2体に対して、苦戦を強いられてしまう。<br />
+                  起死回生をかけて、オプティマスは宇宙の英知が詰まった「マトリクス」の力を開放。英知の中から異なる宇宙の対ゴジラ兵器である「３式機龍」のデータを発見。スペースブリッジとマトリクスをリンクさせることで機龍を召喚、同時に自らの姿も機龍のデータを反映した「オプティマスプライム
+                  TYPE
+                  ３式機龍」にアップデート。ゴジラとメガトロンの戦いを止め、地球を守るため機龍・オプティマスは共に立ち上がる。<br />
+                  果たして勝者となるのは誰か。そして、地球の運命は…？
+                </p>
+              </th>
+            </tr>
+          </table>
+        </div>
+      </section>
+
+      <section id="movie">
+        <div class="movie-logo"><img src="img/movie.png" alt=""/></div>
+        <div class="mv">
+          <div class="youtube">
+            <iframe
+              width="800"
+              height="450"
+              class="box"
+              src="https://www.youtube.com/embed/QEyJW2KlRrQ"
+              frameborder="0"
+              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+          </div>
+        </div>
+      </section>
+
+      <section id="product">
+        <div class="product-no1">
+            <div class="product-logo"><img src="img/product-text1.png" alt=""/></div>
+            <div class="product-text"><img src="img/product-text2.png" alt=""/></div>
+            <div class="product-red1-left"><img src="img/product-red1-left.png" alt=""/></div>
+            <div class="product-red1-right"><img src="img/product-red1-right.png" alt=""/></div>
+
+            <div class="bgchara"><img src="img/product-G1.png" alt="" /></div>
+
+            <div class="product1"><img src="img/PRODUCT01-2.png" alt=""/></div>
+            <dl class="specBox">
+            <dt>
+                <p>
+                ゴジラの力を得たメガトロンと戦うため、特生自衛隊の協力を得て、アップデートされたオプティマスプライムの新たな姿。３式機龍の設計データをスキャンすることで、対ゴジラ武装を再現・搭載している。<br />
+                メインウェポンとして、メーサーブレードとメーサーアックスを装備。２つを連結することで、強力な「ツインメーサー・ブレード」となる胸部には「3式マトリクス」を装備。機龍の設計データが収められており、このデータから再現することで、絶対零度砲「アブソリュート・ゼロ」を発射することが可能。<br />
+                ビークルモードは特生自衛隊の車両をスキャンしており、高速での陸上移動が可能。機龍と共に迅速な現場への出動が可能となっている。<br />
+                後部には、整備基地になるトレーラーを牽引しており、機龍とオプティマス共に現地での修理が可能となっている。
+                </p>
+            </dt>
+            <dd><img src="img/product-text2_1.png" alt="" /></dd>
+            </dl>
+            <br style="clear: both" />
+        </div>
+        <div class="product-no2">
+            <div class="product-text"><img src="img/product-text3.png" alt=""/></div>
+            <div class="product-red2-left"><img src="img/product-red2-left.png" alt=""/></div>
+            <div class="product-red2-right"><img src="img/product-red2-right.png" alt=""/></div>
+
+            <div class="bgchara"><img src="img/product-G2.png" alt="" /></div>
+
+            <div class="product1"><img src="img/PRODUCT02-2.png" alt=""/></div>
+
+            <dl class="specBox num2">
+            <dt>
+                <p>
+                強大な力を求めて、地上最強の生物「ゴジラ」の力を手に入れたメガトロンの新たな姿。<br />
+                ゴジラの細胞からDNAをスキャンすることで、ゴジラの強力なエネルギーや肉体を再現している。<br />
+                メインウェポン融合カノン砲はゴジラのエネルギーを最大限に活かすために砲塔が２連に増えた「２連装Gカノン砲」へと強化。ゴジラの熱線に勝るとも劣らない破壊力を獲得。<br />
+                また新たな変形としてゴジラに酷似した「ビーストモード」を獲得。<br />
+                首に「融合熱線回路」を搭載し、ゴジラと同様の熱線を発射が可能となっている。装甲は黒く染まり、ゴジラの持つ異様な防御力をも獲得しており、攻防ともに隙がない。<br />
+                だが、ゴジラにしか制御できない「ゴジラ細胞」の力を取り込んだことで、破壊衝動にとりつかれ始めており、力と引き換えに暴走のリスクをもった姿となっているようだ。
+                </p>
+            </dt>
+            <dd><img src="img/product-text3_1.png" alt="" /></dd>
+            </dl>
+        </div>
+      </section>
+
+      <section id="info">
+        <div class="banner">
+        <div class="pict"><img src="img/godzilla-logo_1.png" alt="" /></div>
+        </div>
+
+        <div class="btnBuy">
+          <a
+            href="https://takaratomymall.jp/shop/c/cTSTF/"
+            target="_blank">
+            <img src="../../_image/btn_buy.png" alt=""/></a>
+        </div>
+
+        <div class="banner">
+          <a href="https://tf.takaratomy.co.jp" target="_blank"
+            ><img src="img/transformers-logo.png" alt=""
+          /></a>
+        </div>
+
+        <p class="caution">
+          「トランスフォーマー」、 「TRANSFORMERS」
+          は株式会社タカラトミーの商標登録です。<br />
+          ※背景、エフェクトは情景を表すイメージです　※映像の商品は開発中の設計データを使用したCGです<br />
+          ※最終仕様と形状、カラーリングが異なる場合があります
+        </p>
+
+        <p class="copy">TM & © TOHO CO., LTD.      ©︎ T O M Y</p>
+      </section>
+
+      <!--------------------------------------------------------------------------------- 
+ここまで
+---------------------------------------------------------------------------------->
+    </div>
+
+    <!-- フッタエリア -->
+    <!--#include virtual="/include/footer002.shtml" -->
+    <!-- //フッタエリア -->
+
+    <script src="../../_common/js/jquery-2.1.0.min.js"></script>
+    <script src="../../_common/js/jquery.cookie.js"></script>
+    <script src="../../_common/js/access_check.js"></script>
+  </body>
+</html>
+

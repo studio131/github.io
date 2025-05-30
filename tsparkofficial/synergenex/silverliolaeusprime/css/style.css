@@ -1,0 +1,123 @@
+@charset "utf-8";
+#t-spark_top .maxImg img{width:100%;}
+
+    /*LEAD*/
+#t-spark_top #lead{
+    width:100%;height:560px;position: relative;background: url("../img/bg_lead.jpg") center top no-repeat;padding-top:140px;  
+}
+#t-spark_top #lead:before{content: '';
+    width: 100%;height: 229px;background:url(../img/bg_line.png) center top;position: absolute;top:-115px;
+}
+#t-spark_top #lead:after{content: '';
+    width: 100%;height: 229px;background:url(../img/bg_line.png) center top;position: absolute;bottom:-115px;
+}
+
+
+#t-spark_top #lead .text1{width:747px;margin:0 auto;}
+
+    /*COLLABO*/
+#t-spark_top #collabo{width:100%;margin:0 auto 100px}
+
+    /*PRODUCT*/
+
+#t-spark_top #product{
+    width:100%;margin:0 auto;position: relative;
+  background-image: url(../img/bg_product.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 120px 0 180px;
+  margin: 0;
+    font-family: "dnp-shuei-nmincho-std", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+#t-spark_top #product h2{width:100%;height:72px; margin:0 auto;background: url("../img/h2_product.png") center top no-repeat;background-size:cover;font-size:0;}
+
+#t-spark_top #product .img1{width:100%;position: relative;z-index:2;}
+#t-spark_top #product .title{width:700px;margin:80px auto;position: relative;z-index:2;}
+#t-spark_top #product .text1{text-align:center;font-size:18px;line-height:40px;position: relative;z-index:2;}
+
+#t-spark_top #product dl.specBox{width:1040px; margin:80px auto 0;font-size:16px;line-height:25px;}
+#t-spark_top #product dl.specBox.num2{margin:0 auto;}  
+#t-spark_top #product dl.specBox dt{width:480px;float:left;}
+#t-spark_top #product dl.specBox dt img{margin-bottom:20px;}
+#t-spark_top #product dl.specBox dd{width:550px;height:300px;margin-left:530px;display:flex;justify-content: center;align-items: center;}
+
+
+    /*INFO*/
+
+#t-spark_top #info{width:100%;padding-top:100px;padding-bottom: 50px;background-image: url("../img/bg_info.png");background-image: url(../img/bg_info.png);background-size: cover;}
+
+#t-spark_top #info .pict{width:1040px;margin:0 auto;}
+#t-spark_top #info .text{width:700px;margin:60px auto;}
+#t-spark_top #info p.caution{width:640px;margin:0 auto;font-size:13px;}
+#t-spark_top #info p.copy{margin-top:100px;text-align: center; font-size:15px;}
+
+#t-spark_top #info .banner{width:400px;margin:0 auto 40px;}
+#t-spark_top #info .btnBuy{width:500px;margin:60px auto;}
+
+.img{
+  width: 100%;
+  margin: 0 auto;
+}
+
+@media screen and (max-width:667px) {
+    
+    /*LEAD*/
+#t-spark_top #lead{
+    width:100%;height:auto;background: url("../img/bg_lead.jpg") center top no-repeat;background-size: 180% auto; padding:8vw 0;
+}
+#t-spark_top #lead .text1{width:90%;margin:0 auto;}
+#t-spark_top #collabo {
+width: 100%;
+margin: 0 auto 7vw;
+}
+    /*MOVIE*/
+#t-spark_top #movie{
+    width:100%;height:auto;background: url("../img/bg_movie.jpg") center top no-repeat;background-size:150% auto;padding-top:6%;padding-bottom:6%;}
+#t-spark_top #movie div.mv{width:96%;margin:4vw auto;}
+#t-spark_top #movie h2{width:100%;height:35px;margin:0 auto;background: url("../img/h2_movie.png") center top no-repeat;background-size:240% auto;}
+     
+    
+/*PRODUCT*/
+#t-spark_top #product{
+    width:100%;margin:0 auto;position: relative;
+  background-image: url(../img/bg_product.png);
+  background-repeat: repeat-y;
+background-size: 320% auto;
+  background-position: center top;
+  background-attachment:  scroll !important;
+  -webkit-overflow-scrolling: touch;
+  padding: 7vw 0 7vw;
+  margin: 0;
+}
+    
+#t-spark_top #product h2{width:100%;height:35px;margin:0 auto;background: url("../img/h2_product.png") center top no-repeat;background-size:240% auto;}
+    
+#t-spark_top #product .img1{width:100%;margin:3vw auto;position: relative;z-index:2;}
+#t-spark_top #product .title{width:90%;margin:7vw auto;position: relative;z-index:2;}
+#t-spark_top #product .text1{width:90%;margin:0 auto; font-size:3.8vw;line-height:7vw;position: relative;z-index:2;}
+    
+#t-spark_top #product dl.specBox{width:90%; margin:7vw auto 0;font-size:3.4vw;}
+
+#t-spark_top #product dl.specBox dt{width:100%;float:none;}
+    #t-spark_top #product dl.specBox dt p{width:90%;margin:0 auto;}
+#t-spark_top #product dl.specBox dt img{margin-bottom:4vw;}
+    
+#t-spark_top #product dl.specBox dd{width:100%;height:auto;margin-left:0px;margin-top:4vw;display:flex;justify-content: center;align-items: center;}
+#t-spark_top #product dl.specBox.num2{margin:0 auto;}  
+#t-spark_top #product dl.specBox.num2 dd{width:60%;margin:4vw auto;}
+    /*INFO*/
+
+#t-spark_top #info{width:100%;background:#000;padding:7vw 0;background: url("../img/bg_info.png") center top no-repeat #000;background-size:140% auto;background-position:center 100px ;}
+
+#t-spark_top #info .pict{width:100%;margin:0 auto;}
+#t-spark_top #info .text{width:90%;margin:7vw auto;}
+#t-spark_top #info p.caution{width:90%;margin:0 auto;font-size:2.5vw;}
+#t-spark_top #info p.copy{margin-top:7vw;text-align: center; font-size:2.5vw;}
+
+#t-spark_top #info .banner{width:70%;margin:7vw auto;}
+#t-spark_top #info .btnBuy{width:80%;margin:0px auto 5vw;}
+    
+}

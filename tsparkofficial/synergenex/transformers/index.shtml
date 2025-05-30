@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>TRANSFORMERS × MONSTER HUNTER「リオレウスプライム」｜SYNERGENEX/シナジネクス｜T-SPARK公式サイト</title>
+    <meta name="Description" content="モンスターハンター20周年、トランスフォーマー40周年を記念し、夢のコラボレーションが実現！" />
+    <!-- ogp -->
+    <meta property="og:site_name" content="T-SPARK公式サイト｜タカラトミー" />
+    <meta property="og:url" content="https://www.takaratomy.co.jp/products/tsparkofficial/synergenex/monsterhunter/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="TRANSFORMERS × MONSTER HUNTER「リオレウスプライム」｜SYNERGENEX/シナジネクス" />
+    <meta property="og:description" content="モンスターハンター20周年、トランスフォーマー40周年を記念し、夢のコラボレーションが実現！" />
+    <!-- twittercard -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="モンスターハンター20周年、トランスフォーマー40周年を記念し、夢のコラボレーションが実現！" />
+    <meta property="og:image" content="https://www.takaratomy.co.jp/products/tsparkofficial/synergenex/monsterhunter/ogp.jpg" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+    <link rel="stylesheet" type="text/css" href="/common/css/cmn_layout.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="/common/css/cmn_style.css" media="all" />
+    <script src="/common/js/jquery.1.11.2.js"></script>
+    <script type="text/javascript" src="/common/js/common2.js"></script>
+    <!--[if lt IE 9]>
+      <script src="/common/js/html5_ie.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="../../_common/css/default.css" />
+    <link rel="stylesheet" type="text/css" href="../../style.css?ver0416" />
+
+<link rel="stylesheet" type="text/css" media="all" href="css/style.css" />
+    <link rel="stylesheet" href="https://use.typekit.net/unj5qxc.css" />
+
+    <script src="https://j.wovn.io/1" data-wovnio="key=2ATvhU" async></script>
+
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'chc0say',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+
+  </head>
+
+  <body id="gDef" class="lDef">
+    <!--<div id="loader-bg">
+      <div id="loader"><img src="../../_image/cmn_loading.png" srcset="../_image/cmn_loading@2x.png 2x" alt=""></div>
+    </div>-->
+
+    <!-- ヘッダエリア -->
+    <!--#include virtual="/include/header002.shtml" -->
+    <!-- //ヘッダエリア -->
+    <div id="t-spark_top">
+
+
+           <!--#include virtual="../../parts_nav.shtml" -->
+
+
+<section class="mv">
+  <img src="./img/synergenex.png" alt="synergenex.png" class="synergenex" />
+  <img src="./img/mv-bg.png" alt="mv-bg.png" class="mv-bg" />
+  <img src="./img/main-title.png" alt="TRANSFORMERS×ZOIDS×DIACLONE 夢のコラボレーションプロジェクト始動！" class="main-title" />
+</section>
+
+<section id="collabo" class="maxImg">
+  <img src="./img/synarge_3ip_main.png" alt="synarge_3ip_main.png" />
+  <div class="collabo-description">
+    <img src="./img/synarge_3ip_logo.png" alt="synarge_3ip_logo.png" />
+    <p class="m-5">
+      TRANSFORMERS × ZOIDS × DIACLONE<br />
+      COLLABORATION PROJECT
+    </p>
+    <p>
+      SYNERGENEX立ち上げを記念して T-SPARKを代表するIPである「TRANSFORMAERS」・「ZOIDS」・「DIACLONE」のコラボレーションプロジェクトが始動。
+    </p>
+  </div>
+</section>
+
+
+<section id="sketch">
+  <img src="./img/synarge_3ip_sketch.png" alt="synarge_3ip_sketch.png" />
+</section>
+
+<section id="coming-soon">
+  <img src="./img/coming-soon.png" alt="coming-soon.png" />
+</section>
+
+
+<!---------------------------------------------------------------------------------
+ここまで
+---------------------------------------------------------------------------------->
+
+
+  </div>
+
+    <!-- フッタエリア -->
+    <!--#include virtual="/include/footer002.shtml" -->
+    <!-- //フッタエリア -->
+
+
+    <script src="../../_common/js/jquery-2.1.0.min.js"></script>
+        <script src="../../_common/js/jquery.cookie.js"></script>
+    <script src="../../_common/js/access_check.js"></script>
+
+</body>
+</html>

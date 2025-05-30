@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>みまもりフィルター｜T-SPARK公式サイト｜タカラトミー</title>
+    <link rel="canonical" href="https://www.takaratomy.co.jp/products/wixoss/age_check/">
+    <meta property="og:locale" content="ja_JP">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="みまもりフィルター｜T-SPARK公式サイト｜タカラトミー">
+    <meta property="og:url" content="https://www.takaratomy.co.jp/products/tspartofficial/age_check/">
+    <meta property="og:site_name" content="T-SPARK公式サイト｜タカラトミー">
+    <meta name="twitter:card" content="summary">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+    <link rel="stylesheet" type="text/css" href="/common/css/cmn_layout.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="/common/css/cmn_style.css" media="all" />
+    <script src="/common/js/jquery.1.11.2.js"></script>
+    <script type="text/javascript" src="/common/js/common2.js"></script>
+    <!--[if lt IE 9]>
+      <script src="/common/js/html5_ie.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="../_common/css/default.css" />
+
+
+    <link rel="stylesheet" href="https://use.typekit.net/unj5qxc.css" />
+    
+<style>
+
+	#contents {
+		padding: 0;
+		width: 100%;
+	}
+	
+	#check_page .SP{
+		display: none;
+	}
+	
+	#check_page {
+		color: #1a1a1a;
+		font-family: "メイリオ",Meiryo,"ＭＳ Ｐゴシック","MS PGothic","ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN",Osaka,sans-serif;
+		font-size: 16px;
+		line-height: 1.5;
+	}
+	
+	#check_page .wrapper {
+		width: 1200px;
+		margin: 0 auto;
+	}
+	
+	#check_page .wrapper .box01{
+		padding: 30px;
+		text-align: center;
+	}
+	
+	#check_page .wrapper .box01 h3{
+		font-size: 32px;
+		font-weight: bold;
+		margin-bottom: 10px;
+		color:#009250;
+	}
+	
+	#check_page .wrapper .box01 .txt01{
+		margin-bottom: 10px;
+	}
+	
+	#check_page .wrapper .box01 .txt02{
+		font-size: 20px;
+		color: #333;
+		margin-bottom: 10px;
+		font-weight: bold;
+	}
+	
+	#check_page .wrapper .box01 .btn_area{
+		display: inline-flex;
+		flex-wrap: wrap;
+	}
+	
+	#check_page .wrapper .box01 .btn_area > li{
+		width: 200px;
+	}
+	
+	#check_page .wrapper .box01 .btn_area > li:first-child{
+		margin-right: 20px;
+	}
+	
+	#check_page .wrapper .box01 .btn_area > li a{
+		background: #fff;
+		border-radius: 10px;
+		border: 1px solid #b89300;
+		padding: 10px 10px 10px 10px;
+		text-decoration: none;
+		margin: 0 auto;
+		font-weight: bold;
+		color: #333;
+		position: relative;
+		width: 100%;
+		display: inline-block;
+		text-align: center;
+		transition: all .3s;
+	}
+	
+	#check_page .wrapper .box01 .btn_area > li a:hover{
+		color: #fff;
+		border: 1px solid #b89300;
+		background: #F0BA32;
+	}
+	
+	@media screen and (max-width: 639px) {
+		#check_page .SP{
+			display: block;
+		}
+		
+		#check_page .wrapper {
+			width: 100%;
+			box-sizing: border-box;
+			padding-bottom: 20px;
+		}
+		
+		#check_page .wrapper img{
+			width: 100%;
+		}
+		
+		#check_page .wrapper .box01 h3{
+			font-size: 20px;
+		}
+		
+		#check_page .wrapper .box01 .txt02{
+			font-size: 14px;
+			margin-bottom: 20px;
+		}
+		
+		#check_page .wrapper .box01 .btn_area{
+			display: block;
+		}
+		
+		#check_page .wrapper .box01 .btn_area > li{
+			margin-bottom: 15px;
+			width: 100%;
+		}
+	}
+	
+</style>
+    
+    <script src="https://j.wovn.io/1" data-wovnio="key=2ATvhU" async></script>
+  </head>
+
+  <body id="gDef" class="lDef">
+    <!--<div id="loader-bg">
+      <div id="loader"><img src="../_image/cmn_loading.png" srcset="../_image/cmn_loading@2x.png 2x" alt=""></div>
+    </div>-->
+
+    <!-- ヘッダエリア -->
+    <!--#include virtual="/include/header002.shtml" -->
+    <!-- //ヘッダエリア -->
+
+<div id="mainContainer">
+	<div id="contents">
+		<div id="check_page">
+			<div class="wrapper">
+				<div class="box01">
+					<p class="txt01"><img src="img.jpg" alt=""></p>
+					<h3>みまもりフィルター</h3>
+					<p class="txt02">ここからは<ruby>対象年齢<rp>(</rp><rt>たいしょうねんれい</rt><rp>)</rp></ruby>12<ruby>歳<rp>(</rp><rt>さい</rt><rp>)</rp></ruby><ruby>以上<rp>(</rp><rt>いじょう</rt><rp>)</rp></ruby>の<br class="SP"><ruby>内容<rp>(</rp><rt>ないよう</rt><rp>)</rp></ruby>を<ruby>含<rp>(</rp><rt>ふく</rt><rp>)</rp></ruby>みます<br>
+					あなたは15<ruby>歳<rp>(</rp><rt>さい</rt><rp>)</rp></ruby><ruby>以上<rp>(</rp><rt>いじょう</rt><rp>)</rp></ruby>ですか？</p>
+					<ul class="btn_area">
+						<li><a href="javascript:ageComfirm();">はい</a></li>
+						<li><a href="tsparkofficial/sparkfig/">いいえ</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+    <!-- フッタエリア -->
+    <!--#include virtual="/include/footer002.shtml" -->
+    <!-- //フッタエリア -->
+
+    <script src="../_common/js/jquery-2.1.0.min.js"></script>
+     <script src="../_common/js/jquery.cookie.js"></script>
+       <script src="../_common/js/function.js"></script>
+	     <script src="../_common/js/access_check.js"></script>
+
+
+ 
+ 
+<script>
+//　年齢確認用　////////////////////////////////////////////////////////////////////////////////////////
+
+function ageComfirm() {
+
+  //戻り先取得
+  var bkurl = location.search + location.hash;
+  bkurl = bkurl.replace('?back=','');
+  console.log(bkurl);
+
+  $.cookie('ageCheckNum', 'conf', { expires: 1, path:"/products/tsparkofficial/" });//開発環境
+  //ページ遷移(リファラー)
+  //location.href = document.referrer;
+  //ページ遷移
+  location.href = bkurl;
+}
+    </script>
+ 
+  </body>
+</html>
